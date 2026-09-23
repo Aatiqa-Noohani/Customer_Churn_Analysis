@@ -1,0 +1,1501 @@
+Customer_ID,Age,Gender,Region,Account_Creation_Date,Subscription_Plan,Monthly_Charges,Payment_Method,Auto_Renewal,Contract_Length,Average_Watch_Hours_Per_Week,Favorite_Genre,Devices_Registered,Login_Frequency_Per_Week,Download_For_Offline_Count,Customer_Support_Calls,Streaming_Quality_Issues,Days_Since_Last_Login,Churn_Status,Churn_Reason
+CUST_1001,45,Male,Asia Pacific,2025-12-28,Standard,13.82,Direct Debit,No,Monthly,4.7,Thriller,6,1,3,2,2,61,Active,Not Churned
+CUST_1002,51,Male,North America,2024-12-12,Premium,20.33,Direct Debit,Yes,Monthly,33.0,Anime,1,21,16,1,0,0,Active,Not Churned
+CUST_1003,18,Male,Europe,2022-08-09,Standard,14.81,Direct Debit,Yes,Monthly,7.0,Thriller,3,7,0,0,1,41,Active,Not Churned
+CUST_1004,30,Male,Latin America,2025-01-15,Standard,14.18,Digital Wallet,Yes,Monthly,6.3,Comedy,2,6,2,1,0,36,Active,Not Churned
+CUST_1005,45,Male,Latin America,2024-12-11,Basic,8.52,Digital Wallet,Yes,Annual,20.9,Anime,7,11,10,1,1,36,Active,Not Churned
+CUST_1006,32,Male,Europe,2024-02-20,Basic,7.88,Digital Wallet,Yes,Monthly,14.6,Thriller,3,9,6,3,0,40,Active,Not Churned
+CUST_1007,24,Female,Asia Pacific,2021-02-26,Basic,8.27,Carrier Billing,Yes,Monthly,15.9,Family,6,12,8,0,0,27,Active,Not Churned
+CUST_1008,18,Female,North America,2025-12-14,Premium,20.36,Direct Debit,No,Monthly,15.8,Action,7,13,5,1,0,38,Active,Not Churned
+CUST_1009,24,Male,North America,2023-10-21,Standard,13.1,Direct Debit,No,Monthly,9.2,Action,4,3,4,2,1,54,Churned,Technical issues
+CUST_1010,18,Female,Asia Pacific,2024-03-08,Standard,13.8,Credit Card,Yes,Monthly,11.2,Family,7,8,5,0,2,47,Churned,Low usage
+CUST_1011,35,Male,North America,2024-05-07,Basic,8.42,Credit Card,Yes,Monthly,6.8,Sci-Fi,5,6,1,0,3,66,Churned,Too expensive
+CUST_1012,44,Male,North America,2022-12-22,Premium,20.11,Credit Card,Yes,Annual,9.4,Family,6,9,6,1,3,55,Churned,Payment issues
+CUST_1013,20,Female,Latin America,2025-12-14,Premium,19.45,Credit Card,Yes,Annual,20.1,Thriller,3,16,6,1,1,29,Active,Not Churned
+CUST_1014,37,Female,Asia Pacific,2024-10-16,Basic,6.9,PayPal,No,Monthly,5.0,Thriller,6,6,3,1,0,40,Churned,Low usage
+CUST_1015,43,Female,Latin America,2025-08-01,Basic,7.83,Credit Card,Yes,Monthly,6.8,Comedy,2,4,7,0,1,50,Active,Not Churned
+CUST_1016,34,Male,Asia Pacific,2022-02-14,Basic,7.96,Digital Wallet,Yes,Monthly,10.0,Drama,7,4,6,3,1,44,Churned,Too expensive
+CUST_1017,18,Female,Latin America,2022-10-08,Basic,7.59,Carrier Billing,Yes,Monthly,11.8,Anime,2,8,7,0,1,42,Active,Not Churned
+CUST_1018,38,Male,Europe,2025-04-01,Standard,14.05,Credit Card,Yes,Monthly,7.2,Thriller,5,8,1,1,1,42,Active,Not Churned
+CUST_1019,33,Male,Europe,2025-06-27,Standard,14.22,Credit Card,Yes,Monthly,6.5,Documentary,1,9,6,2,0,37,Churned,Low usage
+CUST_1020,32,Male,Asia Pacific,2024-06-20,Basic,8.29,Carrier Billing,Yes,Monthly,13.8,Sci-Fi,3,12,9,2,2,44,Churned,Too expensive
+CUST_1021,28,Female,North America,2024-01-19,Standard,12.93,Carrier Billing,Yes,Annual,13.9,Documentary,6,12,5,1,1,21,Active,Not Churned
+CUST_1022,35,Male,Latin America,2025-03-20,Basic,7.4,Digital Wallet,Yes,Monthly,20.7,Documentary,3,16,8,1,0,30,Active,Not Churned
+CUST_1023,40,Female,Asia Pacific,2021-03-03,Basic,7.85,Digital Wallet,Yes,Monthly,11.8,Family,2,8,8,2,1,49,Active,Not Churned
+CUST_1024,60,Female,North America,2024-05-20,Standard,14.25,Digital Wallet,No,Monthly,15.9,Drama,4,12,11,0,0,24,Active,Not Churned
+CUST_1025,35,Male,Asia Pacific,2021-09-05,Standard,14.21,PayPal,Yes,Annual,9.4,Action,3,11,2,1,1,32,Active,Not Churned
+CUST_1026,51,Female,Middle East & Africa,2025-09-24,Premium,20.2,Credit Card,Yes,Monthly,11.0,Sci-Fi,7,7,3,2,0,45,Active,Not Churned
+CUST_1027,38,Female,North America,2022-05-12,Basic,7.82,Direct Debit,Yes,Monthly,5.9,Comedy,2,9,2,0,1,48,Active,Not Churned
+CUST_1028,33,Male,North America,2021-02-25,Standard,13.84,Credit Card,Yes,Annual,9.4,Family,4,7,0,1,2,47,Active,Not Churned
+CUST_1029,36,Male,Latin America,2022-04-04,Standard,13.66,Carrier Billing,No,Monthly,11.2,Action,1,12,5,1,2,35,Churned,Too expensive
+CUST_1030,21,Female,North America,2023-07-08,Basic,8.34,PayPal,No,Monthly,19.7,Family,7,11,11,0,0,28,Active,Not Churned
+CUST_1031,37,Male,North America,2024-08-05,Standard,13.58,Carrier Billing,Yes,Monthly,8.8,Family,1,9,1,3,1,56,Active,Not Churned
+CUST_1032,18,Female,Europe,2025-04-16,Basic,8.37,Credit Card,Yes,Monthly,28.4,Action,2,18,13,0,2,13,Active,Not Churned
+CUST_1033,25,Male,Asia Pacific,2025-02-02,Basic,8.08,PayPal,Yes,Monthly,15.1,Thriller,7,8,6,0,2,41,Churned,Switched to competitor
+CUST_1034,35,Male,Asia Pacific,2024-11-13,Premium,19.97,PayPal,Yes,Monthly,16.6,Sci-Fi,2,13,11,1,1,39,Active,Not Churned
+CUST_1035,47,Female,Asia Pacific,2024-12-15,Premium,19.69,Digital Wallet,Yes,Monthly,14.4,Thriller,1,13,5,2,3,37,Churned,Payment issues
+CUST_1036,50,Female,Middle East & Africa,2025-03-17,Premium,19.38,Credit Card,No,Monthly,13.4,Action,2,8,9,2,1,51,Active,Not Churned
+CUST_1037,31,Male,Latin America,2025-09-30,Basic,7.7,Digital Wallet,Yes,Monthly,8.5,Family,7,4,3,0,0,38,Churned,Technical issues
+CUST_1038,36,Female,Middle East & Africa,2022-07-11,Basic,7.84,Carrier Billing,Yes,Annual,5.6,Anime,5,5,4,0,2,47,Churned,Payment issues
+CUST_1039,45,Male,Asia Pacific,2025-05-02,Standard,12.92,Direct Debit,Yes,Monthly,9.0,Thriller,3,7,5,1,0,51,Active,Not Churned
+CUST_1040,19,Female,North America,2023-08-22,Standard,13.9,Direct Debit,Yes,Monthly,24.7,Documentary,5,19,11,0,1,5,Active,Not Churned
+CUST_1041,38,Female,Middle East & Africa,2025-10-24,Basic,8.41,Direct Debit,Yes,Annual,14.6,Sci-Fi,4,13,5,0,1,24,Active,Not Churned
+CUST_1042,25,Male,North America,2025-12-27,Standard,14.25,Credit Card,Yes,Annual,24.6,Drama,2,17,12,1,2,23,Active,Not Churned
+CUST_1043,32,Male,Latin America,2024-01-10,Basic,7.77,Credit Card,Yes,Annual,8.4,Drama,2,11,3,0,1,23,Active,Not Churned
+CUST_1044,29,Male,North America,2022-03-20,Premium,20.01,Carrier Billing,Yes,Monthly,9.7,Sci-Fi,7,8,3,0,1,35,Active,Not Churned
+CUST_1045,39,Male,Latin America,2023-03-03,Basic,7.74,Direct Debit,Yes,Annual,11.4,Thriller,4,8,8,2,0,40,Active,Not Churned
+CUST_1046,40,Male,Middle East & Africa,2024-08-03,Standard,14.06,Credit Card,No,Monthly,9.1,Action,7,4,5,2,1,53,Churned,Payment issues
+CUST_1047,44,Female,Europe,2024-07-31,Basic,8.68,Direct Debit,Yes,Monthly,12.5,Family,3,9,7,0,4,56,Churned,Lack of content
+CUST_1048,38,Male,Europe,2022-05-06,Standard,14.43,PayPal,Yes,Monthly,6.6,Thriller,1,5,2,0,1,58,Churned,Lack of content
+CUST_1049,36,Female,North America,2024-11-12,Standard,14.22,Credit Card,Yes,Annual,5.6,Comedy,5,7,2,0,1,34,Churned,Too expensive
+CUST_1050,54,Female,Asia Pacific,2025-09-21,Basic,7.77,PayPal,Yes,Monthly,13.4,Drama,3,11,6,1,0,30,Churned,Switched to competitor
+CUST_1051,18,Female,North America,2025-04-24,Premium,20.33,Credit Card,Yes,Monthly,26.5,Family,1,16,13,1,1,26,Active,Not Churned
+CUST_1052,53,Male,Asia Pacific,2022-08-18,Standard,13.23,Credit Card,Yes,Monthly,15.1,Action,1,12,8,1,2,46,Churned,Technical issues
+CUST_1053,31,Male,Europe,2022-02-12,Premium,19.88,PayPal,No,Monthly,17.5,Comedy,2,14,8,0,2,32,Active,Not Churned
+CUST_1054,40,Female,Europe,2021-11-23,Premium,20.25,Direct Debit,Yes,Annual,14.6,Action,4,14,5,1,0,24,Active,Not Churned
+CUST_1055,30,Male,Asia Pacific,2023-07-31,Standard,14.32,Credit Card,Yes,Monthly,13.6,Family,6,12,8,0,1,34,Active,Not Churned
+CUST_1056,26,Female,Asia Pacific,2023-08-07,Premium,20.29,PayPal,Yes,Monthly,8.4,Anime,2,9,4,1,0,40,Active,Not Churned
+CUST_1057,39,Male,North America,2024-04-14,Basic,8.12,Credit Card,Yes,Annual,7.7,Comedy,7,7,1,2,3,44,Active,Not Churned
+CUST_1058,45,Female,Latin America,2025-03-25,Basic,7.9,Credit Card,Yes,Monthly,19.6,Drama,6,15,5,0,1,22,Active,Not Churned
+CUST_1059,39,Female,Middle East & Africa,2025-12-19,Basic,8.23,Credit Card,Yes,Monthly,6.4,Comedy,4,8,3,1,1,52,Active,Not Churned
+CUST_1060,28,Female,Europe,2022-01-18,Basic,7.56,Credit Card,Yes,Annual,9.6,Action,2,5,3,2,1,48,Active,Not Churned
+CUST_1061,70,Male,North America,2023-10-11,Standard,13.61,Credit Card,Yes,Annual,20.9,Thriller,5,14,10,2,0,25,Active,Not Churned
+CUST_1062,47,Male,Latin America,2024-07-05,Basic,8.02,Carrier Billing,Yes,Annual,12.0,Sci-Fi,2,8,4,3,1,42,Churned,Low usage
+CUST_1063,44,Female,North America,2021-12-13,Premium,20.07,PayPal,Yes,Monthly,15.3,Documentary,5,12,7,2,0,10,Active,Not Churned
+CUST_1064,30,Male,North America,2021-09-29,Standard,13.17,Credit Card,No,Monthly,11.1,Drama,6,11,4,0,1,31,Active,Not Churned
+CUST_1065,27,Male,Asia Pacific,2024-07-08,Basic,8.19,Credit Card,Yes,Monthly,15.6,Sci-Fi,3,10,11,1,0,34,Active,Not Churned
+CUST_1066,31,Female,Europe,2022-01-31,Standard,14.34,Credit Card,Yes,Monthly,18.9,Drama,3,9,10,1,0,30,Churned,Technical issues
+CUST_1067,46,Female,North America,2025-09-12,Basic,7.96,Carrier Billing,Yes,Monthly,7.5,Thriller,6,5,6,1,1,38,Active,Not Churned
+CUST_1068,23,Male,Middle East & Africa,2021-06-03,Premium,21.06,PayPal,Yes,Monthly,8.7,Thriller,6,9,4,1,1,31,Active,Not Churned
+CUST_1069,22,Female,Europe,2025-03-31,Basic,7.68,Credit Card,Yes,Annual,4.4,Action,2,6,4,1,0,48,Active,Not Churned
+CUST_1070,40,Female,Middle East & Africa,2023-12-27,Premium,19.83,PayPal,Yes,Monthly,17.2,Action,3,14,8,2,1,43,Active,Not Churned
+CUST_1071,38,Male,North America,2023-04-21,Standard,13.81,PayPal,Yes,Monthly,14.9,Thriller,1,11,10,2,3,52,Churned,Lack of content
+CUST_1072,26,Female,Latin America,2025-09-19,Basic,7.96,Credit Card,No,Monthly,32.4,Action,5,20,14,0,0,0,Active,Not Churned
+CUST_1073,22,Female,Asia Pacific,2021-12-14,Basic,7.84,Direct Debit,Yes,Monthly,11.6,Sci-Fi,6,10,2,0,1,40,Active,Not Churned
+CUST_1074,50,Other,North America,2023-12-23,Premium,19.36,PayPal,Yes,Annual,13.6,Sci-Fi,7,9,2,1,3,39,Active,Not Churned
+CUST_1075,38,Male,Latin America,2021-12-22,Standard,13.74,Credit Card,Yes,Monthly,14.2,Drama,4,16,10,1,2,19,Active,Not Churned
+CUST_1076,19,Female,Middle East & Africa,2024-07-28,Standard,13.95,Direct Debit,Yes,Monthly,14.5,Anime,5,12,7,0,0,21,Active,Not Churned
+CUST_1077,20,Male,North America,2023-12-01,Standard,14.54,Direct Debit,Yes,Monthly,11.8,Sci-Fi,2,8,6,1,0,43,Active,Not Churned
+CUST_1078,30,Male,Latin America,2025-04-13,Basic,8.98,Direct Debit,Yes,Monthly,7.7,Sci-Fi,3,5,6,1,0,52,Churned,Low usage
+CUST_1079,42,Female,Europe,2022-01-02,Standard,14.59,PayPal,Yes,Monthly,12.8,Comedy,3,10,2,1,0,31,Active,Not Churned
+CUST_1080,41,Male,Latin America,2023-10-12,Basic,7.64,PayPal,No,Annual,11.1,Thriller,1,8,4,2,2,45,Active,Not Churned
+CUST_1081,46,Male,Latin America,2021-10-04,Premium,19.68,PayPal,Yes,Monthly,14.0,Action,3,13,6,0,1,29,Active,Not Churned
+CUST_1082,18,Male,North America,2021-08-09,Standard,13.92,Direct Debit,Yes,Monthly,17.9,Comedy,2,14,10,3,0,31,Active,Not Churned
+CUST_1083,36,Male,North America,2025-10-19,Basic,8.79,PayPal,Yes,Monthly,11.2,Drama,2,7,4,0,0,47,Churned,Too expensive
+CUST_1084,50,Female,Asia Pacific,2025-10-24,Basic,7.92,Credit Card,No,Annual,5.7,Thriller,4,9,0,1,0,24,Active,Not Churned
+CUST_1085,49,Male,Middle East & Africa,2021-03-02,Basic,7.39,Direct Debit,No,Annual,8.2,Drama,5,7,1,0,1,41,Churned,Lack of content
+CUST_1086,38,Female,Europe,2024-02-01,Basic,7.76,Direct Debit,Yes,Monthly,10.2,Thriller,7,10,7,0,1,25,Active,Not Churned
+CUST_1087,60,Male,Asia Pacific,2024-04-23,Standard,14.33,PayPal,Yes,Monthly,13.0,Anime,5,9,4,1,1,37,Active,Not Churned
+CUST_1088,41,Female,North America,2024-03-16,Standard,14.3,Digital Wallet,Yes,Annual,15.9,Thriller,5,13,6,0,0,21,Active,Not Churned
+CUST_1089,45,Female,Latin America,2021-03-16,Premium,19.9,Carrier Billing,Yes,Annual,14.5,Anime,7,12,8,0,0,25,Active,Not Churned
+CUST_1090,34,Male,Asia Pacific,2022-04-18,Standard,14.3,Credit Card,Yes,Annual,5.6,Sci-Fi,4,1,1,2,1,53,Churned,Lack of content
+CUST_1091,25,Female,Latin America,2023-10-22,Basic,6.97,Digital Wallet,Yes,Annual,6.1,Thriller,4,10,0,1,2,27,Churned,Switched to competitor
+CUST_1092,24,Female,Middle East & Africa,2022-02-20,Standard,14.04,PayPal,No,Monthly,16.3,Sci-Fi,4,15,4,1,1,6,Churned,Payment issues
+CUST_1093,36,Female,North America,2025-02-01,Standard,14.38,Direct Debit,Yes,Monthly,11.6,Thriller,1,8,5,0,2,40,Churned,Technical issues
+CUST_1094,32,Male,Europe,2024-10-20,Standard,13.62,Carrier Billing,No,Annual,13.5,Action,4,8,7,2,2,42,Churned,Payment issues
+CUST_1095,18,Female,Middle East & Africa,2025-08-25,Standard,13.61,PayPal,Yes,Annual,11.0,Sci-Fi,3,9,5,1,0,29,Active,Not Churned
+CUST_1096,23,Male,North America,2021-01-17,Standard,13.15,PayPal,Yes,Monthly,9.7,Thriller,6,8,5,0,0,46,Churned,Low usage
+CUST_1097,30,Male,Latin America,2025-03-14,Standard,14.71,Digital Wallet,Yes,Monthly,11.1,Thriller,1,10,2,0,0,23,Active,Not Churned
+CUST_1098,42,Female,Latin America,2025-11-14,Standard,13.67,Credit Card,Yes,Annual,13.6,Thriller,7,11,3,0,0,39,Active,Not Churned
+CUST_1099,34,Male,Asia Pacific,2025-01-02,Basic,8.1,Credit Card,Yes,Monthly,11.2,Anime,3,10,10,0,1,46,Churned,Too expensive
+CUST_1100,33,Female,North America,2025-04-04,Basic,8.26,PayPal,Yes,Annual,17.3,Family,7,16,10,1,3,11,Active,Not Churned
+CUST_1101,23,Female,North America,2023-12-19,Basic,8.67,Carrier Billing,Yes,Monthly,5.2,Drama,5,6,4,0,0,41,Churned,Payment issues
+CUST_1102,34,Female,Asia Pacific,2025-10-03,Standard,13.92,Digital Wallet,Yes,Monthly,7.1,Drama,2,4,2,2,1,49,Churned,Low usage
+CUST_1103,49,Male,North America,2024-02-13,Basic,7.75,Credit Card,Yes,Monthly,10.0,Action,5,11,4,0,0,4,Active,Not Churned
+CUST_1104,36,Other,Asia Pacific,2021-07-22,Standard,14.07,Carrier Billing,Yes,Monthly,15.9,Family,4,15,7,0,0,6,Active,Not Churned
+CUST_1105,18,Female,Asia Pacific,2025-04-16,Premium,20.57,Credit Card,Yes,Monthly,18.9,Comedy,2,21,11,2,0,13,Active,Not Churned
+CUST_1106,20,Male,Europe,2024-05-02,Basic,7.91,Digital Wallet,Yes,Monthly,8.4,Thriller,5,4,5,3,1,70,Active,Not Churned
+CUST_1107,40,Male,Europe,2022-04-17,Standard,13.56,Direct Debit,Yes,Annual,4.6,Action,1,5,3,0,1,53,Active,Not Churned
+CUST_1108,32,Female,Middle East & Africa,2024-02-04,Standard,13.3,Credit Card,Yes,Annual,10.0,Drama,4,3,4,2,0,54,Churned,Lack of content
+CUST_1109,33,Female,Asia Pacific,2023-05-29,Basic,7.44,Credit Card,No,Monthly,13.5,Anime,5,11,8,1,0,29,Active,Not Churned
+CUST_1110,27,Female,Asia Pacific,2023-08-23,Basic,8.38,Credit Card,No,Monthly,11.1,Sci-Fi,2,8,6,1,0,50,Active,Not Churned
+CUST_1111,40,Female,Middle East & Africa,2023-03-29,Basic,7.85,Credit Card,Yes,Monthly,14.7,Drama,3,15,7,2,0,39,Active,Not Churned
+CUST_1112,31,Male,Asia Pacific,2024-02-24,Basic,7.72,Direct Debit,No,Monthly,19.3,Sci-Fi,5,12,7,1,2,29,Active,Not Churned
+CUST_1113,32,Male,Middle East & Africa,2022-02-18,Premium,19.67,Credit Card,No,Monthly,13.3,Action,1,6,6,2,0,28,Churned,Payment issues
+CUST_1114,25,Male,North America,2025-06-27,Premium,20.03,Digital Wallet,No,Monthly,12.0,Sci-Fi,2,8,3,1,1,23,Churned,Switched to competitor
+CUST_1115,44,Female,Latin America,2025-08-26,Standard,13.88,Direct Debit,Yes,Monthly,8.7,Action,5,3,4,1,1,63,Active,Not Churned
+CUST_1116,32,Male,Europe,2025-03-14,Premium,19.87,Direct Debit,Yes,Monthly,8.6,Anime,3,9,4,1,1,37,Active,Not Churned
+CUST_1117,41,Male,Latin America,2022-05-16,Premium,20.6,Credit Card,Yes,Monthly,7.9,Action,4,2,0,0,1,55,Churned,Too expensive
+CUST_1118,21,Male,Middle East & Africa,2021-05-01,Basic,8.68,Digital Wallet,Yes,Annual,8.0,Sci-Fi,4,7,3,2,1,30,Active,Not Churned
+CUST_1119,53,Female,Europe,2025-11-11,Premium,19.27,Direct Debit,Yes,Monthly,21.0,Action,7,11,7,2,0,25,Active,Not Churned
+CUST_1120,48,Female,Europe,2022-08-30,Standard,14.14,Carrier Billing,Yes,Annual,16.9,Comedy,4,12,9,0,2,29,Active,Not Churned
+CUST_1121,18,Male,Latin America,2024-05-16,Premium,19.64,Digital Wallet,Yes,Annual,11.8,Comedy,6,13,7,1,1,29,Active,Not Churned
+CUST_1122,25,Female,North America,2025-08-12,Premium,19.88,Credit Card,Yes,Annual,31.5,Documentary,2,21,13,4,1,11,Active,Not Churned
+CUST_1123,39,Male,Latin America,2021-12-16,Basic,8.13,Credit Card,Yes,Annual,8.3,Anime,7,5,5,1,2,43,Churned,Too expensive
+CUST_1124,19,Male,North America,2023-03-31,Basic,7.89,Carrier Billing,Yes,Monthly,20.2,Family,7,15,10,1,1,16,Active,Not Churned
+CUST_1125,33,Male,Middle East & Africa,2024-05-01,Basic,8.09,Carrier Billing,No,Monthly,22.5,Family,7,16,10,1,3,36,Active,Not Churned
+CUST_1126,39,Male,Europe,2022-10-16,Standard,14.29,PayPal,Yes,Monthly,15.4,Documentary,6,13,10,0,0,24,Churned,Too expensive
+CUST_1127,32,Male,Asia Pacific,2023-02-23,Premium,20.12,PayPal,Yes,Annual,11.0,Thriller,7,6,3,0,0,45,Churned,Technical issues
+CUST_1128,40,Female,North America,2024-11-17,Premium,19.7,Direct Debit,Yes,Annual,12.3,Anime,3,11,8,1,1,26,Active,Not Churned
+CUST_1129,26,Female,Europe,2022-05-12,Basic,7.71,Credit Card,Yes,Annual,12.2,Documentary,3,3,5,0,0,24,Active,Not Churned
+CUST_1130,18,Female,Europe,2022-01-27,Standard,13.34,Credit Card,Yes,Monthly,7.1,Anime,5,5,2,1,1,44,Active,Not Churned
+CUST_1131,45,Female,Asia Pacific,2025-10-03,Standard,13.61,PayPal,No,Annual,8.3,Comedy,4,6,3,1,0,35,Active,Not Churned
+CUST_1132,45,Female,North America,2025-08-25,Basic,8.87,Credit Card,Yes,Monthly,6.6,Comedy,2,7,1,2,3,54,Churned,Lack of content
+CUST_1133,62,Male,Middle East & Africa,2024-02-07,Basic,7.63,PayPal,Yes,Monthly,14.4,Anime,6,11,8,1,0,56,Churned,Technical issues
+CUST_1134,18,Female,North America,2023-07-18,Basic,7.45,Digital Wallet,Yes,Annual,19.2,Documentary,6,11,5,1,0,35,Active,Not Churned
+CUST_1135,42,Female,Latin America,2022-04-15,Premium,20.13,Carrier Billing,Yes,Monthly,18.6,Comedy,4,11,11,0,0,49,Active,Not Churned
+CUST_1136,18,Female,Asia Pacific,2021-12-16,Basic,7.94,Digital Wallet,Yes,Annual,17.7,Action,6,13,6,2,0,31,Active,Not Churned
+CUST_1137,53,Male,Asia Pacific,2023-02-14,Standard,13.9,Carrier Billing,Yes,Monthly,9.2,Sci-Fi,4,7,6,0,1,36,Churned,Switched to competitor
+CUST_1138,39,Male,North America,2025-10-12,Standard,14.62,PayPal,Yes,Annual,11.0,Family,5,7,5,0,1,43,Active,Not Churned
+CUST_1139,24,Female,Asia Pacific,2021-05-29,Standard,14.24,Carrier Billing,Yes,Monthly,11.4,Drama,5,8,6,2,2,60,Active,Not Churned
+CUST_1140,43,Female,Asia Pacific,2021-09-13,Premium,19.75,Digital Wallet,Yes,Annual,16.9,Anime,5,14,6,0,3,44,Active,Not Churned
+CUST_1141,28,Male,North America,2024-11-13,Premium,19.8,Digital Wallet,Yes,Annual,11.1,Family,1,8,6,2,1,38,Active,Not Churned
+CUST_1142,37,Female,Europe,2024-05-07,Basic,7.76,Direct Debit,No,Annual,17.2,Comedy,1,12,8,0,0,27,Active,Not Churned
+CUST_1143,36,Male,North America,2025-01-06,Standard,14.38,Credit Card,Yes,Monthly,23.7,Thriller,6,21,8,1,0,0,Active,Not Churned
+CUST_1144,53,Female,North America,2024-04-24,Basic,7.85,Credit Card,No,Annual,14.2,Thriller,2,8,4,0,0,42,Active,Not Churned
+CUST_1145,54,Male,North America,2021-12-10,Basic,7.18,Credit Card,Yes,Monthly,9.3,Comedy,2,3,3,2,0,64,Churned,Lack of content
+CUST_1146,27,Male,North America,2022-11-08,Basic,7.97,Digital Wallet,Yes,Monthly,7.3,Action,5,8,2,0,0,35,Active,Not Churned
+CUST_1147,46,Male,Asia Pacific,2021-04-18,Standard,13.3,PayPal,Yes,Monthly,8.1,Drama,3,5,6,0,0,37,Active,Not Churned
+CUST_1148,38,Male,Europe,2022-08-18,Standard,14.97,Carrier Billing,Yes,Annual,5.6,Comedy,2,4,3,0,1,51,Active,Not Churned
+CUST_1149,18,Male,Europe,2024-01-09,Basic,7.56,PayPal,Yes,Monthly,10.0,Family,6,6,3,1,1,49,Churned,Technical issues
+CUST_1150,26,Female,North America,2024-06-30,Basic,7.92,Direct Debit,Yes,Annual,9.8,Drama,7,7,3,2,3,52,Active,Not Churned
+CUST_1151,60,Female,Asia Pacific,2021-01-25,Premium,20.11,Credit Card,No,Annual,19.7,Family,1,18,8,0,0,11,Active,Not Churned
+CUST_1152,38,Male,Europe,2021-10-10,Basic,7.86,Credit Card,Yes,Monthly,8.4,Drama,7,9,3,3,4,50,Active,Not Churned
+CUST_1153,45,Female,Asia Pacific,2025-05-06,Basic,7.86,PayPal,Yes,Annual,10.3,Family,7,10,2,2,1,45,Churned,Too expensive
+CUST_1154,32,Male,Latin America,2023-06-06,Standard,14.18,Direct Debit,No,Monthly,14.3,Drama,6,8,5,0,1,44,Active,Not Churned
+CUST_1155,28,Male,Asia Pacific,2023-07-27,Premium,20.68,Credit Card,Yes,Annual,17.1,Anime,6,10,9,2,1,29,Active,Not Churned
+CUST_1156,34,Male,Europe,2022-09-12,Basic,8.34,Direct Debit,Yes,Monthly,15.8,Action,1,5,7,1,0,36,Churned,Technical issues
+CUST_1157,31,Male,Asia Pacific,2021-08-26,Standard,14.66,PayPal,Yes,Monthly,13.7,Drama,4,9,6,0,2,37,Active,Not Churned
+CUST_1158,18,Female,Europe,2023-07-27,Standard,13.52,Carrier Billing,Yes,Monthly,7.3,Drama,7,8,3,0,0,41,Active,Not Churned
+CUST_1159,23,Male,Middle East & Africa,2021-11-12,Basic,8.13,Credit Card,Yes,Monthly,13.5,Action,5,11,6,1,0,31,Active,Not Churned
+CUST_1160,42,Female,Latin America,2023-04-20,Standard,14.06,Direct Debit,Yes,Monthly,9.6,Action,7,7,4,1,3,44,Churned,Switched to competitor
+CUST_1161,30,Female,Asia Pacific,2022-04-08,Standard,14.15,Credit Card,Yes,Monthly,21.1,Anime,6,15,11,0,1,23,Active,Not Churned
+CUST_1162,34,Female,Middle East & Africa,2025-09-18,Standard,14.61,Carrier Billing,Yes,Monthly,12.8,Comedy,3,8,7,1,1,38,Active,Not Churned
+CUST_1163,37,Female,Asia Pacific,2022-08-15,Standard,13.89,PayPal,Yes,Monthly,14.0,Documentary,5,11,3,2,1,42,Active,Not Churned
+CUST_1164,37,Female,Europe,2023-04-20,Standard,13.81,Direct Debit,No,Monthly,35.2,Documentary,7,21,16,0,1,8,Active,Not Churned
+CUST_1165,47,Female,North America,2023-09-23,Basic,8.23,Digital Wallet,No,Annual,15.9,Thriller,1,8,4,1,0,34,Active,Not Churned
+CUST_1166,22,Female,Asia Pacific,2025-06-20,Premium,19.19,Credit Card,Yes,Monthly,16.4,Thriller,3,13,9,1,0,26,Active,Not Churned
+CUST_1167,40,Male,Middle East & Africa,2024-11-06,Basic,7.88,Credit Card,Yes,Annual,10.4,Thriller,2,10,6,3,1,50,Active,Not Churned
+CUST_1168,42,Female,Middle East & Africa,2025-01-28,Basic,7.93,Direct Debit,No,Monthly,6.0,Comedy,4,4,1,1,0,42,Churned,Technical issues
+CUST_1169,45,Female,Asia Pacific,2021-05-30,Basic,7.58,Direct Debit,Yes,Annual,10.1,Drama,6,10,4,1,2,42,Active,Not Churned
+CUST_1170,18,Female,Europe,2021-12-18,Standard,14.47,Credit Card,Yes,Monthly,8.8,Sci-Fi,1,13,0,2,3,36,Churned,Too expensive
+CUST_1171,37,Male,Asia Pacific,2022-03-18,Standard,13.51,PayPal,Yes,Monthly,25.0,Sci-Fi,4,18,13,2,1,21,Active,Not Churned
+CUST_1172,53,Male,Latin America,2022-01-30,Basic,7.93,Credit Card,No,Annual,13.5,Comedy,6,11,7,0,1,25,Active,Not Churned
+CUST_1173,33,Male,Europe,2024-10-20,Standard,14.12,Credit Card,Yes,Monthly,20.8,Sci-Fi,7,13,12,2,0,27,Active,Not Churned
+CUST_1174,39,Female,Asia Pacific,2021-01-06,Basic,8.6,PayPal,No,Annual,8.2,Action,7,7,7,2,1,54,Active,Not Churned
+CUST_1175,43,Male,Asia Pacific,2022-06-18,Standard,13.99,Carrier Billing,Yes,Annual,9.0,Drama,6,8,2,0,2,34,Active,Not Churned
+CUST_1176,23,Male,Middle East & Africa,2021-08-08,Basic,8.41,PayPal,Yes,Monthly,15.2,Documentary,5,12,9,2,1,22,Active,Not Churned
+CUST_1177,54,Male,Latin America,2023-05-21,Standard,14.31,PayPal,Yes,Annual,8.7,Drama,3,5,7,0,0,32,Active,Not Churned
+CUST_1178,39,Male,North America,2021-01-12,Standard,14.05,Digital Wallet,Yes,Monthly,10.5,Action,5,9,2,2,2,34,Active,Not Churned
+CUST_1179,40,Male,North America,2023-03-06,Premium,19.5,Credit Card,No,Monthly,27.1,Drama,4,21,12,1,1,12,Active,Not Churned
+CUST_1180,18,Female,Middle East & Africa,2024-11-09,Basic,7.34,Direct Debit,No,Monthly,9.2,Comedy,7,8,3,2,0,28,Active,Not Churned
+CUST_1181,43,Male,Latin America,2022-12-05,Basic,8.04,Carrier Billing,Yes,Annual,5.4,Comedy,1,7,4,0,0,35,Active,Not Churned
+CUST_1182,40,Female,Europe,2022-04-03,Basic,7.75,Credit Card,No,Annual,4.6,Comedy,4,4,0,1,0,52,Churned,Low usage
+CUST_1183,52,Female,Asia Pacific,2021-08-13,Premium,20.4,PayPal,No,Annual,8.1,Action,1,8,7,1,2,47,Active,Not Churned
+CUST_1184,31,Female,Middle East & Africa,2021-12-02,Premium,20.33,Digital Wallet,Yes,Monthly,22.9,Drama,7,17,10,1,2,18,Active,Not Churned
+CUST_1185,23,Female,Middle East & Africa,2021-06-16,Basic,7.91,Digital Wallet,Yes,Monthly,8.5,Drama,7,5,6,2,0,48,Churned,Switched to competitor
+CUST_1186,26,Female,Latin America,2024-09-01,Standard,13.47,Credit Card,Yes,Annual,34.7,Comedy,4,21,15,1,3,15,Active,Not Churned
+CUST_1187,28,Male,North America,2024-02-14,Premium,20.22,Credit Card,Yes,Monthly,25.3,Comedy,5,16,12,1,1,18,Active,Not Churned
+CUST_1188,22,Other,Latin America,2022-05-13,Standard,13.53,Credit Card,Yes,Monthly,28.4,Thriller,7,19,8,1,0,8,Active,Not Churned
+CUST_1189,48,Male,North America,2021-05-28,Standard,13.65,PayPal,Yes,Monthly,19.4,Sci-Fi,4,15,8,2,1,43,Active,Not Churned
+CUST_1190,49,Male,Middle East & Africa,2021-02-05,Basic,7.55,PayPal,Yes,Monthly,14.8,Anime,2,12,8,3,0,37,Churned,Technical issues
+CUST_1191,32,Male,North America,2024-12-01,Basic,7.93,Direct Debit,No,Monthly,7.4,Sci-Fi,7,4,4,0,0,65,Churned,Payment issues
+CUST_1192,30,Male,Asia Pacific,2024-11-09,Premium,20.52,Digital Wallet,No,Monthly,14.2,Comedy,5,13,3,1,0,21,Active,Not Churned
+CUST_1193,18,Male,Asia Pacific,2025-11-16,Premium,19.99,Credit Card,Yes,Monthly,18.5,Family,4,15,8,1,1,22,Active,Not Churned
+CUST_1194,42,Female,Latin America,2023-09-17,Standard,13.79,Carrier Billing,Yes,Monthly,18.9,Action,4,12,7,0,0,14,Active,Not Churned
+CUST_1195,52,Female,Asia Pacific,2024-12-05,Basic,7.3,Credit Card,Yes,Monthly,6.3,Drama,3,2,1,1,0,46,Churned,Switched to competitor
+CUST_1196,27,Female,North America,2021-11-04,Basic,8.24,Credit Card,Yes,Monthly,10.2,Drama,7,8,2,1,0,52,Active,Not Churned
+CUST_1197,33,Male,Latin America,2022-10-04,Standard,13.64,PayPal,Yes,Monthly,12.2,Thriller,5,8,7,0,1,34,Active,Not Churned
+CUST_1198,39,Female,Europe,2021-08-28,Premium,20.04,Credit Card,Yes,Monthly,13.5,Family,3,11,8,0,1,46,Churned,Too expensive
+CUST_1199,53,Male,Europe,2023-07-06,Premium,19.83,PayPal,Yes,Monthly,9.7,Thriller,5,7,9,1,0,30,Churned,Too expensive
+CUST_1200,36,Male,Middle East & Africa,2023-06-24,Standard,14.37,Digital Wallet,Yes,Monthly,26.8,Comedy,1,15,9,1,2,17,Active,Not Churned
+CUST_1201,36,Female,Asia Pacific,2024-10-22,Standard,13.92,Credit Card,Yes,Annual,11.5,Family,5,8,7,4,1,43,Active,Not Churned
+CUST_1202,36,Female,Latin America,2023-05-06,Basic,7.96,Direct Debit,Yes,Annual,6.9,Action,5,5,5,0,2,48,Active,Not Churned
+CUST_1203,18,Male,Asia Pacific,2021-10-31,Basic,8.21,Credit Card,No,Monthly,25.6,Anime,4,20,10,0,1,16,Active,Not Churned
+CUST_1204,18,Female,Latin America,2022-09-09,Premium,20.94,Credit Card,No,Monthly,25.3,Family,2,16,10,3,1,28,Active,Not Churned
+CUST_1205,25,Female,Latin America,2024-04-05,Standard,14.39,PayPal,Yes,Annual,13.5,Documentary,6,14,4,2,0,21,Active,Not Churned
+CUST_1206,45,Female,Asia Pacific,2022-07-08,Basic,7.95,Carrier Billing,Yes,Monthly,4.5,Drama,5,0,1,1,0,56,Churned,Too expensive
+CUST_1207,30,Male,Middle East & Africa,2023-02-05,Basic,7.99,PayPal,Yes,Monthly,8.9,Documentary,3,10,4,1,0,29,Active,Not Churned
+CUST_1208,28,Male,Asia Pacific,2024-08-17,Standard,13.75,Direct Debit,Yes,Monthly,6.5,Drama,2,5,6,1,1,40,Churned,Low usage
+CUST_1209,28,Male,Latin America,2023-06-17,Basic,7.56,Digital Wallet,Yes,Monthly,14.2,Action,5,13,9,2,1,23,Active,Not Churned
+CUST_1210,32,Male,Latin America,2023-08-30,Basic,7.74,Direct Debit,Yes,Monthly,8.6,Documentary,2,7,1,2,2,56,Active,Not Churned
+CUST_1211,53,Male,Europe,2024-05-13,Standard,13.64,Credit Card,No,Annual,12.5,Drama,1,12,4,1,2,19,Active,Not Churned
+CUST_1212,32,Female,Asia Pacific,2021-07-14,Standard,14.28,Direct Debit,Yes,Annual,26.0,Action,2,18,14,0,2,29,Active,Not Churned
+CUST_1213,25,Male,Middle East & Africa,2024-04-09,Standard,13.51,PayPal,No,Monthly,9.8,Sci-Fi,1,5,3,2,1,47,Churned,Technical issues
+CUST_1214,34,Female,North America,2025-11-21,Basic,8.59,Direct Debit,Yes,Monthly,14.0,Anime,2,14,6,3,0,20,Active,Not Churned
+CUST_1215,53,Male,Europe,2025-06-28,Standard,14.33,PayPal,Yes,Monthly,17.5,Action,2,13,4,1,0,30,Active,Not Churned
+CUST_1216,28,Female,Asia Pacific,2024-11-26,Basic,8.0,Credit Card,Yes,Monthly,19.6,Action,3,15,11,1,1,35,Active,Not Churned
+CUST_1217,21,Female,North America,2023-11-29,Basic,7.99,PayPal,Yes,Monthly,10.6,Thriller,6,11,1,0,0,36,Active,Not Churned
+CUST_1218,28,Male,Middle East & Africa,2025-11-07,Standard,13.74,PayPal,Yes,Monthly,11.6,Action,3,7,2,1,0,44,Active,Not Churned
+CUST_1219,35,Female,Europe,2022-10-08,Standard,14.11,PayPal,Yes,Monthly,11.5,Anime,4,10,7,0,3,48,Active,Not Churned
+CUST_1220,42,Male,Europe,2021-09-09,Premium,20.48,Digital Wallet,Yes,Monthly,16.3,Family,2,11,11,0,1,17,Active,Not Churned
+CUST_1221,45,Male,Latin America,2025-09-02,Standard,13.67,Digital Wallet,Yes,Monthly,23.4,Sci-Fi,1,16,10,1,1,16,Active,Not Churned
+CUST_1222,22,Male,Europe,2024-07-30,Standard,13.3,PayPal,Yes,Annual,11.3,Action,7,9,5,1,1,30,Active,Not Churned
+CUST_1223,24,Male,Asia Pacific,2021-07-26,Basic,8.31,PayPal,No,Monthly,3.3,Comedy,2,0,3,0,1,68,Active,Not Churned
+CUST_1224,30,Female,Latin America,2022-05-15,Standard,14.14,PayPal,Yes,Annual,18.3,Anime,7,12,9,1,1,27,Active,Not Churned
+CUST_1225,42,Female,Latin America,2024-03-12,Basic,7.49,PayPal,Yes,Monthly,11.5,Thriller,5,12,4,0,1,35,Active,Not Churned
+CUST_1226,20,Male,Latin America,2021-01-19,Basic,7.66,Digital Wallet,Yes,Monthly,14.3,Anime,1,13,5,0,0,27,Active,Not Churned
+CUST_1227,27,Female,North America,2025-09-22,Premium,19.6,Direct Debit,No,Monthly,8.0,Action,5,7,0,2,0,35,Active,Not Churned
+CUST_1228,27,Female,North America,2025-05-19,Standard,13.66,Credit Card,Yes,Monthly,10.1,Action,4,9,5,2,1,35,Active,Not Churned
+CUST_1229,44,Male,Europe,2025-11-01,Premium,19.84,PayPal,Yes,Monthly,19.2,Comedy,5,13,8,0,2,39,Churned,Technical issues
+CUST_1230,40,Male,North America,2023-03-30,Standard,13.87,Direct Debit,Yes,Annual,7.4,Documentary,4,9,2,2,1,33,Churned,Low usage
+CUST_1231,44,Male,Asia Pacific,2022-11-18,Premium,19.7,Direct Debit,Yes,Annual,16.9,Anime,4,12,6,0,0,26,Active,Not Churned
+CUST_1232,49,Female,Europe,2021-01-20,Standard,13.65,PayPal,Yes,Monthly,12.5,Action,4,10,4,0,1,27,Active,Not Churned
+CUST_1233,31,Male,Asia Pacific,2025-12-17,Standard,13.89,Credit Card,No,Monthly,9.2,Thriller,5,10,5,1,2,36,Active,Not Churned
+CUST_1234,21,Male,Europe,2022-03-24,Standard,14.07,Credit Card,No,Monthly,8.9,Anime,4,6,6,1,0,42,Active,Not Churned
+CUST_1235,21,Female,Asia Pacific,2024-06-03,Basic,7.85,Credit Card,Yes,Monthly,6.7,Thriller,4,9,2,0,1,29,Active,Not Churned
+CUST_1236,18,Female,Europe,2025-11-02,Standard,14.51,PayPal,Yes,Monthly,13.0,Comedy,3,7,5,3,0,36,Churned,Lack of content
+CUST_1237,29,Male,North America,2024-01-30,Basic,8.22,Credit Card,Yes,Monthly,12.2,Sci-Fi,7,13,4,0,1,28,Active,Not Churned
+CUST_1238,30,Female,Asia Pacific,2023-01-09,Basic,7.27,Carrier Billing,Yes,Monthly,9.3,Comedy,6,7,6,1,3,42,Active,Not Churned
+CUST_1239,43,Female,Asia Pacific,2021-10-21,Standard,14.23,PayPal,No,Monthly,8.0,Documentary,2,6,4,1,0,36,Active,Not Churned
+CUST_1240,34,Male,Latin America,2025-04-23,Basic,8.26,Digital Wallet,Yes,Monthly,13.7,Documentary,4,6,7,1,1,38,Active,Not Churned
+CUST_1241,29,Female,Middle East & Africa,2021-03-06,Premium,19.79,Credit Card,Yes,Monthly,20.0,Documentary,1,13,10,1,0,24,Active,Not Churned
+CUST_1242,33,Male,Latin America,2022-05-14,Premium,19.32,Credit Card,Yes,Monthly,18.0,Drama,1,11,7,1,0,37,Active,Not Churned
+CUST_1243,23,Male,Asia Pacific,2021-03-17,Premium,19.99,PayPal,No,Annual,30.4,Anime,3,20,11,1,0,19,Active,Not Churned
+CUST_1244,45,Male,North America,2023-06-20,Standard,13.99,Credit Card,Yes,Monthly,11.7,Comedy,5,9,3,2,0,31,Active,Not Churned
+CUST_1245,25,Male,North America,2025-09-24,Basic,7.49,Digital Wallet,Yes,Annual,20.8,Thriller,5,17,12,1,1,35,Active,Not Churned
+CUST_1246,21,Male,Latin America,2022-09-27,Premium,19.34,Credit Card,Yes,Annual,11.1,Action,5,9,4,2,0,28,Active,Not Churned
+CUST_1247,43,Male,Europe,2024-02-23,Standard,13.95,PayPal,Yes,Annual,9.0,Action,4,8,3,0,2,50,Churned,Lack of content
+CUST_1248,40,Female,Europe,2021-01-27,Premium,19.89,Digital Wallet,No,Annual,14.9,Action,6,9,4,0,0,27,Active,Not Churned
+CUST_1249,18,Female,North America,2025-06-27,Premium,19.8,PayPal,Yes,Monthly,26.1,Drama,7,17,9,1,2,14,Active,Not Churned
+CUST_1250,43,Male,North America,2024-07-23,Premium,19.95,Credit Card,Yes,Annual,12.7,Action,6,14,4,1,1,19,Active,Not Churned
+CUST_1251,26,Male,Latin America,2025-05-15,Basic,7.49,Credit Card,Yes,Monthly,5.0,Action,5,3,6,1,1,52,Active,Not Churned
+CUST_1252,30,Female,Europe,2022-11-11,Standard,13.79,PayPal,No,Monthly,18.3,Drama,5,17,10,1,3,29,Active,Not Churned
+CUST_1253,36,Male,Europe,2021-03-24,Premium,20.23,Credit Card,Yes,Annual,13.8,Action,2,10,5,1,0,37,Active,Not Churned
+CUST_1254,40,Male,North America,2022-05-01,Basic,7.83,PayPal,Yes,Annual,12.9,Thriller,6,10,8,0,1,26,Active,Not Churned
+CUST_1255,39,Female,Asia Pacific,2025-01-26,Basic,7.24,Carrier Billing,Yes,Annual,7.7,Action,4,9,3,0,1,28,Active,Not Churned
+CUST_1256,33,Female,Latin America,2021-01-06,Standard,13.78,Digital Wallet,Yes,Annual,13.3,Family,4,13,9,1,0,17,Active,Not Churned
+CUST_1257,29,Female,Europe,2023-08-27,Premium,19.51,Credit Card,Yes,Annual,8.4,Thriller,7,7,8,1,1,42,Active,Not Churned
+CUST_1258,39,Female,Latin America,2025-08-27,Standard,14.11,Credit Card,No,Annual,27.0,Drama,1,18,14,3,2,21,Active,Not Churned
+CUST_1259,33,Male,Europe,2022-01-03,Standard,14.13,Credit Card,Yes,Annual,19.9,Action,1,14,9,0,2,19,Active,Not Churned
+CUST_1260,54,Female,Asia Pacific,2022-04-16,Basic,7.24,Direct Debit,Yes,Monthly,11.5,Action,2,10,7,0,1,35,Churned,Low usage
+CUST_1261,40,Male,Latin America,2025-10-04,Standard,14.33,PayPal,No,Annual,18.1,Sci-Fi,3,15,8,0,1,39,Churned,Lack of content
+CUST_1262,24,Male,Middle East & Africa,2025-01-12,Premium,19.49,Carrier Billing,Yes,Annual,11.1,Anime,4,9,1,1,1,34,Active,Not Churned
+CUST_1263,29,Female,Europe,2022-11-20,Basic,8.69,Direct Debit,Yes,Annual,18.0,Comedy,7,15,7,2,0,18,Active,Not Churned
+CUST_1264,35,Female,North America,2022-01-05,Standard,13.97,Credit Card,Yes,Monthly,11.0,Drama,1,12,3,1,1,35,Active,Not Churned
+CUST_1265,48,Male,Europe,2024-09-25,Premium,19.43,Direct Debit,Yes,Monthly,12.2,Sci-Fi,5,10,4,0,2,32,Churned,Lack of content
+CUST_1266,50,Male,North America,2025-08-19,Standard,13.48,Credit Card,Yes,Monthly,8.4,Drama,4,8,7,1,1,46,Active,Not Churned
+CUST_1267,30,Female,North America,2021-10-05,Standard,14.15,Credit Card,Yes,Annual,15.2,Family,4,8,9,2,0,33,Churned,Payment issues
+CUST_1268,24,Female,Europe,2021-12-06,Standard,13.81,Credit Card,No,Monthly,12.8,Comedy,4,4,7,0,0,60,Churned,Technical issues
+CUST_1269,22,Female,Europe,2023-03-26,Standard,13.95,Credit Card,Yes,Monthly,22.6,Drama,6,17,12,1,1,20,Active,Not Churned
+CUST_1270,37,Male,Middle East & Africa,2022-09-06,Basic,8.72,Direct Debit,Yes,Monthly,6.5,Action,1,6,0,0,1,38,Active,Not Churned
+CUST_1271,59,Female,North America,2024-01-09,Premium,19.68,PayPal,Yes,Annual,16.7,Anime,2,11,9,3,1,32,Active,Not Churned
+CUST_1272,40,Female,Middle East & Africa,2025-09-26,Premium,20.02,Credit Card,Yes,Annual,22.2,Comedy,1,16,12,2,2,21,Active,Not Churned
+CUST_1273,18,Female,Latin America,2023-03-04,Premium,20.63,Digital Wallet,Yes,Annual,36.6,Drama,5,21,12,2,2,24,Active,Not Churned
+CUST_1274,26,Male,Middle East & Africa,2022-08-26,Premium,20.11,PayPal,Yes,Monthly,15.3,Drama,5,14,8,1,1,15,Active,Not Churned
+CUST_1275,27,Male,Middle East & Africa,2021-03-08,Standard,13.27,Credit Card,No,Monthly,10.9,Drama,3,9,2,1,0,29,Active,Not Churned
+CUST_1276,25,Male,Latin America,2021-08-03,Standard,14.22,Credit Card,No,Monthly,13.6,Anime,1,9,2,3,1,37,Active,Not Churned
+CUST_1277,30,Male,Latin America,2022-02-20,Premium,19.47,PayPal,Yes,Monthly,23.3,Drama,1,19,13,1,2,16,Active,Not Churned
+CUST_1278,38,Male,Europe,2024-03-14,Standard,14.62,Digital Wallet,Yes,Annual,21.8,Documentary,3,15,8,0,2,22,Active,Not Churned
+CUST_1279,42,Female,Asia Pacific,2022-07-06,Standard,13.62,PayPal,Yes,Monthly,12.0,Drama,3,10,4,1,1,23,Active,Not Churned
+CUST_1280,46,Male,Middle East & Africa,2025-10-14,Premium,21.33,Digital Wallet,No,Monthly,23.1,Sci-Fi,4,15,12,1,1,20,Active,Not Churned
+CUST_1281,40,Female,Europe,2024-08-02,Premium,20.65,PayPal,Yes,Monthly,14.0,Anime,4,9,6,1,0,34,Active,Not Churned
+CUST_1282,18,Male,North America,2022-07-25,Basic,7.63,PayPal,Yes,Monthly,16.5,Sci-Fi,5,12,7,3,2,32,Churned,Lack of content
+CUST_1283,22,Male,Latin America,2022-06-24,Standard,14.0,PayPal,Yes,Annual,16.0,Anime,7,12,7,0,0,30,Active,Not Churned
+CUST_1284,32,Female,Asia Pacific,2023-12-07,Basic,8.33,Direct Debit,No,Monthly,9.2,Comedy,7,9,5,1,1,45,Churned,Lack of content
+CUST_1285,36,Male,Latin America,2024-06-14,Standard,14.34,PayPal,No,Annual,8.5,Family,7,6,3,1,1,45,Active,Not Churned
+CUST_1286,43,Male,North America,2021-04-27,Basic,8.19,Carrier Billing,Yes,Monthly,19.5,Sci-Fi,7,10,9,0,1,35,Active,Not Churned
+CUST_1287,34,Male,Asia Pacific,2021-05-31,Standard,14.55,Credit Card,No,Monthly,23.6,Comedy,2,16,10,2,0,2,Active,Not Churned
+CUST_1288,35,Female,Europe,2024-01-12,Standard,13.93,PayPal,Yes,Monthly,15.0,Drama,5,13,7,0,1,22,Active,Not Churned
+CUST_1289,37,Other,Middle East & Africa,2023-12-17,Basic,7.82,PayPal,Yes,Monthly,11.0,Action,6,8,6,0,2,49,Churned,Too expensive
+CUST_1290,31,Female,North America,2025-10-19,Standard,13.83,Direct Debit,No,Annual,7.7,Documentary,1,6,7,2,0,41,Active,Not Churned
+CUST_1291,35,Female,Latin America,2023-09-11,Basic,8.38,Credit Card,No,Monthly,19.2,Drama,7,16,8,0,3,19,Active,Not Churned
+CUST_1292,46,Male,North America,2024-11-09,Basic,8.15,PayPal,Yes,Monthly,12.8,Family,2,8,5,2,1,60,Churned,Low usage
+CUST_1293,33,Female,North America,2024-05-28,Premium,20.12,PayPal,Yes,Monthly,12.8,Drama,4,6,6,0,2,61,Churned,Switched to competitor
+CUST_1294,34,Female,Europe,2024-08-01,Standard,14.35,Direct Debit,No,Monthly,18.2,Sci-Fi,3,13,10,0,1,29,Active,Not Churned
+CUST_1295,34,Female,Europe,2023-10-01,Basic,7.07,Direct Debit,No,Annual,5.6,Documentary,3,4,0,2,1,61,Churned,Technical issues
+CUST_1296,48,Female,Asia Pacific,2025-11-13,Standard,14.13,Direct Debit,No,Monthly,8.2,Thriller,7,5,4,1,1,30,Churned,Low usage
+CUST_1297,22,Female,North America,2022-03-10,Standard,14.09,PayPal,Yes,Monthly,9.5,Action,5,7,0,1,1,36,Active,Not Churned
+CUST_1298,54,Male,Europe,2021-11-16,Basic,8.74,Digital Wallet,No,Annual,14.2,Family,7,12,6,2,1,28,Active,Not Churned
+CUST_1299,21,Female,North America,2025-06-23,Standard,13.3,Carrier Billing,No,Monthly,13.7,Family,1,10,8,0,1,31,Active,Not Churned
+CUST_1300,27,Female,Middle East & Africa,2021-08-30,Basic,8.69,Credit Card,Yes,Monthly,15.1,Family,1,12,5,0,1,24,Active,Not Churned
+CUST_1301,42,Female,North America,2022-04-10,Basic,8.02,Credit Card,No,Monthly,18.6,Thriller,3,18,9,0,1,0,Active,Not Churned
+CUST_1302,45,Female,Europe,2021-07-22,Standard,14.21,Credit Card,Yes,Monthly,16.8,Thriller,5,12,7,1,0,30,Active,Not Churned
+CUST_1303,19,Female,Asia Pacific,2022-07-03,Standard,14.74,PayPal,Yes,Annual,27.3,Anime,6,20,11,1,0,11,Active,Not Churned
+CUST_1304,22,Female,Middle East & Africa,2023-01-28,Standard,14.24,Carrier Billing,Yes,Monthly,20.1,Thriller,5,13,11,1,1,41,Active,Not Churned
+CUST_1305,37,Male,Middle East & Africa,2025-01-08,Standard,14.17,Direct Debit,Yes,Annual,12.0,Sci-Fi,4,7,3,0,2,38,Active,Not Churned
+CUST_1306,60,Male,Middle East & Africa,2025-07-22,Premium,20.1,Carrier Billing,Yes,Monthly,11.6,Sci-Fi,7,8,6,0,1,31,Active,Not Churned
+CUST_1307,48,Other,North America,2024-03-04,Standard,13.77,Credit Card,No,Annual,12.2,Sci-Fi,4,8,6,0,1,17,Active,Not Churned
+CUST_1308,31,Female,Latin America,2023-05-08,Basic,7.98,Direct Debit,Yes,Monthly,15.6,Family,4,12,5,2,1,30,Active,Not Churned
+CUST_1309,18,Female,Latin America,2025-05-19,Premium,19.67,Credit Card,Yes,Monthly,12.0,Action,7,14,6,1,1,32,Active,Not Churned
+CUST_1310,35,Female,Middle East & Africa,2023-02-25,Basic,7.97,Credit Card,No,Monthly,15.8,Thriller,6,10,5,0,1,28,Active,Not Churned
+CUST_1311,38,Female,Europe,2022-06-25,Standard,12.94,Direct Debit,Yes,Monthly,16.4,Drama,2,11,8,0,1,48,Active,Not Churned
+CUST_1312,30,Male,Middle East & Africa,2022-05-02,Basic,8.18,Credit Card,Yes,Annual,7.0,Comedy,5,6,1,1,2,46,Active,Not Churned
+CUST_1313,25,Male,Europe,2025-10-28,Basic,7.94,Direct Debit,Yes,Annual,18.4,Action,5,14,8,0,2,28,Active,Not Churned
+CUST_1314,36,Female,Asia Pacific,2022-07-26,Premium,19.84,Direct Debit,Yes,Monthly,16.3,Comedy,6,13,7,0,1,15,Active,Not Churned
+CUST_1315,24,Male,Europe,2025-02-18,Premium,20.09,Carrier Billing,Yes,Monthly,28.2,Family,7,21,15,0,1,8,Active,Not Churned
+CUST_1316,55,Female,Europe,2025-05-09,Standard,13.34,Credit Card,No,Monthly,12.6,Comedy,4,4,6,1,1,34,Active,Not Churned
+CUST_1317,51,Female,Asia Pacific,2023-04-20,Standard,14.86,Direct Debit,Yes,Annual,11.1,Anime,3,3,7,0,0,53,Churned,Lack of content
+CUST_1318,41,Male,Europe,2022-10-23,Basic,7.94,Digital Wallet,No,Annual,6.6,Action,4,5,4,1,1,53,Active,Not Churned
+CUST_1319,35,Female,Latin America,2022-02-09,Basic,7.92,Carrier Billing,Yes,Monthly,6.5,Family,2,8,4,2,0,50,Active,Not Churned
+CUST_1320,27,Female,Asia Pacific,2025-05-13,Basic,7.56,Direct Debit,Yes,Annual,17.3,Thriller,6,9,7,1,5,42,Active,Not Churned
+CUST_1321,34,Male,Asia Pacific,2024-12-27,Standard,14.0,Direct Debit,Yes,Annual,25.4,Comedy,7,11,13,1,0,31,Active,Not Churned
+CUST_1322,52,Male,Europe,2025-04-21,Standard,14.61,PayPal,Yes,Monthly,12.1,Comedy,3,11,5,0,1,35,Active,Not Churned
+CUST_1323,44,Female,Middle East & Africa,2022-10-19,Standard,14.46,Direct Debit,Yes,Annual,11.8,Comedy,5,10,2,3,1,43,Active,Not Churned
+CUST_1324,36,Male,Asia Pacific,2024-06-27,Basic,8.37,Direct Debit,Yes,Monthly,11.6,Comedy,2,7,5,1,0,33,Churned,Low usage
+CUST_1325,44,Male,North America,2024-01-09,Premium,20.24,Direct Debit,Yes,Monthly,22.0,Drama,2,14,11,0,2,7,Active,Not Churned
+CUST_1326,40,Male,Latin America,2023-08-07,Standard,13.83,Carrier Billing,Yes,Monthly,8.5,Family,6,5,1,1,2,54,Churned,Switched to competitor
+CUST_1327,38,Male,North America,2021-01-15,Standard,13.34,PayPal,Yes,Monthly,14.0,Thriller,3,11,5,1,2,35,Active,Not Churned
+CUST_1328,45,Female,North America,2023-09-02,Standard,13.9,Credit Card,Yes,Monthly,19.0,Drama,4,12,6,1,2,29,Active,Not Churned
+CUST_1329,40,Male,Asia Pacific,2023-11-30,Standard,13.88,PayPal,Yes,Monthly,15.7,Family,4,13,9,2,2,39,Active,Not Churned
+CUST_1330,43,Female,Asia Pacific,2024-01-10,Basic,8.46,Credit Card,Yes,Annual,2.9,Action,1,0,5,0,0,55,Churned,Too expensive
+CUST_1331,36,Male,North America,2025-03-14,Standard,14.13,PayPal,Yes,Monthly,16.9,Comedy,3,11,7,1,4,32,Active,Not Churned
+CUST_1332,31,Female,Europe,2021-11-03,Standard,14.72,Credit Card,Yes,Monthly,15.7,Sci-Fi,4,9,8,2,1,24,Active,Not Churned
+CUST_1333,28,Male,Middle East & Africa,2022-12-06,Basic,8.53,PayPal,Yes,Annual,20.8,Action,2,14,10,1,0,13,Active,Not Churned
+CUST_1334,27,Female,Europe,2022-02-01,Basic,7.78,Carrier Billing,Yes,Monthly,23.0,Drama,6,15,13,0,1,40,Active,Not Churned
+CUST_1335,18,Male,North America,2022-11-09,Basic,7.18,PayPal,No,Monthly,20.3,Drama,4,16,8,2,1,28,Active,Not Churned
+CUST_1336,24,Female,Middle East & Africa,2023-08-28,Basic,8.61,Credit Card,Yes,Annual,11.6,Documentary,6,5,5,0,1,47,Active,Not Churned
+CUST_1337,24,Female,Europe,2023-05-15,Premium,20.6,PayPal,Yes,Annual,7.9,Family,4,7,3,1,0,38,Active,Not Churned
+CUST_1338,28,Female,Asia Pacific,2024-05-12,Standard,13.38,Credit Card,No,Monthly,11.8,Anime,6,10,5,1,0,30,Active,Not Churned
+CUST_1339,51,Female,Europe,2021-07-30,Standard,14.67,PayPal,Yes,Monthly,12.9,Sci-Fi,2,14,11,2,0,33,Active,Not Churned
+CUST_1340,32,Male,Asia Pacific,2022-02-03,Basic,8.16,PayPal,Yes,Annual,23.8,Sci-Fi,3,16,11,1,1,16,Active,Not Churned
+CUST_1341,37,Female,Europe,2024-10-28,Standard,14.06,Digital Wallet,Yes,Monthly,9.2,Comedy,1,8,2,1,0,42,Churned,Lack of content
+CUST_1342,37,Male,Middle East & Africa,2024-11-13,Standard,14.72,Credit Card,Yes,Monthly,7.2,Thriller,6,2,1,2,1,54,Active,Not Churned
+CUST_1343,51,Female,Europe,2021-09-15,Basic,8.6,Direct Debit,No,Monthly,9.0,Sci-Fi,4,2,7,0,0,66,Churned,Low usage
+CUST_1344,28,Female,Asia Pacific,2021-04-25,Standard,14.28,Carrier Billing,No,Monthly,9.4,Drama,6,9,3,1,2,47,Churned,Switched to competitor
+CUST_1345,32,Female,Middle East & Africa,2021-11-30,Standard,14.2,Digital Wallet,Yes,Annual,7.0,Action,6,6,4,1,0,52,Active,Not Churned
+CUST_1346,33,Male,Middle East & Africa,2021-12-15,Standard,14.27,Credit Card,No,Annual,12.2,Family,4,12,4,1,3,32,Active,Not Churned
+CUST_1347,47,Male,North America,2021-08-21,Standard,13.81,PayPal,Yes,Annual,13.1,Action,7,7,3,0,1,49,Active,Not Churned
+CUST_1348,49,Male,Latin America,2025-03-13,Basic,7.97,Credit Card,Yes,Annual,5.3,Family,4,6,4,2,0,41,Active,Not Churned
+CUST_1349,39,Male,Europe,2022-03-25,Standard,13.58,PayPal,No,Monthly,11.1,Drama,3,13,4,0,1,27,Active,Not Churned
+CUST_1350,48,Male,Asia Pacific,2024-01-06,Standard,13.84,Credit Card,Yes,Monthly,9.2,Anime,2,8,5,4,0,56,Churned,Payment issues
+CUST_1351,36,Male,Europe,2023-04-08,Standard,13.83,Carrier Billing,Yes,Annual,5.8,Drama,2,6,4,0,2,38,Churned,Payment issues
+CUST_1352,32,Other,Europe,2022-08-31,Premium,19.7,Credit Card,Yes,Monthly,14.8,Thriller,2,11,8,2,1,36,Active,Not Churned
+CUST_1353,47,Female,North America,2021-04-08,Standard,14.05,PayPal,Yes,Monthly,13.9,Sci-Fi,2,7,6,0,1,44,Active,Not Churned
+CUST_1354,39,Female,Asia Pacific,2022-07-22,Basic,7.84,PayPal,Yes,Annual,7.7,Action,2,9,5,1,0,39,Churned,Low usage
+CUST_1355,26,Male,Asia Pacific,2025-07-12,Basic,8.22,Digital Wallet,Yes,Monthly,18.3,Drama,7,12,6,1,1,27,Active,Not Churned
+CUST_1356,45,Female,North America,2022-04-07,Standard,13.26,Direct Debit,Yes,Monthly,12.8,Comedy,2,11,1,2,1,51,Churned,Low usage
+CUST_1357,32,Female,Asia Pacific,2022-05-15,Basic,7.94,Credit Card,Yes,Annual,7.8,Thriller,4,3,5,1,0,39,Active,Not Churned
+CUST_1358,30,Female,Middle East & Africa,2022-09-23,Standard,14.05,Credit Card,No,Annual,6.7,Thriller,4,3,3,1,1,64,Churned,Switched to competitor
+CUST_1359,44,Male,Latin America,2023-11-28,Premium,19.85,Credit Card,No,Monthly,15.7,Thriller,2,15,6,0,0,27,Active,Not Churned
+CUST_1360,33,Female,Asia Pacific,2025-09-17,Standard,13.91,Direct Debit,Yes,Annual,15.7,Action,2,11,4,0,4,56,Churned,Low usage
+CUST_1361,38,Other,Middle East & Africa,2024-10-13,Standard,13.28,Direct Debit,No,Monthly,10.3,Anime,3,11,1,0,1,18,Active,Not Churned
+CUST_1362,41,Male,Asia Pacific,2024-06-19,Standard,14.15,Direct Debit,Yes,Monthly,13.5,Family,6,10,6,0,1,26,Churned,Technical issues
+CUST_1363,25,Female,North America,2023-12-11,Standard,14.28,Credit Card,Yes,Annual,24.5,Thriller,3,13,14,2,6,58,Churned,Low usage
+CUST_1364,38,Male,Asia Pacific,2024-12-19,Standard,14.21,Direct Debit,Yes,Annual,18.4,Action,5,15,8,1,0,4,Active,Not Churned
+CUST_1365,49,Male,North America,2021-05-07,Premium,20.46,Direct Debit,Yes,Monthly,6.8,Documentary,4,5,2,1,0,32,Churned,Too expensive
+CUST_1366,23,Female,Latin America,2024-02-01,Standard,14.08,Digital Wallet,Yes,Monthly,9.3,Documentary,7,9,4,0,0,29,Active,Not Churned
+CUST_1367,39,Male,Middle East & Africa,2022-04-22,Premium,20.21,PayPal,Yes,Monthly,13.5,Sci-Fi,2,10,10,0,1,35,Churned,Too expensive
+CUST_1368,25,Male,Europe,2024-06-06,Premium,20.06,Credit Card,Yes,Monthly,14.6,Action,7,8,8,2,3,61,Churned,Switched to competitor
+CUST_1369,45,Male,Europe,2022-12-24,Basic,8.3,PayPal,Yes,Monthly,12.1,Action,6,10,4,0,0,29,Churned,Payment issues
+CUST_1370,45,Female,Europe,2022-03-12,Basic,7.28,Credit Card,No,Monthly,13.8,Family,7,15,6,1,1,18,Active,Not Churned
+CUST_1371,30,Male,Europe,2024-11-09,Basic,7.59,Direct Debit,Yes,Monthly,10.6,Drama,4,10,5,3,2,45,Active,Not Churned
+CUST_1372,58,Female,Latin America,2021-03-26,Basic,8.7,Direct Debit,No,Monthly,11.3,Comedy,7,9,3,1,2,45,Active,Not Churned
+CUST_1373,46,Male,Asia Pacific,2024-10-14,Basic,6.88,Credit Card,No,Monthly,17.4,Thriller,5,15,9,1,1,26,Active,Not Churned
+CUST_1374,42,Female,North America,2023-02-25,Standard,13.93,Credit Card,Yes,Annual,14.3,Documentary,3,11,5,0,0,26,Active,Not Churned
+CUST_1375,41,Other,Latin America,2021-01-27,Basic,8.52,Credit Card,Yes,Monthly,6.3,Family,5,6,0,1,0,26,Active,Not Churned
+CUST_1376,45,Male,North America,2023-05-10,Basic,7.95,Digital Wallet,Yes,Monthly,11.8,Action,1,7,5,3,1,39,Active,Not Churned
+CUST_1377,23,Male,Middle East & Africa,2021-03-13,Premium,19.81,Credit Card,No,Annual,13.5,Documentary,7,11,6,1,0,41,Churned,Low usage
+CUST_1378,36,Male,Europe,2024-01-24,Basic,8.05,PayPal,Yes,Annual,4.3,Action,3,7,2,2,2,49,Churned,Low usage
+CUST_1379,38,Female,Asia Pacific,2022-08-11,Premium,19.83,Credit Card,Yes,Monthly,15.1,Action,4,9,5,1,0,32,Churned,Lack of content
+CUST_1380,30,Male,North America,2024-12-20,Basic,8.0,PayPal,Yes,Monthly,6.7,Action,3,9,2,0,1,45,Active,Not Churned
+CUST_1381,39,Male,Europe,2023-10-27,Basic,7.68,Direct Debit,Yes,Annual,17.5,Anime,5,13,10,1,2,22,Active,Not Churned
+CUST_1382,48,Male,Latin America,2024-01-19,Standard,14.49,Digital Wallet,No,Monthly,15.2,Documentary,2,9,8,1,0,33,Active,Not Churned
+CUST_1383,29,Male,Asia Pacific,2025-06-04,Standard,14.63,Credit Card,Yes,Annual,7.6,Comedy,6,9,2,0,0,34,Active,Not Churned
+CUST_1384,33,Male,Middle East & Africa,2024-05-30,Premium,19.93,Direct Debit,No,Monthly,20.1,Action,5,14,5,3,0,22,Active,Not Churned
+CUST_1385,25,Female,Asia Pacific,2025-06-07,Standard,13.37,PayPal,Yes,Monthly,22.5,Anime,5,18,8,1,0,13,Active,Not Churned
+CUST_1386,18,Female,Middle East & Africa,2025-06-06,Premium,19.75,Digital Wallet,Yes,Monthly,12.9,Action,7,9,6,0,1,34,Churned,Low usage
+CUST_1387,43,Male,Middle East & Africa,2021-06-01,Basic,7.91,Credit Card,No,Annual,10.5,Action,7,8,3,0,1,27,Active,Not Churned
+CUST_1388,34,Female,Asia Pacific,2025-04-30,Basic,8.22,Credit Card,Yes,Annual,16.3,Sci-Fi,2,13,6,1,0,26,Active,Not Churned
+CUST_1389,35,Female,Asia Pacific,2024-05-20,Standard,13.54,PayPal,No,Monthly,21.7,Comedy,6,16,9,1,0,6,Active,Not Churned
+CUST_1390,23,Female,Latin America,2022-08-06,Premium,19.64,Credit Card,Yes,Monthly,7.8,Sci-Fi,4,2,3,1,0,53,Active,Not Churned
+CUST_1391,32,Female,North America,2024-07-10,Premium,20.22,Credit Card,Yes,Monthly,9.4,Anime,6,5,6,0,0,53,Churned,Technical issues
+CUST_1392,46,Female,Middle East & Africa,2024-11-06,Standard,14.41,Direct Debit,Yes,Monthly,10.6,Drama,7,10,5,3,1,37,Active,Not Churned
+CUST_1393,34,Female,Asia Pacific,2025-05-13,Standard,13.71,Direct Debit,No,Annual,11.1,Thriller,4,8,5,1,1,31,Active,Not Churned
+CUST_1394,34,Female,Latin America,2021-02-26,Standard,13.39,PayPal,No,Monthly,17.6,Sci-Fi,3,12,7,0,1,27,Active,Not Churned
+CUST_1395,36,Male,North America,2022-03-02,Basic,9.47,Direct Debit,Yes,Annual,20.3,Action,5,12,8,1,1,24,Active,Not Churned
+CUST_1396,20,Male,Latin America,2025-07-05,Premium,20.34,PayPal,Yes,Monthly,24.0,Anime,3,15,13,1,0,24,Active,Not Churned
+CUST_1397,41,Male,Europe,2021-05-22,Premium,19.87,Direct Debit,Yes,Annual,7.7,Sci-Fi,2,2,5,2,1,56,Churned,Payment issues
+CUST_1398,20,Female,Latin America,2022-07-22,Standard,14.38,Direct Debit,Yes,Annual,9.0,Documentary,1,7,8,1,1,56,Churned,Technical issues
+CUST_1399,24,Male,Asia Pacific,2025-03-28,Standard,13.93,Direct Debit,Yes,Monthly,7.5,Thriller,7,5,5,1,1,57,Churned,Technical issues
+CUST_1400,22,Female,Europe,2023-11-05,Standard,14.38,Credit Card,Yes,Monthly,9.8,Family,4,6,3,0,1,42,Active,Not Churned
+CUST_1401,32,Male,Middle East & Africa,2023-10-29,Basic,8.06,Credit Card,No,Monthly,7.4,Family,2,6,2,0,1,49,Active,Not Churned
+CUST_1402,30,Female,Latin America,2024-06-08,Premium,20.03,PayPal,Yes,Monthly,16.7,Sci-Fi,4,13,9,0,2,26,Active,Not Churned
+CUST_1403,34,Male,Middle East & Africa,2024-04-24,Standard,13.94,PayPal,No,Monthly,16.0,Sci-Fi,3,16,6,1,1,20,Active,Not Churned
+CUST_1404,24,Female,Europe,2023-12-13,Premium,19.34,Direct Debit,Yes,Monthly,14.2,Action,1,7,8,0,1,38,Active,Not Churned
+CUST_1405,45,Female,Asia Pacific,2021-05-17,Basic,8.86,PayPal,Yes,Annual,10.7,Thriller,7,11,3,1,1,39,Churned,Lack of content
+CUST_1406,43,Male,Asia Pacific,2021-06-23,Premium,19.57,Credit Card,No,Monthly,12.3,Action,6,12,6,2,3,50,Churned,Low usage
+CUST_1407,32,Male,Asia Pacific,2023-05-10,Standard,13.38,Credit Card,Yes,Annual,11.3,Anime,5,7,3,2,1,51,Active,Not Churned
+CUST_1408,29,Female,North America,2021-08-07,Basic,7.89,Credit Card,No,Annual,22.8,Action,6,17,12,1,0,22,Active,Not Churned
+CUST_1409,28,Male,Europe,2024-07-10,Premium,19.56,Direct Debit,No,Annual,18.5,Drama,4,13,6,2,0,34,Active,Not Churned
+CUST_1410,31,Female,Middle East & Africa,2021-09-12,Basic,7.97,PayPal,Yes,Monthly,9.5,Action,5,8,5,2,1,47,Active,Not Churned
+CUST_1411,19,Female,Europe,2023-03-23,Basic,8.3,Direct Debit,Yes,Monthly,10.6,Action,7,12,4,1,0,18,Churned,Technical issues
+CUST_1412,23,Female,Middle East & Africa,2021-09-27,Premium,20.44,PayPal,Yes,Monthly,16.8,Action,3,14,8,2,2,44,Churned,Switched to competitor
+CUST_1413,43,Female,North America,2025-05-30,Premium,20.36,Digital Wallet,Yes,Monthly,9.1,Comedy,4,9,3,0,1,50,Active,Not Churned
+CUST_1414,37,Female,Middle East & Africa,2021-08-12,Standard,13.85,Digital Wallet,Yes,Monthly,13.5,Comedy,6,9,5,1,2,39,Active,Not Churned
+CUST_1415,52,Female,Asia Pacific,2023-06-02,Standard,14.01,Direct Debit,Yes,Annual,16.6,Sci-Fi,3,9,8,0,0,30,Active,Not Churned
+CUST_1416,31,Female,Latin America,2022-08-27,Standard,14.17,Carrier Billing,Yes,Monthly,15.7,Comedy,5,11,5,1,1,38,Active,Not Churned
+CUST_1417,30,Male,Europe,2024-03-03,Basic,7.2,PayPal,Yes,Monthly,7.5,Sci-Fi,3,9,1,1,1,42,Active,Not Churned
+CUST_1418,30,Male,Middle East & Africa,2024-04-01,Basic,8.25,Digital Wallet,Yes,Annual,8.2,Thriller,7,3,3,0,1,49,Churned,Low usage
+CUST_1419,30,Male,Asia Pacific,2025-09-30,Standard,13.33,Carrier Billing,Yes,Monthly,5.6,Anime,7,3,2,1,0,39,Active,Not Churned
+CUST_1420,27,Female,Asia Pacific,2022-12-02,Standard,14.91,Digital Wallet,Yes,Monthly,17.3,Action,7,13,6,0,1,28,Churned,Lack of content
+CUST_1421,37,Male,North America,2023-07-09,Premium,19.81,Direct Debit,Yes,Annual,30.6,Drama,7,19,16,0,1,15,Active,Not Churned
+CUST_1422,34,Female,Asia Pacific,2021-03-14,Premium,19.91,Direct Debit,Yes,Monthly,10.0,Comedy,7,6,4,1,1,51,Churned,Too expensive
+CUST_1423,28,Male,Middle East & Africa,2023-06-17,Basic,7.64,PayPal,Yes,Monthly,18.5,Family,3,13,8,0,0,25,Churned,Lack of content
+CUST_1424,48,Female,North America,2025-10-08,Standard,13.71,Credit Card,Yes,Monthly,27.9,Action,3,17,10,0,0,10,Active,Not Churned
+CUST_1425,55,Male,Latin America,2023-08-05,Basic,9.01,PayPal,Yes,Annual,8.9,Documentary,2,5,8,3,2,63,Active,Not Churned
+CUST_1426,47,Male,North America,2022-06-27,Standard,14.41,Digital Wallet,No,Monthly,12.1,Action,2,11,10,1,2,36,Active,Not Churned
+CUST_1427,40,Male,Middle East & Africa,2022-09-23,Standard,13.29,Credit Card,Yes,Monthly,14.1,Comedy,4,8,5,1,1,36,Active,Not Churned
+CUST_1428,42,Male,Middle East & Africa,2023-03-06,Premium,20.67,Direct Debit,Yes,Monthly,16.9,Thriller,3,9,10,2,0,35,Churned,Switched to competitor
+CUST_1429,54,Female,Europe,2025-02-16,Standard,14.53,PayPal,No,Monthly,14.4,Comedy,6,10,6,0,4,29,Active,Not Churned
+CUST_1430,42,Female,North America,2023-05-28,Basic,7.86,PayPal,No,Monthly,9.2,Comedy,3,9,7,0,1,34,Active,Not Churned
+CUST_1431,28,Male,Asia Pacific,2025-08-22,Basic,8.13,Digital Wallet,Yes,Monthly,15.0,Family,7,11,7,3,2,45,Active,Not Churned
+CUST_1432,38,Female,North America,2024-07-02,Standard,13.98,Carrier Billing,Yes,Monthly,10.8,Action,3,8,5,3,1,47,Active,Not Churned
+CUST_1433,41,Male,Asia Pacific,2023-01-27,Standard,14.88,Direct Debit,Yes,Monthly,14.9,Sci-Fi,2,11,2,1,0,42,Churned,Switched to competitor
+CUST_1434,23,Male,Europe,2022-09-10,Basic,7.63,Credit Card,Yes,Monthly,11.0,Comedy,5,5,3,2,2,51,Active,Not Churned
+CUST_1435,31,Female,Asia Pacific,2021-07-17,Basic,8.06,PayPal,No,Monthly,4.5,Family,3,6,2,0,2,50,Churned,Switched to competitor
+CUST_1436,46,Male,North America,2024-12-21,Standard,13.8,PayPal,Yes,Monthly,21.3,Thriller,7,16,10,2,0,25,Active,Not Churned
+CUST_1437,18,Female,North America,2022-05-08,Basic,7.35,PayPal,No,Monthly,8.3,Action,1,6,1,1,2,67,Churned,Too expensive
+CUST_1438,20,Female,North America,2025-07-14,Premium,20.98,Credit Card,Yes,Monthly,23.8,Family,4,19,9,2,1,16,Active,Not Churned
+CUST_1439,32,Male,Asia Pacific,2021-03-23,Standard,13.46,PayPal,No,Annual,19.7,Drama,2,12,10,0,1,20,Active,Not Churned
+CUST_1440,38,Female,Asia Pacific,2024-08-24,Basic,8.09,Credit Card,Yes,Annual,12.4,Action,5,12,3,1,0,34,Active,Not Churned
+CUST_1441,19,Male,Europe,2025-12-11,Basic,7.21,Direct Debit,Yes,Monthly,14.3,Sci-Fi,7,11,7,1,2,51,Active,Not Churned
+CUST_1442,33,Female,Asia Pacific,2025-09-19,Premium,19.81,Credit Card,Yes,Monthly,18.1,Documentary,1,13,11,3,0,26,Active,Not Churned
+CUST_1443,47,Female,Middle East & Africa,2025-12-17,Standard,14.18,PayPal,Yes,Monthly,11.6,Documentary,3,9,6,1,3,51,Active,Not Churned
+CUST_1444,35,Female,Europe,2022-01-09,Standard,13.62,Credit Card,Yes,Monthly,11.9,Sci-Fi,6,9,6,0,1,46,Churned,Switched to competitor
+CUST_1445,44,Male,Latin America,2025-05-07,Premium,20.25,Digital Wallet,No,Monthly,17.8,Sci-Fi,6,16,4,3,0,29,Active,Not Churned
+CUST_1446,27,Male,Asia Pacific,2025-01-22,Premium,19.87,PayPal,Yes,Monthly,14.1,Family,2,8,5,0,0,36,Active,Not Churned
+CUST_1447,25,Female,North America,2022-05-16,Premium,20.51,Credit Card,No,Annual,12.2,Thriller,3,8,10,0,0,29,Active,Not Churned
+CUST_1448,43,Female,Europe,2021-12-23,Standard,14.6,PayPal,Yes,Monthly,9.1,Documentary,4,10,3,2,3,43,Churned,Technical issues
+CUST_1449,38,Female,Asia Pacific,2024-08-12,Standard,13.73,Digital Wallet,Yes,Monthly,15.1,Drama,2,10,9,1,0,36,Active,Not Churned
+CUST_1450,21,Male,Latin America,2022-08-03,Basic,8.02,Direct Debit,No,Annual,8.2,Thriller,1,9,2,0,0,40,Churned,Too expensive
+CUST_1451,25,Female,Europe,2021-10-27,Standard,14.07,Direct Debit,Yes,Monthly,18.2,Documentary,6,17,8,0,0,15,Churned,Technical issues
+CUST_1452,51,Female,Middle East & Africa,2022-10-08,Standard,14.27,Credit Card,Yes,Monthly,18.9,Family,7,13,10,1,3,31,Churned,Low usage
+CUST_1453,24,Male,Asia Pacific,2024-09-28,Standard,14.0,Direct Debit,Yes,Annual,15.7,Action,5,13,7,1,2,35,Active,Not Churned
+CUST_1454,44,Female,Europe,2021-04-30,Premium,20.08,Direct Debit,Yes,Annual,18.7,Documentary,5,11,9,3,1,44,Churned,Lack of content
+CUST_1455,29,Male,North America,2025-05-12,Basic,7.88,PayPal,No,Annual,14.3,Family,4,12,5,1,1,33,Active,Not Churned
+CUST_1456,34,Male,North America,2021-07-05,Standard,14.04,Digital Wallet,Yes,Monthly,17.7,Sci-Fi,5,13,6,2,0,20,Active,Not Churned
+CUST_1457,37,Male,Asia Pacific,2022-08-07,Basic,8.57,Credit Card,Yes,Monthly,15.9,Documentary,5,13,5,0,0,21,Active,Not Churned
+CUST_1458,18,Female,Asia Pacific,2024-03-27,Standard,14.28,Credit Card,No,Annual,14.7,Family,7,10,6,2,2,48,Active,Not Churned
+CUST_1459,18,Female,Latin America,2024-06-05,Basic,8.31,Carrier Billing,Yes,Monthly,18.3,Sci-Fi,4,10,8,1,1,24,Active,Not Churned
+CUST_1460,35,Female,Latin America,2021-11-04,Basic,8.32,Direct Debit,Yes,Annual,10.3,Documentary,6,9,7,0,2,22,Active,Not Churned
+CUST_1461,26,Male,North America,2021-08-22,Basic,7.92,Credit Card,No,Monthly,7.7,Action,1,2,4,1,1,67,Churned,Lack of content
+CUST_1462,45,Male,Asia Pacific,2023-11-01,Standard,14.13,PayPal,Yes,Monthly,9.0,Sci-Fi,2,7,5,2,0,46,Active,Not Churned
+CUST_1463,18,Female,North America,2021-06-24,Standard,13.5,Carrier Billing,No,Annual,11.1,Drama,6,11,5,1,5,50,Churned,Too expensive
+CUST_1464,40,Female,Europe,2023-02-12,Standard,14.56,Credit Card,Yes,Monthly,5.8,Action,2,6,0,1,2,40,Active,Not Churned
+CUST_1465,19,Female,Latin America,2022-10-05,Premium,18.74,Credit Card,No,Monthly,15.4,Documentary,4,16,7,1,1,26,Active,Not Churned
+CUST_1466,30,Male,Europe,2023-06-30,Standard,13.95,Credit Card,No,Monthly,16.7,Action,6,15,8,1,1,25,Active,Not Churned
+CUST_1467,22,Female,Latin America,2023-10-23,Basic,8.5,Digital Wallet,Yes,Monthly,17.2,Family,3,11,9,0,1,18,Active,Not Churned
+CUST_1468,55,Female,Middle East & Africa,2023-01-31,Premium,19.38,Digital Wallet,Yes,Monthly,7.9,Sci-Fi,4,7,1,1,0,51,Churned,Technical issues
+CUST_1469,19,Female,Asia Pacific,2025-10-02,Basic,8.17,PayPal,Yes,Monthly,7.6,Anime,4,6,0,1,1,46,Churned,Technical issues
+CUST_1470,33,Female,North America,2021-07-01,Premium,19.68,PayPal,Yes,Monthly,19.4,Drama,4,11,9,1,1,30,Active,Not Churned
+CUST_1471,18,Female,Europe,2023-07-31,Basic,7.82,Credit Card,Yes,Annual,10.2,Drama,4,6,5,1,0,39,Active,Not Churned
+CUST_1472,52,Female,North America,2021-12-16,Premium,20.42,Credit Card,Yes,Monthly,18.1,Drama,5,12,8,1,0,11,Active,Not Churned
+CUST_1473,38,Female,Asia Pacific,2022-10-01,Basic,8.08,Carrier Billing,Yes,Annual,6.0,Drama,5,1,3,2,1,64,Active,Not Churned
+CUST_1474,36,Female,Latin America,2024-11-06,Premium,19.07,Credit Card,No,Monthly,23.7,Thriller,6,17,12,1,1,20,Active,Not Churned
+CUST_1475,50,Male,Asia Pacific,2024-08-13,Standard,13.55,PayPal,Yes,Monthly,7.2,Thriller,1,6,2,1,0,40,Churned,Lack of content
+CUST_1476,36,Female,Latin America,2024-05-05,Premium,20.43,Direct Debit,Yes,Monthly,5.6,Thriller,4,1,2,2,0,67,Active,Not Churned
+CUST_1477,36,Female,Latin America,2024-08-02,Basic,8.19,Credit Card,Yes,Annual,12.2,Documentary,2,10,6,1,0,21,Active,Not Churned
+CUST_1478,35,Male,Middle East & Africa,2025-04-29,Standard,14.78,PayPal,Yes,Annual,13.9,Anime,3,12,4,1,3,32,Active,Not Churned
+CUST_1479,40,Female,Europe,2025-03-26,Premium,20.75,PayPal,Yes,Annual,11.8,Sci-Fi,5,10,5,1,0,25,Active,Not Churned
+CUST_1480,29,Female,Middle East & Africa,2021-08-13,Standard,13.84,Direct Debit,Yes,Monthly,15.5,Drama,2,11,7,0,2,32,Churned,Technical issues
+CUST_1481,32,Male,Asia Pacific,2025-10-18,Standard,15.12,Credit Card,No,Monthly,15.7,Documentary,5,13,10,0,1,26,Active,Not Churned
+CUST_1482,43,Female,Europe,2025-10-13,Standard,14.0,Credit Card,No,Annual,15.0,Action,6,13,6,0,0,26,Active,Not Churned
+CUST_1483,37,Male,Middle East & Africa,2021-10-13,Standard,13.56,PayPal,Yes,Annual,10.2,Sci-Fi,1,9,5,0,1,33,Active,Not Churned
+CUST_1484,33,Female,Middle East & Africa,2025-10-19,Standard,13.7,Digital Wallet,Yes,Annual,9.4,Drama,3,6,6,3,1,42,Active,Not Churned
+CUST_1485,19,Male,Asia Pacific,2024-09-16,Standard,12.97,Credit Card,Yes,Monthly,10.6,Sci-Fi,5,9,3,0,1,49,Active,Not Churned
+CUST_1486,50,Female,Latin America,2025-05-04,Premium,20.71,Digital Wallet,Yes,Annual,10.4,Drama,3,11,7,1,1,52,Active,Not Churned
+CUST_1487,27,Female,Europe,2024-04-01,Basic,8.71,Direct Debit,Yes,Monthly,18.7,Action,3,12,12,2,3,40,Active,Not Churned
+CUST_1488,45,Female,Europe,2021-07-12,Basic,7.53,Carrier Billing,Yes,Monthly,9.5,Sci-Fi,6,12,4,1,1,24,Churned,Lack of content
+CUST_1489,36,Other,North America,2024-03-14,Premium,19.89,Credit Card,Yes,Monthly,15.0,Drama,2,10,6,1,0,44,Active,Not Churned
+CUST_1490,20,Male,Asia Pacific,2022-11-02,Premium,20.03,Credit Card,No,Monthly,19.4,Drama,5,14,12,0,1,12,Active,Not Churned
+CUST_1491,48,Female,Asia Pacific,2022-11-23,Standard,13.56,Credit Card,Yes,Annual,8.7,Comedy,3,6,6,1,1,43,Active,Not Churned
+CUST_1492,37,Male,North America,2022-06-22,Standard,13.2,PayPal,Yes,Annual,7.1,Comedy,6,7,3,1,1,37,Active,Not Churned
+CUST_1493,49,Female,Asia Pacific,2022-09-04,Basic,7.9,Digital Wallet,Yes,Annual,7.4,Thriller,4,2,6,1,1,46,Active,Not Churned
+CUST_1494,32,Female,North America,2023-06-20,Basic,7.85,Credit Card,No,Monthly,12.7,Sci-Fi,7,9,8,0,0,30,Churned,Low usage
+CUST_1495,42,Female,North America,2025-07-05,Standard,13.82,PayPal,No,Monthly,13.8,Thriller,3,8,6,0,1,31,Active,Not Churned
+CUST_1496,18,Female,Europe,2024-07-17,Standard,14.09,Credit Card,Yes,Annual,15.0,Action,3,12,7,0,3,35,Active,Not Churned
+CUST_1497,28,Male,Europe,2021-02-20,Standard,14.63,Direct Debit,Yes,Monthly,12.1,Comedy,5,12,7,0,0,25,Active,Not Churned
+CUST_1498,20,Male,Europe,2025-03-31,Basic,7.85,Credit Card,Yes,Annual,3.3,Sci-Fi,7,5,2,1,0,40,Active,Not Churned
+CUST_1499,30,Female,Europe,2021-05-08,Premium,20.07,Credit Card,Yes,Monthly,13.5,Action,4,5,3,0,0,40,Churned,Technical issues
+CUST_1500,39,Female,Europe,2025-08-03,Premium,20.32,Credit Card,Yes,Annual,20.5,Action,3,19,7,0,0,6,Active,Not Churned
+CUST_1501,27,Male,North America,2025-11-13,Standard,14.24,Direct Debit,Yes,Monthly,21.1,Anime,5,16,7,2,1,29,Churned,Lack of content
+CUST_1502,44,Male,Europe,2023-12-06,Standard,13.71,Credit Card,Yes,Annual,13.2,Anime,5,8,7,0,2,40,Active,Not Churned
+CUST_1503,25,Female,Middle East & Africa,2021-08-22,Basic,8.03,Credit Card,Yes,Monthly,12.3,Drama,6,10,3,0,0,37,Active,Not Churned
+CUST_1504,44,Male,North America,2022-03-24,Premium,20.24,Credit Card,Yes,Monthly,17.9,Drama,7,14,8,0,0,25,Churned,Too expensive
+CUST_1505,48,Female,Asia Pacific,2022-08-07,Standard,13.48,Digital Wallet,No,Annual,20.9,Documentary,3,14,13,0,1,28,Active,Not Churned
+CUST_1506,45,Female,North America,2025-01-06,Basic,8.56,Direct Debit,Yes,Monthly,11.2,Action,1,9,8,1,1,49,Active,Not Churned
+CUST_1507,30,Female,Europe,2022-05-18,Premium,20.63,Direct Debit,Yes,Annual,17.8,Family,1,12,4,1,2,24,Active,Not Churned
+CUST_1508,18,Male,Europe,2022-08-30,Premium,19.66,Direct Debit,Yes,Monthly,11.5,Family,2,8,3,3,0,37,Churned,Low usage
+CUST_1509,40,Male,Middle East & Africa,2023-07-11,Premium,20.08,Credit Card,Yes,Monthly,9.0,Thriller,1,6,3,1,0,56,Active,Not Churned
+CUST_1510,33,Female,Europe,2021-10-12,Standard,14.28,Direct Debit,Yes,Annual,10.4,Drama,1,5,2,1,1,46,Active,Not Churned
+CUST_1511,23,Other,Asia Pacific,2024-03-01,Standard,13.74,Credit Card,Yes,Monthly,23.0,Action,5,17,7,2,0,0,Active,Not Churned
+CUST_1512,28,Male,Asia Pacific,2025-02-08,Standard,14.21,PayPal,Yes,Monthly,16.5,Family,5,13,7,1,0,23,Active,Not Churned
+CUST_1513,50,Male,North America,2025-12-22,Premium,20.06,PayPal,Yes,Monthly,9.3,Comedy,6,9,6,0,0,34,Active,Not Churned
+CUST_1514,21,Male,Middle East & Africa,2023-07-25,Premium,19.33,PayPal,Yes,Monthly,18.3,Comedy,7,15,10,1,1,2,Active,Not Churned
+CUST_1515,39,Female,Europe,2022-06-28,Basic,8.2,Credit Card,Yes,Monthly,6.5,Drama,3,6,2,1,1,56,Churned,Switched to competitor
+CUST_1516,36,Female,North America,2021-12-22,Basic,7.49,Credit Card,Yes,Monthly,13.4,Drama,7,9,5,1,3,38,Active,Not Churned
+CUST_1517,30,Male,Europe,2023-11-27,Standard,14.41,Carrier Billing,Yes,Annual,8.6,Documentary,7,9,5,1,0,37,Active,Not Churned
+CUST_1518,41,Male,Europe,2025-07-20,Premium,19.69,Direct Debit,Yes,Annual,9.1,Family,3,4,4,2,1,50,Active,Not Churned
+CUST_1519,52,Female,North America,2021-05-18,Premium,19.92,Credit Card,Yes,Monthly,26.3,Thriller,5,17,13,0,1,5,Active,Not Churned
+CUST_1520,31,Female,Asia Pacific,2024-12-16,Basic,8.61,Credit Card,Yes,Annual,9.5,Documentary,3,6,5,2,0,35,Churned,Technical issues
+CUST_1521,31,Female,Europe,2025-01-08,Standard,14.21,Digital Wallet,Yes,Monthly,16.3,Drama,5,14,7,2,1,20,Active,Not Churned
+CUST_1522,41,Female,Asia Pacific,2022-09-04,Standard,13.5,Direct Debit,No,Monthly,12.9,Sci-Fi,7,12,2,0,1,37,Active,Not Churned
+CUST_1523,44,Female,North America,2024-06-19,Premium,19.53,Digital Wallet,No,Monthly,9.7,Drama,7,9,7,0,1,35,Churned,Switched to competitor
+CUST_1524,33,Female,Middle East & Africa,2024-06-22,Premium,19.72,Credit Card,Yes,Monthly,13.0,Action,1,12,4,2,1,28,Churned,Switched to competitor
+CUST_1525,31,Female,North America,2025-04-12,Premium,20.17,PayPal,No,Annual,9.8,Action,3,6,5,1,0,35,Active,Not Churned
+CUST_1526,18,Female,Asia Pacific,2024-05-17,Standard,14.15,Credit Card,Yes,Monthly,32.9,Anime,1,21,11,1,2,20,Active,Not Churned
+CUST_1527,25,Male,Latin America,2022-04-02,Standard,13.61,Direct Debit,No,Monthly,17.6,Action,2,13,8,0,0,34,Active,Not Churned
+CUST_1528,21,Male,North America,2021-04-09,Basic,7.46,Credit Card,Yes,Annual,11.3,Family,6,11,5,0,1,40,Active,Not Churned
+CUST_1529,42,Female,North America,2025-03-06,Basic,8.12,Credit Card,Yes,Annual,14.5,Family,6,11,7,0,1,35,Active,Not Churned
+CUST_1530,31,Male,North America,2024-03-06,Premium,19.91,Credit Card,Yes,Monthly,18.6,Action,7,13,14,0,1,28,Churned,Too expensive
+CUST_1531,31,Female,Europe,2024-04-25,Premium,20.96,Direct Debit,Yes,Annual,18.6,Comedy,7,15,7,0,0,8,Active,Not Churned
+CUST_1532,34,Male,North America,2021-02-05,Premium,20.01,PayPal,Yes,Monthly,18.3,Thriller,3,15,10,1,0,18,Active,Not Churned
+CUST_1533,24,Female,Asia Pacific,2022-09-22,Premium,20.81,Direct Debit,No,Annual,17.8,Family,7,12,9,1,0,22,Churned,Too expensive
+CUST_1534,51,Female,Europe,2022-11-01,Standard,13.46,Digital Wallet,Yes,Monthly,13.2,Thriller,5,10,5,0,2,22,Churned,Low usage
+CUST_1535,48,Female,Asia Pacific,2025-02-11,Standard,13.28,Direct Debit,Yes,Annual,23.9,Drama,6,15,12,0,3,36,Active,Not Churned
+CUST_1536,52,Male,North America,2023-02-26,Premium,19.49,PayPal,No,Monthly,15.1,Action,5,6,6,0,1,38,Active,Not Churned
+CUST_1537,42,Other,Middle East & Africa,2022-11-12,Premium,20.53,Digital Wallet,Yes,Monthly,14.4,Drama,6,11,8,1,0,39,Active,Not Churned
+CUST_1538,34,Male,North America,2021-02-24,Basic,8.78,PayPal,Yes,Monthly,12.1,Comedy,2,11,9,3,0,41,Active,Not Churned
+CUST_1539,52,Male,Europe,2025-02-03,Standard,13.64,Credit Card,Yes,Monthly,14.1,Comedy,5,11,7,1,1,37,Active,Not Churned
+CUST_1540,27,Male,North America,2024-01-13,Basic,7.78,Digital Wallet,Yes,Annual,4.9,Thriller,1,0,2,1,1,65,Active,Not Churned
+CUST_1541,24,Female,North America,2023-10-27,Premium,19.46,Credit Card,Yes,Monthly,10.4,Drama,5,7,7,0,1,36,Churned,Low usage
+CUST_1542,27,Male,Asia Pacific,2023-06-10,Standard,13.17,PayPal,Yes,Annual,12.1,Thriller,2,4,8,1,0,62,Active,Not Churned
+CUST_1543,40,Female,Asia Pacific,2024-10-18,Basic,8.31,Credit Card,Yes,Monthly,4.8,Drama,4,8,0,1,0,37,Active,Not Churned
+CUST_1544,26,Female,Asia Pacific,2023-10-04,Standard,14.09,PayPal,Yes,Annual,12.8,Comedy,4,7,5,1,1,45,Active,Not Churned
+CUST_1545,32,Female,Asia Pacific,2023-02-07,Standard,13.99,PayPal,No,Monthly,14.0,Comedy,1,13,8,1,1,23,Active,Not Churned
+CUST_1546,18,Female,Middle East & Africa,2023-07-07,Standard,13.36,Credit Card,Yes,Annual,7.4,Drama,4,8,3,1,0,30,Active,Not Churned
+CUST_1547,39,Female,Asia Pacific,2025-09-30,Basic,8.73,PayPal,Yes,Annual,8.2,Thriller,7,5,2,2,1,54,Churned,Technical issues
+CUST_1548,18,Female,Europe,2022-10-26,Standard,13.76,Direct Debit,Yes,Annual,21.5,Comedy,5,13,11,2,2,35,Active,Not Churned
+CUST_1549,24,Female,Europe,2023-04-10,Standard,14.23,Credit Card,Yes,Monthly,16.0,Thriller,2,13,9,1,0,18,Active,Not Churned
+CUST_1550,47,Male,North America,2021-06-19,Standard,13.34,PayPal,Yes,Monthly,15.6,Family,6,10,6,2,0,22,Active,Not Churned
+CUST_1551,47,Male,Asia Pacific,2025-11-19,Standard,13.9,Credit Card,Yes,Monthly,20.3,Thriller,1,15,9,0,2,14,Active,Not Churned
+CUST_1552,38,Male,Europe,2021-09-06,Premium,20.12,Carrier Billing,Yes,Monthly,10.4,Sci-Fi,4,7,4,1,1,52,Active,Not Churned
+CUST_1553,37,Male,Asia Pacific,2022-10-24,Standard,14.14,Direct Debit,Yes,Monthly,7.4,Sci-Fi,5,2,1,1,2,53,Churned,Low usage
+CUST_1554,28,Female,North America,2021-07-29,Standard,14.06,Digital Wallet,Yes,Monthly,19.1,Drama,6,9,8,1,2,38,Active,Not Churned
+CUST_1555,25,Female,Latin America,2023-07-01,Premium,20.21,Credit Card,Yes,Monthly,13.8,Anime,6,11,6,2,1,46,Active,Not Churned
+CUST_1556,30,Female,Middle East & Africa,2023-01-10,Standard,13.48,Credit Card,Yes,Monthly,8.8,Family,5,6,1,1,0,33,Active,Not Churned
+CUST_1557,18,Male,Europe,2024-06-21,Basic,8.08,Credit Card,Yes,Monthly,4.9,Action,3,3,1,0,1,45,Churned,Payment issues
+CUST_1558,37,Female,Latin America,2021-05-21,Basic,8.04,Credit Card,Yes,Annual,12.2,Documentary,3,11,6,0,1,25,Active,Not Churned
+CUST_1559,35,Female,Middle East & Africa,2022-09-24,Standard,14.09,PayPal,Yes,Monthly,11.7,Thriller,7,12,8,1,0,40,Churned,Lack of content
+CUST_1560,24,Male,Middle East & Africa,2023-03-16,Standard,14.02,Digital Wallet,No,Annual,10.9,Family,2,8,4,0,3,61,Active,Not Churned
+CUST_1561,51,Female,Europe,2021-06-29,Standard,13.42,PayPal,Yes,Monthly,5.1,Comedy,7,4,0,1,0,53,Active,Not Churned
+CUST_1562,41,Female,Latin America,2023-07-09,Basic,7.4,Digital Wallet,Yes,Monthly,22.2,Comedy,7,17,10,1,0,21,Active,Not Churned
+CUST_1563,42,Male,North America,2022-09-29,Basic,6.99,Credit Card,Yes,Monthly,5.4,Drama,1,2,1,0,0,45,Active,Not Churned
+CUST_1564,29,Female,Asia Pacific,2023-01-24,Basic,8.36,Digital Wallet,Yes,Annual,9.8,Thriller,4,8,6,1,2,59,Active,Not Churned
+CUST_1565,34,Male,Latin America,2025-10-14,Standard,14.36,Credit Card,Yes,Monthly,10.5,Action,4,10,4,3,2,45,Active,Not Churned
+CUST_1566,41,Male,Latin America,2023-09-14,Standard,14.37,Digital Wallet,Yes,Annual,16.2,Drama,5,14,2,3,1,36,Active,Not Churned
+CUST_1567,36,Female,North America,2023-11-07,Standard,14.13,Credit Card,Yes,Monthly,6.5,Drama,4,1,10,0,1,55,Churned,Technical issues
+CUST_1568,52,Female,Latin America,2023-11-06,Standard,13.03,Digital Wallet,Yes,Monthly,15.4,Comedy,7,10,7,0,0,28,Churned,Too expensive
+CUST_1569,32,Female,Europe,2022-01-20,Premium,19.53,Credit Card,Yes,Annual,15.2,Comedy,2,9,7,1,4,61,Churned,Payment issues
+CUST_1570,28,Male,North America,2024-09-26,Basic,8.07,Credit Card,Yes,Monthly,8.0,Sci-Fi,3,7,1,0,1,45,Churned,Too expensive
+CUST_1571,41,Female,Asia Pacific,2023-06-12,Standard,14.05,PayPal,Yes,Annual,15.2,Family,5,12,4,1,2,45,Active,Not Churned
+CUST_1572,20,Male,Middle East & Africa,2023-09-14,Premium,19.89,PayPal,No,Monthly,14.3,Drama,1,14,6,2,1,29,Active,Not Churned
+CUST_1573,44,Female,Middle East & Africa,2023-02-08,Standard,14.16,Direct Debit,Yes,Monthly,26.3,Thriller,5,18,13,1,0,5,Active,Not Churned
+CUST_1574,20,Male,Latin America,2025-12-27,Standard,14.0,Digital Wallet,No,Annual,11.7,Documentary,7,8,7,3,3,46,Active,Not Churned
+CUST_1575,41,Female,North America,2023-03-03,Premium,20.04,Direct Debit,No,Annual,9.9,Action,4,10,5,1,0,33,Active,Not Churned
+CUST_1576,27,Female,North America,2021-02-15,Premium,19.7,Direct Debit,No,Monthly,17.0,Thriller,2,13,5,1,1,23,Active,Not Churned
+CUST_1577,39,Female,North America,2022-05-19,Basic,8.43,Credit Card,No,Annual,9.6,Action,7,11,0,2,1,26,Active,Not Churned
+CUST_1578,44,Male,North America,2025-11-29,Premium,19.8,Direct Debit,Yes,Monthly,14.2,Documentary,1,11,6,1,1,42,Active,Not Churned
+CUST_1579,36,Female,Europe,2024-03-12,Standard,13.39,PayPal,Yes,Annual,7.4,Documentary,5,4,2,0,0,41,Active,Not Churned
+CUST_1580,21,Female,Europe,2024-08-01,Basic,7.64,Digital Wallet,Yes,Monthly,14.9,Documentary,4,8,4,1,0,38,Active,Not Churned
+CUST_1581,24,Female,North America,2024-10-10,Standard,13.83,PayPal,Yes,Monthly,10.4,Drama,5,5,6,0,1,48,Active,Not Churned
+CUST_1582,26,Female,Middle East & Africa,2023-04-10,Premium,20.44,Direct Debit,No,Monthly,15.7,Anime,1,13,4,1,0,20,Active,Not Churned
+CUST_1583,18,Male,Asia Pacific,2022-06-09,Standard,13.97,Credit Card,No,Monthly,29.4,Thriller,7,21,14,0,1,17,Active,Not Churned
+CUST_1584,46,Male,Latin America,2023-09-06,Basic,7.91,Credit Card,Yes,Monthly,9.9,Anime,4,12,2,0,1,19,Active,Not Churned
+CUST_1585,35,Male,Europe,2022-07-11,Standard,13.43,PayPal,Yes,Monthly,17.3,Thriller,3,15,8,0,0,20,Active,Not Churned
+CUST_1586,22,Female,Europe,2021-02-16,Basic,8.34,Credit Card,Yes,Monthly,10.2,Documentary,6,11,6,3,1,39,Active,Not Churned
+CUST_1587,50,Female,Europe,2022-06-12,Basic,7.7,Credit Card,Yes,Annual,8.1,Drama,1,5,3,0,0,42,Active,Not Churned
+CUST_1588,26,Male,Europe,2021-04-17,Basic,7.94,Credit Card,Yes,Monthly,20.4,Action,3,12,13,2,0,19,Active,Not Churned
+CUST_1589,37,Female,Asia Pacific,2023-10-24,Basic,8.66,Carrier Billing,Yes,Monthly,4.3,Anime,3,6,6,3,1,56,Active,Not Churned
+CUST_1590,25,Male,Asia Pacific,2022-09-08,Basic,8.22,Credit Card,No,Monthly,17.8,Documentary,4,14,8,0,1,29,Active,Not Churned
+CUST_1591,18,Male,Latin America,2023-08-24,Basic,7.26,Digital Wallet,Yes,Annual,4.1,Action,5,4,3,0,0,40,Active,Not Churned
+CUST_1592,19,Male,Middle East & Africa,2024-01-24,Standard,13.19,Credit Card,No,Monthly,18.4,Drama,7,14,10,1,1,31,Churned,Lack of content
+CUST_1593,29,Female,Asia Pacific,2024-03-02,Basic,7.96,Credit Card,Yes,Monthly,11.2,Action,5,10,6,1,1,38,Active,Not Churned
+CUST_1594,44,Female,Europe,2023-05-10,Basic,7.44,PayPal,No,Monthly,6.9,Sci-Fi,2,9,4,1,1,27,Active,Not Churned
+CUST_1595,38,Male,Middle East & Africa,2025-12-12,Premium,20.28,PayPal,Yes,Monthly,12.1,Sci-Fi,1,12,4,3,1,27,Active,Not Churned
+CUST_1596,36,Female,Latin America,2021-07-20,Standard,14.01,PayPal,No,Monthly,16.9,Sci-Fi,1,14,4,0,0,29,Churned,Switched to competitor
+CUST_1597,18,Male,Asia Pacific,2021-09-11,Standard,14.06,PayPal,Yes,Monthly,28.1,Comedy,7,21,10,0,0,5,Active,Not Churned
+CUST_1598,48,Male,Latin America,2021-07-02,Basic,7.67,Credit Card,Yes,Monthly,5.0,Comedy,4,6,7,0,0,35,Active,Not Churned
+CUST_1599,36,Male,North America,2024-03-19,Basic,8.77,Direct Debit,Yes,Monthly,7.1,Thriller,4,5,4,0,0,36,Active,Not Churned
+CUST_1600,33,Male,North America,2025-04-22,Basic,9.27,PayPal,No,Monthly,5.7,Drama,2,7,2,0,1,37,Churned,Lack of content
+CUST_1601,46,Female,North America,2023-09-08,Basic,7.86,Credit Card,Yes,Monthly,10.2,Drama,2,5,7,2,2,49,Churned,Switched to competitor
+CUST_1602,48,Female,North America,2022-05-05,Basic,8.15,Carrier Billing,Yes,Monthly,17.1,Anime,3,15,6,2,1,18,Active,Not Churned
+CUST_1603,47,Male,Europe,2022-05-20,Basic,8.03,Direct Debit,Yes,Annual,5.3,Thriller,6,2,4,2,1,43,Active,Not Churned
+CUST_1604,31,Male,North America,2022-02-17,Basic,7.87,PayPal,Yes,Annual,11.1,Comedy,2,9,5,1,0,44,Active,Not Churned
+CUST_1605,23,Male,Middle East & Africa,2025-03-12,Basic,7.62,Carrier Billing,No,Monthly,16.9,Family,5,11,9,1,0,37,Churned,Technical issues
+CUST_1606,45,Male,Asia Pacific,2025-08-02,Standard,13.5,Digital Wallet,Yes,Monthly,10.6,Action,3,10,4,2,1,27,Active,Not Churned
+CUST_1607,19,Female,Europe,2025-06-24,Basic,7.48,PayPal,Yes,Monthly,12.3,Action,6,9,4,0,2,40,Churned,Technical issues
+CUST_1608,55,Male,North America,2022-02-08,Standard,14.17,Credit Card,No,Monthly,21.1,Sci-Fi,2,12,8,2,0,22,Active,Not Churned
+CUST_1609,34,Female,Asia Pacific,2021-08-24,Standard,13.76,Digital Wallet,No,Monthly,8.0,Documentary,6,8,2,1,1,38,Active,Not Churned
+CUST_1610,22,Male,North America,2025-06-08,Standard,12.83,Credit Card,No,Monthly,6.0,Comedy,5,4,3,3,0,48,Churned,Switched to competitor
+CUST_1611,20,Male,Latin America,2023-05-09,Basic,8.19,Credit Card,Yes,Annual,13.0,Sci-Fi,5,12,3,1,2,30,Churned,Low usage
+CUST_1612,20,Female,Latin America,2023-08-24,Premium,19.97,Credit Card,Yes,Annual,16.2,Action,3,12,5,1,0,43,Active,Not Churned
+CUST_1613,36,Male,Asia Pacific,2025-04-18,Standard,14.6,Direct Debit,Yes,Monthly,10.3,Sci-Fi,3,9,5,0,1,32,Churned,Technical issues
+CUST_1614,34,Male,North America,2022-09-25,Basic,8.16,Digital Wallet,Yes,Monthly,8.0,Drama,5,5,3,2,1,43,Active,Not Churned
+CUST_1615,20,Male,Latin America,2025-04-15,Premium,19.32,Direct Debit,Yes,Annual,14.4,Sci-Fi,4,10,7,1,3,35,Active,Not Churned
+CUST_1616,30,Male,Europe,2024-12-28,Premium,18.99,Digital Wallet,Yes,Annual,9.5,Sci-Fi,7,7,4,0,0,46,Churned,Payment issues
+CUST_1617,19,Male,North America,2025-04-19,Basic,7.67,Credit Card,Yes,Annual,6.5,Documentary,3,8,8,1,1,27,Churned,Technical issues
+CUST_1618,40,Male,Asia Pacific,2025-07-27,Basic,7.71,Credit Card,Yes,Monthly,15.4,Sci-Fi,7,15,7,0,0,11,Active,Not Churned
+CUST_1619,33,Female,Middle East & Africa,2021-07-27,Premium,20.41,Direct Debit,No,Monthly,9.2,Anime,1,6,3,1,1,57,Active,Not Churned
+CUST_1620,30,Female,Europe,2021-05-20,Standard,13.99,Digital Wallet,Yes,Monthly,6.1,Sci-Fi,4,8,3,2,0,41,Churned,Technical issues
+CUST_1621,20,Female,Middle East & Africa,2022-08-11,Basic,8.5,PayPal,Yes,Monthly,8.0,Family,1,2,6,0,0,52,Churned,Low usage
+CUST_1622,31,Male,North America,2022-08-10,Basic,7.39,Credit Card,No,Monthly,8.9,Thriller,6,5,4,1,2,68,Churned,Too expensive
+CUST_1623,29,Female,North America,2024-08-23,Standard,14.42,Credit Card,Yes,Monthly,15.4,Documentary,6,9,8,0,0,34,Churned,Technical issues
+CUST_1624,37,Male,Asia Pacific,2023-07-06,Standard,14.31,Credit Card,Yes,Annual,9.8,Anime,6,5,5,1,0,39,Active,Not Churned
+CUST_1625,36,Male,North America,2023-08-25,Standard,13.08,Credit Card,No,Annual,22.7,Sci-Fi,2,13,10,1,1,25,Active,Not Churned
+CUST_1626,43,Male,Europe,2022-07-24,Standard,14.59,Credit Card,No,Monthly,13.1,Comedy,3,11,6,0,1,22,Active,Not Churned
+CUST_1627,29,Female,North America,2024-01-27,Standard,14.03,Digital Wallet,Yes,Annual,9.0,Thriller,3,7,7,0,1,51,Active,Not Churned
+CUST_1628,18,Male,Europe,2021-05-05,Standard,14.17,PayPal,Yes,Monthly,15.1,Drama,5,12,7,3,1,39,Active,Not Churned
+CUST_1629,45,Male,Europe,2024-10-04,Basic,7.6,Direct Debit,Yes,Annual,21.1,Action,7,17,8,0,0,21,Active,Not Churned
+CUST_1630,24,Male,Latin America,2021-05-14,Basic,8.56,Credit Card,Yes,Monthly,15.2,Documentary,3,12,6,0,2,41,Active,Not Churned
+CUST_1631,22,Male,Latin America,2023-09-23,Standard,13.46,Credit Card,Yes,Monthly,6.7,Action,7,7,0,1,1,39,Active,Not Churned
+CUST_1632,34,Male,Middle East & Africa,2024-06-03,Premium,20.36,PayPal,Yes,Monthly,12.2,Family,6,9,6,1,1,30,Active,Not Churned
+CUST_1633,37,Male,Latin America,2025-10-02,Standard,14.36,Digital Wallet,Yes,Monthly,14.1,Thriller,1,8,9,1,1,40,Active,Not Churned
+CUST_1634,28,Male,Asia Pacific,2025-04-22,Standard,13.55,PayPal,Yes,Monthly,16.4,Anime,4,14,5,1,0,15,Active,Not Churned
+CUST_1635,28,Male,Asia Pacific,2022-10-12,Basic,8.88,Digital Wallet,Yes,Monthly,10.2,Comedy,2,7,5,1,1,44,Active,Not Churned
+CUST_1636,30,Male,Middle East & Africa,2025-10-10,Standard,14.09,Carrier Billing,Yes,Annual,11.0,Anime,7,7,7,1,0,49,Churned,Lack of content
+CUST_1637,50,Male,Europe,2022-12-07,Standard,14.28,Credit Card,Yes,Monthly,26.2,Sci-Fi,7,18,14,1,1,14,Active,Not Churned
+CUST_1638,34,Male,Europe,2022-07-22,Basic,7.3,Credit Card,Yes,Monthly,15.3,Drama,4,9,9,3,0,40,Churned,Switched to competitor
+CUST_1639,23,Female,Latin America,2021-12-05,Basic,8.94,Direct Debit,Yes,Monthly,13.6,Family,1,9,2,1,0,34,Churned,Switched to competitor
+CUST_1640,23,Male,North America,2023-04-19,Standard,13.44,PayPal,Yes,Monthly,10.0,Drama,2,9,5,1,1,44,Active,Not Churned
+CUST_1641,31,Male,Middle East & Africa,2021-11-18,Basic,8.45,Credit Card,Yes,Monthly,6.4,Documentary,7,6,0,0,2,41,Active,Not Churned
+CUST_1642,37,Male,Asia Pacific,2024-01-16,Basic,7.54,PayPal,Yes,Annual,13.8,Thriller,5,8,4,0,2,24,Active,Not Churned
+CUST_1643,39,Male,Europe,2021-04-05,Basic,7.71,PayPal,Yes,Monthly,16.1,Family,3,11,9,0,1,34,Active,Not Churned
+CUST_1644,35,Male,Latin America,2021-07-15,Basic,8.34,Digital Wallet,Yes,Monthly,11.1,Sci-Fi,3,11,5,0,2,42,Churned,Payment issues
+CUST_1645,25,Other,Europe,2021-07-11,Basic,8.45,Credit Card,Yes,Annual,15.3,Sci-Fi,5,13,8,3,0,32,Active,Not Churned
+CUST_1646,29,Female,Middle East & Africa,2022-10-18,Premium,19.42,Credit Card,Yes,Monthly,18.5,Family,1,18,6,0,0,5,Active,Not Churned
+CUST_1647,42,Male,Middle East & Africa,2022-06-06,Standard,14.48,PayPal,Yes,Monthly,18.1,Thriller,7,16,11,2,0,10,Active,Not Churned
+CUST_1648,21,Female,Asia Pacific,2023-01-23,Standard,14.46,Direct Debit,Yes,Annual,6.7,Thriller,5,8,4,2,0,43,Churned,Technical issues
+CUST_1649,29,Male,North America,2025-08-12,Premium,19.57,Direct Debit,Yes,Monthly,12.4,Thriller,7,6,7,1,2,50,Churned,Low usage
+CUST_1650,41,Male,Europe,2023-09-15,Standard,14.71,Digital Wallet,Yes,Monthly,15.7,Sci-Fi,6,13,5,0,2,28,Churned,Low usage
+CUST_1651,44,Female,Asia Pacific,2023-10-03,Basic,7.33,Carrier Billing,Yes,Annual,11.4,Action,7,9,7,1,1,52,Active,Not Churned
+CUST_1652,32,Male,Middle East & Africa,2025-08-03,Standard,13.71,PayPal,No,Monthly,17.0,Drama,1,11,7,2,2,30,Churned,Too expensive
+CUST_1653,29,Male,North America,2021-01-13,Standard,14.21,Credit Card,Yes,Monthly,15.1,Anime,2,12,6,0,1,42,Active,Not Churned
+CUST_1654,19,Female,North America,2021-09-11,Standard,13.61,PayPal,Yes,Annual,5.3,Comedy,4,7,4,2,0,42,Active,Not Churned
+CUST_1655,40,Female,North America,2021-03-22,Standard,14.11,Direct Debit,No,Monthly,20.0,Anime,4,16,10,1,1,6,Active,Not Churned
+CUST_1656,49,Female,Asia Pacific,2025-10-12,Basic,8.1,Carrier Billing,No,Monthly,8.8,Sci-Fi,5,5,2,2,0,45,Churned,Lack of content
+CUST_1657,62,Female,Middle East & Africa,2022-01-08,Basic,7.91,Digital Wallet,Yes,Annual,7.2,Comedy,3,8,7,2,3,56,Churned,Low usage
+CUST_1658,38,Female,North America,2022-01-29,Standard,14.36,Direct Debit,Yes,Annual,19.7,Drama,5,13,12,0,0,20,Active,Not Churned
+CUST_1659,33,Male,North America,2025-10-22,Standard,13.89,PayPal,Yes,Monthly,16.4,Documentary,3,13,9,1,1,16,Active,Not Churned
+CUST_1660,24,Male,Asia Pacific,2022-02-22,Standard,14.09,Credit Card,Yes,Monthly,20.9,Family,5,14,10,0,1,22,Churned,Technical issues
+CUST_1661,18,Female,Latin America,2023-12-19,Standard,14.51,Credit Card,Yes,Annual,14.2,Thriller,5,10,7,1,4,38,Churned,Technical issues
+CUST_1662,36,Other,Latin America,2021-05-08,Premium,20.35,Credit Card,Yes,Annual,12.3,Action,7,11,2,1,2,40,Active,Not Churned
+CUST_1663,60,Male,Latin America,2023-03-28,Standard,14.34,Credit Card,Yes,Monthly,13.5,Sci-Fi,4,8,6,1,2,50,Active,Not Churned
+CUST_1664,48,Other,North America,2023-02-13,Basic,7.47,PayPal,Yes,Monthly,6.6,Thriller,6,10,3,0,1,25,Churned,Low usage
+CUST_1665,46,Male,Europe,2025-12-09,Basic,8.23,Credit Card,Yes,Monthly,5.6,Anime,3,1,1,0,1,50,Churned,Low usage
+CUST_1666,37,Male,Middle East & Africa,2025-04-14,Basic,7.59,Direct Debit,No,Annual,8.2,Comedy,6,5,3,2,0,53,Churned,Too expensive
+CUST_1667,38,Male,Middle East & Africa,2024-09-18,Basic,7.41,PayPal,No,Annual,22.2,Drama,6,17,5,3,0,12,Active,Not Churned
+CUST_1668,18,Male,Asia Pacific,2023-06-11,Basic,7.96,Direct Debit,Yes,Annual,8.6,Comedy,6,8,2,1,0,28,Active,Not Churned
+CUST_1669,42,Female,Latin America,2021-10-09,Basic,7.58,PayPal,Yes,Annual,4.7,Drama,4,4,4,2,1,43,Active,Not Churned
+CUST_1670,28,Male,Middle East & Africa,2025-05-23,Basic,8.35,Credit Card,Yes,Monthly,10.4,Drama,6,8,8,0,3,47,Active,Not Churned
+CUST_1671,26,Female,Europe,2021-07-26,Basic,8.36,Digital Wallet,Yes,Monthly,8.5,Anime,7,8,2,0,3,47,Active,Not Churned
+CUST_1672,30,Female,North America,2024-07-19,Premium,19.13,Credit Card,No,Annual,21.7,Sci-Fi,3,15,10,2,2,22,Active,Not Churned
+CUST_1673,30,Male,Asia Pacific,2024-08-25,Basic,7.62,Digital Wallet,No,Annual,21.5,Documentary,2,19,12,1,1,13,Active,Not Churned
+CUST_1674,26,Female,Middle East & Africa,2022-02-07,Standard,13.33,Credit Card,Yes,Monthly,10.6,Drama,6,10,4,0,0,42,Churned,Switched to competitor
+CUST_1675,34,Male,Asia Pacific,2024-04-13,Standard,13.78,PayPal,Yes,Monthly,14.2,Sci-Fi,6,13,8,1,0,17,Active,Not Churned
+CUST_1676,28,Female,Latin America,2021-08-06,Premium,20.19,Credit Card,Yes,Annual,16.2,Documentary,2,10,7,0,0,14,Active,Not Churned
+CUST_1677,35,Male,Europe,2025-08-23,Basic,7.88,Credit Card,Yes,Monthly,10.9,Family,6,8,7,2,0,43,Churned,Too expensive
+CUST_1678,18,Male,North America,2021-11-22,Standard,13.72,PayPal,Yes,Monthly,11.5,Comedy,2,8,3,2,0,38,Churned,Technical issues
+CUST_1679,32,Female,North America,2023-01-26,Premium,20.58,Direct Debit,Yes,Monthly,10.0,Drama,1,6,2,1,3,46,Active,Not Churned
+CUST_1680,22,Female,Middle East & Africa,2024-06-30,Premium,18.95,Credit Card,Yes,Monthly,7.4,Comedy,4,7,4,1,2,51,Churned,Low usage
+CUST_1681,27,Female,Asia Pacific,2025-01-17,Premium,20.55,PayPal,Yes,Monthly,10.0,Documentary,4,7,5,1,2,53,Churned,Technical issues
+CUST_1682,36,Female,North America,2024-04-27,Basic,7.75,Credit Card,Yes,Annual,10.7,Family,2,10,5,1,2,21,Active,Not Churned
+CUST_1683,18,Female,Middle East & Africa,2025-12-02,Basic,7.95,PayPal,No,Monthly,5.3,Sci-Fi,5,3,4,1,0,44,Active,Not Churned
+CUST_1684,25,Male,Asia Pacific,2025-01-06,Standard,13.75,Digital Wallet,Yes,Monthly,13.8,Thriller,4,14,4,0,0,39,Active,Not Churned
+CUST_1685,40,Female,Latin America,2023-10-09,Premium,20.68,Carrier Billing,Yes,Monthly,14.6,Sci-Fi,3,9,4,1,0,39,Active,Not Churned
+CUST_1686,18,Male,Asia Pacific,2021-05-10,Standard,13.44,PayPal,Yes,Annual,10.0,Action,4,8,4,0,1,44,Active,Not Churned
+CUST_1687,54,Male,North America,2025-02-17,Standard,14.0,Credit Card,Yes,Annual,11.3,Thriller,4,11,4,2,0,41,Active,Not Churned
+CUST_1688,47,Male,Asia Pacific,2021-01-03,Basic,8.23,Credit Card,Yes,Annual,5.8,Drama,3,4,2,0,1,48,Churned,Low usage
+CUST_1689,29,Male,Middle East & Africa,2024-10-06,Standard,13.27,Digital Wallet,Yes,Annual,17.9,Action,2,15,11,1,0,26,Churned,Low usage
+CUST_1690,25,Male,North America,2022-07-09,Basic,7.58,Credit Card,No,Monthly,16.3,Family,7,9,9,0,0,38,Active,Not Churned
+CUST_1691,36,Male,Latin America,2024-03-02,Basic,7.92,Carrier Billing,Yes,Monthly,6.2,Comedy,7,9,4,1,1,42,Active,Not Churned
+CUST_1692,18,Male,Europe,2025-09-10,Standard,13.59,PayPal,Yes,Monthly,7.8,Action,2,7,4,0,0,35,Churned,Too expensive
+CUST_1693,18,Female,Europe,2025-02-26,Standard,13.62,Digital Wallet,Yes,Monthly,8.5,Comedy,3,6,3,0,0,41,Active,Not Churned
+CUST_1694,29,Female,Europe,2021-09-23,Basic,7.83,PayPal,No,Annual,14.5,Sci-Fi,7,10,5,0,2,32,Active,Not Churned
+CUST_1695,33,Female,Middle East & Africa,2023-07-12,Basic,8.28,PayPal,No,Monthly,13.1,Action,4,12,4,0,0,25,Active,Not Churned
+CUST_1696,35,Male,Asia Pacific,2021-01-24,Standard,13.84,Direct Debit,Yes,Annual,19.6,Comedy,6,13,7,1,2,22,Active,Not Churned
+CUST_1697,27,Female,Europe,2022-06-18,Basic,8.48,Digital Wallet,Yes,Monthly,19.1,Anime,4,12,8,0,2,25,Active,Not Churned
+CUST_1698,48,Male,Latin America,2021-01-03,Standard,13.54,Digital Wallet,Yes,Monthly,6.6,Family,2,5,1,0,3,50,Active,Not Churned
+CUST_1699,18,Female,North America,2025-08-21,Basic,7.43,Direct Debit,Yes,Monthly,14.2,Comedy,6,8,7,2,0,31,Active,Not Churned
+CUST_1700,21,Male,North America,2023-05-30,Standard,14.86,Direct Debit,Yes,Monthly,20.2,Sci-Fi,1,19,9,1,1,9,Active,Not Churned
+CUST_1701,39,Female,North America,2022-03-03,Standard,13.69,PayPal,Yes,Monthly,11.0,Anime,2,7,4,0,4,49,Active,Not Churned
+CUST_1702,21,Male,Asia Pacific,2021-01-04,Basic,7.4,Direct Debit,Yes,Monthly,11.0,Action,3,11,7,0,2,37,Active,Not Churned
+CUST_1703,21,Female,Asia Pacific,2025-07-01,Basic,7.21,Carrier Billing,Yes,Monthly,10.3,Comedy,6,9,0,1,1,45,Churned,Switched to competitor
+CUST_1704,35,Female,Middle East & Africa,2023-03-19,Basic,8.47,PayPal,Yes,Monthly,10.5,Documentary,1,6,4,1,2,45,Churned,Low usage
+CUST_1705,22,Female,Asia Pacific,2023-02-23,Basic,7.84,Direct Debit,No,Monthly,16.4,Documentary,7,12,3,1,2,44,Churned,Payment issues
+CUST_1706,33,Male,North America,2022-05-18,Premium,19.88,PayPal,Yes,Monthly,27.3,Comedy,1,21,13,0,0,10,Active,Not Churned
+CUST_1707,26,Male,Latin America,2021-08-20,Basic,7.92,PayPal,Yes,Monthly,20.9,Action,3,15,11,2,1,29,Active,Not Churned
+CUST_1708,25,Female,Europe,2023-05-23,Premium,20.45,Digital Wallet,Yes,Monthly,11.7,Action,6,12,3,1,3,38,Churned,Too expensive
+CUST_1709,18,Male,Middle East & Africa,2023-01-20,Basic,7.91,PayPal,Yes,Monthly,12.7,Sci-Fi,5,12,3,0,1,31,Active,Not Churned
+CUST_1710,36,Female,Europe,2021-03-13,Standard,15.04,Credit Card,Yes,Monthly,9.0,Sci-Fi,2,9,1,0,0,42,Churned,Switched to competitor
+CUST_1711,20,Male,North America,2021-03-29,Standard,14.05,PayPal,Yes,Monthly,9.4,Sci-Fi,4,7,4,0,0,47,Churned,Too expensive
+CUST_1712,32,Female,Asia Pacific,2022-06-12,Standard,14.47,Credit Card,Yes,Monthly,12.3,Documentary,7,7,5,0,1,51,Churned,Lack of content
+CUST_1713,28,Female,North America,2023-06-05,Standard,14.35,PayPal,Yes,Monthly,9.3,Family,6,6,4,0,2,47,Churned,Technical issues
+CUST_1714,32,Female,North America,2022-08-26,Standard,13.97,Digital Wallet,Yes,Annual,9.9,Family,2,8,4,1,1,45,Active,Not Churned
+CUST_1715,32,Male,Asia Pacific,2022-03-26,Basic,7.73,Direct Debit,Yes,Monthly,12.5,Documentary,3,11,4,1,1,43,Active,Not Churned
+CUST_1716,36,Male,North America,2022-03-15,Premium,20.14,Carrier Billing,No,Annual,17.2,Sci-Fi,4,8,10,1,0,32,Active,Not Churned
+CUST_1717,26,Female,North America,2025-04-05,Premium,20.22,Credit Card,Yes,Monthly,17.0,Action,5,13,8,0,1,23,Active,Not Churned
+CUST_1718,48,Female,Europe,2024-12-29,Premium,19.73,Digital Wallet,Yes,Monthly,17.0,Comedy,7,13,5,0,0,23,Active,Not Churned
+CUST_1719,18,Male,Asia Pacific,2025-10-14,Basic,8.06,Direct Debit,Yes,Annual,6.0,Anime,3,5,1,2,0,54,Churned,Payment issues
+CUST_1720,32,Male,Europe,2024-01-13,Standard,14.55,Credit Card,No,Monthly,9.1,Family,2,10,2,0,5,53,Active,Not Churned
+CUST_1721,43,Female,North America,2024-09-24,Premium,20.92,Direct Debit,Yes,Annual,14.4,Action,7,12,9,1,1,28,Active,Not Churned
+CUST_1722,39,Female,Asia Pacific,2021-05-06,Basic,8.37,Digital Wallet,Yes,Monthly,18.3,Thriller,1,16,10,1,1,8,Active,Not Churned
+CUST_1723,23,Female,Latin America,2022-07-17,Basic,8.83,Credit Card,No,Monthly,30.9,Family,3,21,14,0,0,4,Active,Not Churned
+CUST_1724,25,Female,Asia Pacific,2023-11-08,Standard,13.71,PayPal,Yes,Annual,14.4,Thriller,3,13,10,1,2,24,Active,Not Churned
+CUST_1725,23,Female,Europe,2023-04-29,Standard,14.31,Digital Wallet,Yes,Monthly,17.2,Thriller,2,16,11,0,1,6,Active,Not Churned
+CUST_1726,41,Male,North America,2023-05-15,Premium,20.59,Credit Card,Yes,Monthly,8.7,Drama,5,10,3,1,1,25,Active,Not Churned
+CUST_1727,26,Male,Asia Pacific,2025-07-11,Basic,7.59,Direct Debit,No,Monthly,15.5,Action,2,9,6,1,0,37,Churned,Switched to competitor
+CUST_1728,37,Male,Middle East & Africa,2025-07-18,Premium,19.77,PayPal,Yes,Monthly,29.8,Drama,2,20,13,2,1,23,Active,Not Churned
+CUST_1729,37,Female,Asia Pacific,2025-04-13,Basic,8.77,PayPal,Yes,Monthly,7.6,Thriller,5,6,2,1,2,49,Active,Not Churned
+CUST_1730,60,Male,North America,2023-07-13,Basic,7.55,Direct Debit,Yes,Monthly,8.5,Action,5,8,7,2,0,41,Active,Not Churned
+CUST_1731,37,Male,North America,2021-12-11,Basic,7.39,Credit Card,Yes,Annual,16.7,Drama,3,14,5,1,2,38,Active,Not Churned
+CUST_1732,25,Male,Middle East & Africa,2022-04-13,Premium,20.68,Direct Debit,Yes,Annual,14.3,Sci-Fi,1,9,8,1,1,25,Active,Not Churned
+CUST_1733,18,Male,Latin America,2023-09-08,Standard,14.53,Credit Card,Yes,Monthly,5.7,Anime,2,5,4,5,0,57,Churned,Switched to competitor
+CUST_1734,31,Female,Europe,2021-05-21,Standard,14.18,Credit Card,Yes,Annual,10.3,Sci-Fi,1,4,4,1,1,50,Churned,Too expensive
+CUST_1735,33,Female,Europe,2023-10-27,Standard,13.97,PayPal,Yes,Monthly,22.9,Family,5,20,14,1,3,21,Active,Not Churned
+CUST_1736,18,Female,Middle East & Africa,2022-10-31,Premium,19.79,PayPal,Yes,Monthly,12.7,Action,5,9,3,3,2,41,Active,Not Churned
+CUST_1737,26,Male,North America,2025-06-30,Standard,14.12,Credit Card,No,Annual,11.2,Sci-Fi,2,9,5,0,2,32,Churned,Low usage
+CUST_1738,37,Female,Asia Pacific,2022-09-23,Premium,20.7,Carrier Billing,Yes,Annual,19.2,Sci-Fi,3,13,8,1,3,35,Churned,Lack of content
+CUST_1739,28,Male,Latin America,2025-07-31,Standard,14.1,Digital Wallet,No,Annual,14.6,Drama,7,14,9,1,2,42,Active,Not Churned
+CUST_1740,45,Female,Europe,2025-04-14,Standard,14.97,Digital Wallet,Yes,Monthly,11.0,Sci-Fi,2,2,6,1,1,62,Churned,Too expensive
+CUST_1741,18,Male,North America,2025-08-29,Standard,13.59,PayPal,Yes,Monthly,9.7,Documentary,3,8,1,2,1,38,Active,Not Churned
+CUST_1742,41,Male,North America,2023-12-25,Basic,7.98,Digital Wallet,Yes,Annual,38.2,Documentary,4,21,20,0,0,0,Active,Not Churned
+CUST_1743,44,Male,Middle East & Africa,2023-12-16,Standard,13.82,Digital Wallet,Yes,Monthly,21.2,Action,3,14,11,0,0,7,Active,Not Churned
+CUST_1744,45,Female,Asia Pacific,2023-03-09,Standard,13.5,PayPal,No,Annual,15.5,Thriller,2,15,5,1,1,33,Churned,Switched to competitor
+CUST_1745,18,Female,Latin America,2024-01-25,Basic,7.92,Credit Card,No,Monthly,14.5,Family,2,9,6,2,0,29,Active,Not Churned
+CUST_1746,37,Male,Asia Pacific,2023-08-13,Premium,20.18,Credit Card,Yes,Annual,13.5,Action,3,12,3,1,1,28,Active,Not Churned
+CUST_1747,27,Male,Middle East & Africa,2021-08-03,Standard,14.23,PayPal,Yes,Monthly,14.6,Comedy,1,12,6,0,2,42,Active,Not Churned
+CUST_1748,19,Female,Middle East & Africa,2023-01-13,Standard,14.97,Digital Wallet,Yes,Monthly,11.5,Sci-Fi,3,12,5,2,0,16,Active,Not Churned
+CUST_1749,29,Male,Asia Pacific,2021-02-27,Premium,20.2,PayPal,Yes,Monthly,10.3,Action,4,7,4,2,3,63,Churned,Switched to competitor
+CUST_1750,24,Male,Europe,2023-06-25,Standard,14.51,Direct Debit,Yes,Annual,14.8,Sci-Fi,4,10,6,0,1,31,Active,Not Churned
+CUST_1751,44,Male,Asia Pacific,2025-02-24,Basic,8.02,Credit Card,Yes,Annual,9.6,Drama,1,10,1,0,0,21,Churned,Payment issues
+CUST_1752,40,Female,Asia Pacific,2022-02-09,Premium,20.75,Credit Card,Yes,Monthly,16.6,Family,4,13,8,2,0,25,Active,Not Churned
+CUST_1753,21,Male,Asia Pacific,2024-04-22,Standard,15.07,PayPal,Yes,Monthly,16.4,Comedy,2,9,4,0,0,27,Churned,Switched to competitor
+CUST_1754,26,Other,Latin America,2024-07-29,Basic,8.23,Digital Wallet,No,Monthly,14.0,Family,1,9,6,0,2,42,Churned,Too expensive
+CUST_1755,30,Male,North America,2025-12-12,Basic,7.54,PayPal,No,Monthly,7.0,Action,1,7,0,3,1,42,Churned,Lack of content
+CUST_1756,33,Male,Europe,2022-12-22,Premium,19.74,Digital Wallet,Yes,Monthly,12.1,Action,1,11,6,0,1,15,Active,Not Churned
+CUST_1757,45,Male,Asia Pacific,2024-04-01,Standard,14.12,Credit Card,No,Monthly,11.2,Comedy,6,7,5,2,1,43,Churned,Technical issues
+CUST_1758,42,Female,Europe,2024-01-18,Standard,14.2,Direct Debit,Yes,Monthly,19.0,Thriller,3,7,9,1,0,29,Active,Not Churned
+CUST_1759,35,Male,Europe,2023-02-22,Premium,20.3,Direct Debit,Yes,Monthly,20.1,Sci-Fi,3,16,11,0,0,17,Active,Not Churned
+CUST_1760,31,Female,Middle East & Africa,2021-04-07,Premium,20.2,Carrier Billing,Yes,Annual,10.8,Documentary,1,6,7,0,2,37,Active,Not Churned
+CUST_1761,18,Male,Asia Pacific,2022-08-10,Basic,7.99,Credit Card,Yes,Annual,5.9,Comedy,7,1,0,0,1,52,Churned,Too expensive
+CUST_1762,48,Male,Middle East & Africa,2024-01-17,Basic,7.7,Credit Card,Yes,Monthly,31.6,Action,4,16,14,0,1,20,Active,Not Churned
+CUST_1763,29,Female,Latin America,2022-06-02,Basic,8.17,Credit Card,No,Monthly,13.7,Anime,6,12,10,1,1,29,Active,Not Churned
+CUST_1764,51,Female,Latin America,2022-10-30,Standard,14.82,Digital Wallet,No,Annual,7.0,Anime,6,6,3,1,1,47,Churned,Low usage
+CUST_1765,36,Male,Asia Pacific,2023-12-23,Basic,8.45,Credit Card,Yes,Annual,8.4,Action,2,6,2,0,1,49,Active,Not Churned
+CUST_1766,56,Female,North America,2022-06-25,Standard,14.23,Credit Card,No,Monthly,19.4,Drama,2,17,9,1,1,8,Active,Not Churned
+CUST_1767,41,Female,Asia Pacific,2023-03-27,Standard,14.45,PayPal,Yes,Annual,29.3,Sci-Fi,3,21,12,0,1,5,Active,Not Churned
+CUST_1768,18,Male,Europe,2021-07-10,Premium,19.82,PayPal,Yes,Monthly,28.5,Comedy,5,21,10,3,0,0,Active,Not Churned
+CUST_1769,27,Male,Middle East & Africa,2023-07-06,Basic,7.76,Carrier Billing,Yes,Monthly,13.4,Documentary,1,7,8,0,0,39,Active,Not Churned
+CUST_1770,32,Male,Europe,2022-12-17,Premium,19.65,Digital Wallet,Yes,Monthly,14.2,Comedy,5,11,8,1,1,30,Active,Not Churned
+CUST_1771,24,Male,Europe,2024-07-25,Basic,7.93,PayPal,Yes,Monthly,6.7,Anime,2,2,0,1,1,47,Churned,Switched to competitor
+CUST_1772,30,Female,Asia Pacific,2022-06-23,Premium,19.8,Digital Wallet,Yes,Annual,14.6,Documentary,7,11,6,1,1,35,Churned,Too expensive
+CUST_1773,19,Male,Asia Pacific,2021-03-26,Basic,8.53,Direct Debit,Yes,Monthly,7.1,Anime,3,6,2,2,0,53,Active,Not Churned
+CUST_1774,34,Male,North America,2024-09-20,Standard,13.78,Credit Card,Yes,Monthly,10.6,Anime,3,10,2,3,0,32,Active,Not Churned
+CUST_1775,37,Male,North America,2022-03-17,Premium,19.63,Digital Wallet,Yes,Annual,19.7,Thriller,3,14,6,1,2,21,Active,Not Churned
+CUST_1776,23,Female,Latin America,2025-10-12,Basic,8.86,Direct Debit,Yes,Annual,10.0,Anime,3,9,2,2,2,44,Active,Not Churned
+CUST_1777,55,Female,Asia Pacific,2025-08-01,Basic,7.79,PayPal,Yes,Annual,9.6,Thriller,3,9,4,2,1,29,Active,Not Churned
+CUST_1778,35,Male,North America,2023-03-01,Standard,14.06,Direct Debit,Yes,Monthly,12.4,Anime,1,14,5,0,0,15,Active,Not Churned
+CUST_1779,25,Male,Asia Pacific,2024-04-10,Standard,14.19,PayPal,Yes,Monthly,35.5,Action,6,21,14,2,1,19,Active,Not Churned
+CUST_1780,18,Male,Europe,2021-12-05,Standard,13.48,Credit Card,No,Annual,7.9,Drama,5,5,3,1,0,45,Churned,Switched to competitor
+CUST_1781,35,Female,North America,2025-08-19,Standard,14.55,Direct Debit,Yes,Monthly,14.3,Comedy,7,11,8,1,0,14,Active,Not Churned
+CUST_1782,31,Male,Middle East & Africa,2024-06-06,Standard,14.28,Carrier Billing,Yes,Monthly,25.9,Action,6,17,12,1,1,3,Active,Not Churned
+CUST_1783,43,Female,Europe,2024-04-17,Basic,8.69,Direct Debit,Yes,Monthly,10.9,Documentary,2,12,7,2,3,40,Active,Not Churned
+CUST_1784,32,Male,North America,2024-06-24,Basic,7.68,Credit Card,Yes,Monthly,19.5,Anime,2,14,8,0,1,30,Active,Not Churned
+CUST_1785,21,Female,Middle East & Africa,2023-10-01,Basic,8.03,Digital Wallet,Yes,Monthly,5.7,Anime,6,4,6,0,0,32,Active,Not Churned
+CUST_1786,52,Female,Latin America,2022-11-05,Premium,20.01,Credit Card,Yes,Monthly,13.1,Sci-Fi,3,9,7,1,0,38,Churned,Too expensive
+CUST_1787,39,Female,Europe,2025-08-26,Standard,14.11,Credit Card,No,Monthly,9.0,Sci-Fi,3,9,3,0,1,46,Churned,Too expensive
+CUST_1788,31,Male,Europe,2022-12-31,Standard,13.34,Credit Card,Yes,Monthly,12.3,Action,6,9,6,1,0,50,Churned,Too expensive
+CUST_1789,36,Female,Middle East & Africa,2021-11-13,Standard,14.04,Credit Card,Yes,Monthly,12.4,Action,3,8,3,0,0,38,Churned,Payment issues
+CUST_1790,39,Male,Europe,2024-08-02,Premium,19.35,PayPal,Yes,Monthly,14.5,Documentary,6,15,6,1,0,24,Churned,Low usage
+CUST_1791,18,Male,Asia Pacific,2021-03-17,Basic,8.15,Direct Debit,Yes,Annual,16.6,Drama,7,10,8,1,2,21,Active,Not Churned
+CUST_1792,36,Female,Asia Pacific,2023-09-01,Standard,13.03,Digital Wallet,Yes,Annual,5.1,Action,4,5,4,2,0,63,Churned,Too expensive
+CUST_1793,29,Female,Europe,2023-09-26,Standard,13.16,Digital Wallet,Yes,Monthly,9.8,Comedy,2,9,4,0,0,28,Active,Not Churned
+CUST_1794,40,Female,Asia Pacific,2025-01-15,Standard,14.36,Carrier Billing,No,Monthly,13.9,Drama,3,7,12,1,1,35,Churned,Too expensive
+CUST_1795,26,Male,Asia Pacific,2021-07-23,Basic,7.74,PayPal,Yes,Monthly,4.3,Action,5,5,2,2,1,48,Active,Not Churned
+CUST_1796,27,Female,North America,2025-10-18,Premium,19.55,Direct Debit,No,Monthly,18.0,Comedy,4,11,5,0,1,43,Active,Not Churned
+CUST_1797,52,Male,Latin America,2022-02-28,Premium,20.56,Carrier Billing,Yes,Monthly,11.2,Action,1,11,7,0,1,48,Active,Not Churned
+CUST_1798,48,Male,North America,2025-10-25,Standard,14.14,PayPal,Yes,Monthly,11.7,Action,7,7,6,1,1,44,Churned,Technical issues
+CUST_1799,18,Female,Asia Pacific,2021-07-12,Standard,14.38,Direct Debit,Yes,Annual,18.4,Thriller,4,15,9,1,1,31,Active,Not Churned
+CUST_1800,47,Male,Asia Pacific,2024-08-09,Premium,19.92,PayPal,Yes,Monthly,23.0,Comedy,4,19,9,2,0,12,Active,Not Churned
+CUST_1801,33,Female,Latin America,2025-09-24,Standard,15.2,PayPal,No,Monthly,16.7,Sci-Fi,7,14,8,2,0,16,Active,Not Churned
+CUST_1802,26,Male,Europe,2023-06-16,Basic,7.72,PayPal,Yes,Monthly,6.3,Drama,4,6,6,1,1,57,Active,Not Churned
+CUST_1803,23,Male,Latin America,2023-02-20,Standard,14.78,Direct Debit,Yes,Annual,16.3,Family,5,12,8,1,1,25,Active,Not Churned
+CUST_1804,24,Female,North America,2024-12-07,Standard,13.96,Direct Debit,No,Monthly,16.8,Documentary,7,11,5,4,1,51,Churned,Technical issues
+CUST_1805,27,Female,Asia Pacific,2025-01-02,Standard,13.25,PayPal,No,Annual,15.4,Comedy,2,15,0,3,1,37,Active,Not Churned
+CUST_1806,22,Male,Latin America,2021-10-28,Standard,14.21,PayPal,Yes,Monthly,23.0,Drama,7,15,11,2,0,26,Active,Not Churned
+CUST_1807,19,Male,Middle East & Africa,2021-09-17,Premium,20.13,Digital Wallet,No,Annual,14.6,Action,3,9,5,1,0,49,Active,Not Churned
+CUST_1808,23,Female,Asia Pacific,2024-04-30,Premium,19.52,Digital Wallet,Yes,Annual,24.1,Thriller,5,19,11,0,1,29,Active,Not Churned
+CUST_1809,38,Male,Europe,2024-07-18,Standard,13.58,Credit Card,No,Annual,22.6,Sci-Fi,5,14,9,0,1,22,Active,Not Churned
+CUST_1810,35,Male,North America,2023-10-01,Basic,7.98,Credit Card,Yes,Monthly,15.5,Drama,7,9,5,1,0,28,Churned,Too expensive
+CUST_1811,40,Female,Europe,2022-09-08,Premium,20.15,Direct Debit,No,Monthly,15.9,Family,6,9,6,2,1,25,Active,Not Churned
+CUST_1812,33,Male,Asia Pacific,2022-03-08,Premium,18.88,PayPal,No,Monthly,16.9,Comedy,3,11,6,1,4,60,Churned,Too expensive
+CUST_1813,20,Female,North America,2022-12-17,Basic,8.46,Credit Card,Yes,Annual,23.8,Sci-Fi,6,17,12,0,0,9,Active,Not Churned
+CUST_1814,39,Female,Middle East & Africa,2022-11-27,Premium,19.77,PayPal,No,Monthly,21.3,Thriller,6,16,11,2,2,34,Active,Not Churned
+CUST_1815,23,Other,Middle East & Africa,2024-05-25,Premium,19.39,Carrier Billing,Yes,Monthly,9.6,Thriller,7,10,2,0,0,24,Churned,Too expensive
+CUST_1816,41,Male,North America,2024-01-20,Standard,14.41,Carrier Billing,Yes,Monthly,15.0,Anime,4,12,5,1,0,39,Active,Not Churned
+CUST_1817,21,Female,Asia Pacific,2021-07-17,Standard,13.98,PayPal,Yes,Monthly,8.8,Thriller,6,7,5,0,1,35,Churned,Lack of content
+CUST_1818,26,Male,Latin America,2023-09-10,Standard,14.54,PayPal,No,Monthly,9.6,Family,1,7,6,0,1,31,Churned,Too expensive
+CUST_1819,30,Male,Europe,2024-11-23,Basic,8.19,PayPal,Yes,Monthly,9.3,Family,4,9,6,0,1,34,Churned,Switched to competitor
+CUST_1820,41,Male,Asia Pacific,2021-02-08,Basic,7.99,Credit Card,Yes,Monthly,5.5,Comedy,4,8,0,0,1,34,Active,Not Churned
+CUST_1821,36,Male,Europe,2022-12-10,Premium,19.92,PayPal,Yes,Monthly,10.1,Comedy,6,8,7,0,2,46,Active,Not Churned
+CUST_1822,34,Male,North America,2022-04-16,Basic,8.21,Credit Card,No,Annual,22.1,Drama,6,15,6,1,1,22,Churned,Technical issues
+CUST_1823,55,Female,Asia Pacific,2021-03-20,Basic,7.8,PayPal,Yes,Annual,8.0,Thriller,2,5,3,0,0,48,Active,Not Churned
+CUST_1824,18,Male,Middle East & Africa,2022-12-30,Standard,13.61,Credit Card,No,Annual,18.1,Action,4,10,9,0,1,31,Churned,Lack of content
+CUST_1825,23,Male,Europe,2024-01-23,Standard,14.26,Direct Debit,No,Monthly,13.6,Comedy,1,12,2,1,0,22,Active,Not Churned
+CUST_1826,22,Female,Asia Pacific,2022-11-15,Premium,19.92,Direct Debit,Yes,Annual,17.5,Action,5,14,12,2,0,19,Active,Not Churned
+CUST_1827,18,Male,Europe,2021-02-12,Basic,8.01,PayPal,Yes,Monthly,14.8,Anime,7,12,9,1,0,43,Active,Not Churned
+CUST_1828,26,Female,Middle East & Africa,2021-05-12,Basic,8.48,Credit Card,Yes,Monthly,6.9,Anime,6,6,4,1,1,47,Active,Not Churned
+CUST_1829,42,Female,Middle East & Africa,2021-03-18,Standard,13.94,Credit Card,No,Monthly,18.1,Drama,4,16,6,0,2,6,Active,Not Churned
+CUST_1830,27,Female,North America,2024-06-09,Standard,14.0,Direct Debit,Yes,Monthly,7.5,Documentary,5,5,3,0,0,38,Active,Not Churned
+CUST_1831,30,Male,Middle East & Africa,2021-02-08,Basic,7.72,Credit Card,Yes,Monthly,7.9,Comedy,6,9,5,1,1,38,Active,Not Churned
+CUST_1832,18,Other,North America,2025-05-09,Standard,14.18,Credit Card,No,Annual,16.2,Comedy,2,12,5,0,0,40,Churned,Low usage
+CUST_1833,25,Female,North America,2021-05-31,Basic,8.15,Direct Debit,Yes,Monthly,6.7,Family,7,5,3,2,0,55,Active,Not Churned
+CUST_1834,29,Female,Asia Pacific,2025-09-20,Basic,8.4,Direct Debit,Yes,Monthly,4.1,Anime,6,5,4,0,2,42,Churned,Technical issues
+CUST_1835,41,Male,Europe,2023-09-03,Standard,13.73,Credit Card,No,Monthly,14.7,Drama,1,12,4,2,0,48,Active,Not Churned
+CUST_1836,18,Female,Asia Pacific,2024-12-13,Standard,13.78,PayPal,Yes,Monthly,6.5,Family,3,7,4,1,3,49,Churned,Switched to competitor
+CUST_1837,29,Female,Asia Pacific,2024-04-24,Premium,20.35,Digital Wallet,No,Monthly,18.4,Comedy,3,14,5,1,1,35,Churned,Payment issues
+CUST_1838,46,Male,North America,2021-11-14,Standard,14.1,Digital Wallet,Yes,Monthly,11.1,Anime,6,9,3,1,0,25,Active,Not Churned
+CUST_1839,29,Female,Europe,2025-01-27,Standard,13.58,Credit Card,No,Annual,14.6,Documentary,2,16,6,1,0,0,Active,Not Churned
+CUST_1840,18,Female,Asia Pacific,2024-12-26,Standard,14.58,Carrier Billing,Yes,Monthly,14.5,Comedy,1,14,8,2,1,16,Active,Not Churned
+CUST_1841,48,Female,Europe,2024-03-04,Basic,7.23,Direct Debit,Yes,Monthly,15.9,Sci-Fi,6,13,6,2,1,4,Active,Not Churned
+CUST_1842,42,Male,North America,2025-03-07,Standard,14.34,Digital Wallet,No,Annual,16.4,Drama,5,12,8,1,2,50,Churned,Technical issues
+CUST_1843,44,Female,North America,2025-09-05,Basic,7.42,PayPal,Yes,Annual,6.7,Sci-Fi,2,8,2,0,1,40,Active,Not Churned
+CUST_1844,18,Male,Latin America,2024-07-16,Premium,20.84,Direct Debit,Yes,Annual,12.9,Comedy,4,11,5,0,2,27,Active,Not Churned
+CUST_1845,51,Female,Middle East & Africa,2022-03-13,Basic,7.29,Direct Debit,No,Monthly,13.1,Sci-Fi,5,10,8,0,1,37,Active,Not Churned
+CUST_1846,25,Male,North America,2022-09-19,Standard,14.51,PayPal,Yes,Monthly,22.8,Anime,6,16,8,0,0,17,Active,Not Churned
+CUST_1847,28,Male,Europe,2025-03-02,Basic,7.95,Carrier Billing,No,Monthly,15.0,Anime,4,11,8,1,1,38,Churned,Switched to competitor
+CUST_1848,26,Male,Asia Pacific,2025-10-23,Premium,19.83,Credit Card,Yes,Annual,23.4,Thriller,4,10,11,2,2,50,Active,Not Churned
+CUST_1849,44,Female,Middle East & Africa,2022-07-05,Standard,14.07,Credit Card,Yes,Annual,14.9,Action,7,12,6,3,1,32,Active,Not Churned
+CUST_1850,32,Female,Europe,2021-12-06,Standard,14.27,PayPal,Yes,Monthly,19.9,Action,5,13,7,0,2,22,Active,Not Churned
+CUST_1851,39,Male,Middle East & Africa,2024-06-19,Basic,7.58,Digital Wallet,Yes,Monthly,12.6,Drama,7,13,3,4,0,37,Churned,Switched to competitor
+CUST_1852,35,Male,Asia Pacific,2024-05-29,Standard,13.62,PayPal,Yes,Annual,19.6,Family,4,14,7,1,0,28,Active,Not Churned
+CUST_1853,33,Male,Middle East & Africa,2022-10-20,Basic,8.28,Direct Debit,Yes,Monthly,9.4,Thriller,7,5,4,0,1,47,Churned,Payment issues
+CUST_1854,24,Female,North America,2023-07-07,Premium,19.22,Direct Debit,No,Monthly,25.5,Family,3,18,13,1,1,33,Churned,Switched to competitor
+CUST_1855,54,Male,Middle East & Africa,2025-08-27,Basic,7.73,Credit Card,Yes,Monthly,14.2,Drama,7,8,6,2,2,42,Active,Not Churned
+CUST_1856,18,Male,Europe,2021-12-27,Basic,9.36,PayPal,Yes,Monthly,5.5,Anime,5,6,2,3,1,42,Active,Not Churned
+CUST_1857,39,Female,Middle East & Africa,2023-09-23,Basic,7.55,Direct Debit,Yes,Annual,13.3,Sci-Fi,2,11,6,0,1,34,Active,Not Churned
+CUST_1858,38,Male,Asia Pacific,2023-02-10,Standard,14.51,Digital Wallet,Yes,Monthly,16.5,Sci-Fi,3,14,8,1,1,20,Active,Not Churned
+CUST_1859,47,Male,Asia Pacific,2021-07-09,Standard,13.73,Credit Card,Yes,Monthly,18.4,Documentary,2,12,10,0,1,32,Active,Not Churned
+CUST_1860,49,Male,Latin America,2022-02-17,Basic,8.22,PayPal,Yes,Monthly,26.4,Comedy,1,19,9,1,1,6,Active,Not Churned
+CUST_1861,32,Female,Latin America,2021-11-25,Standard,14.28,Credit Card,Yes,Monthly,10.2,Documentary,2,5,4,1,0,41,Active,Not Churned
+CUST_1862,40,Female,Asia Pacific,2025-12-05,Standard,14.5,Credit Card,Yes,Monthly,27.9,Thriller,5,21,15,2,0,22,Active,Not Churned
+CUST_1863,53,Female,Europe,2024-05-30,Standard,13.9,PayPal,Yes,Monthly,12.7,Drama,2,11,3,0,1,27,Active,Not Churned
+CUST_1864,33,Male,Latin America,2025-09-06,Standard,14.88,PayPal,Yes,Monthly,9.2,Family,1,9,4,2,0,30,Churned,Payment issues
+CUST_1865,22,Female,Middle East & Africa,2021-04-02,Standard,13.72,Credit Card,Yes,Annual,10.3,Sci-Fi,4,8,4,0,1,48,Churned,Lack of content
+CUST_1866,30,Male,North America,2022-03-16,Standard,14.1,Credit Card,No,Annual,16.1,Documentary,5,13,6,0,1,17,Active,Not Churned
+CUST_1867,20,Female,Asia Pacific,2024-02-04,Basic,8.1,Direct Debit,Yes,Monthly,7.2,Documentary,6,10,6,3,1,34,Active,Not Churned
+CUST_1868,38,Female,Middle East & Africa,2021-09-02,Basic,7.49,Digital Wallet,Yes,Monthly,9.5,Sci-Fi,3,7,4,1,1,47,Active,Not Churned
+CUST_1869,46,Female,Asia Pacific,2024-08-21,Premium,19.86,Credit Card,Yes,Annual,16.2,Comedy,3,12,10,0,3,42,Churned,Lack of content
+CUST_1870,33,Male,Latin America,2025-04-28,Premium,20.06,Direct Debit,Yes,Monthly,25.4,Anime,2,16,11,1,0,27,Active,Not Churned
+CUST_1871,18,Female,Middle East & Africa,2023-06-28,Standard,13.8,Credit Card,No,Annual,18.1,Action,3,11,9,0,1,25,Active,Not Churned
+CUST_1872,45,Female,Latin America,2025-11-29,Basic,9.09,Digital Wallet,No,Monthly,11.4,Family,7,9,4,1,1,42,Active,Not Churned
+CUST_1873,18,Male,Latin America,2023-04-13,Standard,13.61,Direct Debit,Yes,Annual,16.0,Drama,1,14,6,3,2,29,Active,Not Churned
+CUST_1874,18,Female,Middle East & Africa,2025-06-10,Standard,14.52,Carrier Billing,Yes,Annual,14.0,Drama,6,10,7,2,2,36,Active,Not Churned
+CUST_1875,32,Female,Middle East & Africa,2021-04-07,Basic,8.38,Credit Card,Yes,Monthly,6.2,Family,7,5,4,0,3,62,Churned,Low usage
+CUST_1876,37,Female,Latin America,2023-07-27,Basic,7.98,Direct Debit,Yes,Annual,24.3,Drama,3,16,12,0,1,14,Active,Not Churned
+CUST_1877,39,Female,North America,2023-08-12,Standard,13.6,PayPal,No,Annual,24.1,Drama,7,16,12,2,1,24,Active,Not Churned
+CUST_1878,33,Male,Europe,2025-02-09,Standard,13.64,Credit Card,Yes,Monthly,12.3,Thriller,2,10,3,2,2,42,Active,Not Churned
+CUST_1879,53,Female,Asia Pacific,2024-07-13,Basic,7.76,Credit Card,Yes,Monthly,8.9,Drama,3,4,2,1,0,38,Churned,Low usage
+CUST_1880,35,Female,Latin America,2022-07-29,Basic,7.19,PayPal,Yes,Monthly,6.3,Action,7,8,5,2,1,50,Churned,Low usage
+CUST_1881,45,Male,Europe,2021-04-13,Basic,7.54,Direct Debit,Yes,Annual,15.0,Drama,4,10,3,1,1,40,Active,Not Churned
+CUST_1882,43,Male,North America,2024-07-01,Standard,13.32,Credit Card,Yes,Monthly,16.5,Thriller,4,14,8,1,0,6,Active,Not Churned
+CUST_1883,20,Male,Europe,2025-01-18,Basic,8.6,PayPal,No,Monthly,7.5,Drama,3,4,3,1,1,52,Active,Not Churned
+CUST_1884,32,Male,Latin America,2023-04-09,Basic,8.27,Credit Card,Yes,Monthly,12.6,Documentary,5,11,7,1,1,27,Active,Not Churned
+CUST_1885,57,Female,Middle East & Africa,2022-05-28,Premium,20.34,Credit Card,Yes,Annual,19.4,Comedy,6,16,10,0,2,30,Active,Not Churned
+CUST_1886,28,Male,Middle East & Africa,2022-10-28,Basic,8.25,Direct Debit,Yes,Monthly,8.6,Drama,3,8,3,3,0,29,Active,Not Churned
+CUST_1887,27,Male,Europe,2025-02-25,Standard,14.07,Credit Card,Yes,Monthly,11.6,Action,4,7,4,3,1,44,Active,Not Churned
+CUST_1888,36,Male,Europe,2024-07-08,Basic,8.65,PayPal,Yes,Annual,10.1,Family,4,9,3,3,1,45,Active,Not Churned
+CUST_1889,29,Male,Europe,2021-02-04,Basic,7.72,PayPal,Yes,Monthly,7.7,Sci-Fi,1,4,5,0,0,45,Churned,Payment issues
+CUST_1890,25,Male,Europe,2024-11-05,Basic,8.04,Direct Debit,Yes,Monthly,10.2,Action,2,8,0,1,1,46,Active,Not Churned
+CUST_1891,29,Male,Asia Pacific,2022-02-01,Standard,14.33,PayPal,Yes,Monthly,6.6,Drama,1,8,3,0,1,26,Churned,Too expensive
+CUST_1892,50,Male,Europe,2021-01-27,Premium,19.4,Digital Wallet,No,Monthly,12.9,Comedy,5,12,4,0,0,38,Active,Not Churned
+CUST_1893,32,Female,North America,2021-11-02,Premium,21.38,PayPal,Yes,Monthly,12.9,Sci-Fi,2,10,6,1,2,43,Churned,Technical issues
+CUST_1894,19,Male,Europe,2025-10-26,Standard,14.0,Direct Debit,No,Monthly,12.3,Drama,3,7,6,1,0,50,Active,Not Churned
+CUST_1895,18,Female,North America,2022-11-30,Standard,14.05,Credit Card,Yes,Monthly,15.5,Drama,3,13,4,0,2,36,Active,Not Churned
+CUST_1896,58,Male,North America,2025-08-22,Basic,8.56,PayPal,Yes,Monthly,6.1,Thriller,5,5,2,0,2,49,Churned,Technical issues
+CUST_1897,32,Male,Asia Pacific,2022-08-04,Basic,8.4,PayPal,Yes,Monthly,6.6,Comedy,6,1,3,0,1,45,Active,Not Churned
+CUST_1898,39,Male,North America,2021-06-14,Premium,20.01,Credit Card,No,Monthly,10.6,Action,4,10,5,2,0,29,Active,Not Churned
+CUST_1899,26,Male,Asia Pacific,2024-07-05,Basic,8.05,PayPal,Yes,Annual,5.8,Action,6,5,2,1,0,57,Churned,Switched to competitor
+CUST_1900,38,Male,Europe,2021-04-12,Basic,7.31,Credit Card,Yes,Monthly,14.8,Comedy,3,14,4,2,0,35,Active,Not Churned
+CUST_1901,50,Male,Asia Pacific,2022-03-31,Basic,7.74,Credit Card,Yes,Annual,8.5,Action,1,5,2,2,0,42,Active,Not Churned
+CUST_1902,27,Male,Middle East & Africa,2021-07-12,Basic,8.22,Credit Card,Yes,Annual,11.0,Drama,4,2,2,1,1,33,Churned,Too expensive
+CUST_1903,39,Female,Asia Pacific,2025-11-30,Basic,8.19,Direct Debit,Yes,Monthly,7.3,Documentary,3,7,4,2,1,43,Active,Not Churned
+CUST_1904,19,Male,Asia Pacific,2023-07-05,Standard,14.54,Direct Debit,No,Annual,10.9,Sci-Fi,4,9,5,0,1,33,Active,Not Churned
+CUST_1905,56,Female,Middle East & Africa,2023-06-17,Standard,13.94,Credit Card,Yes,Monthly,14.4,Sci-Fi,6,7,6,1,1,41,Active,Not Churned
+CUST_1906,37,Female,Europe,2023-03-21,Premium,19.37,PayPal,Yes,Annual,16.2,Anime,2,10,4,1,0,36,Active,Not Churned
+CUST_1907,29,Female,North America,2021-10-26,Premium,20.47,Credit Card,Yes,Monthly,9.7,Thriller,3,14,4,1,0,29,Active,Not Churned
+CUST_1908,31,Male,Europe,2021-01-21,Basic,8.64,Credit Card,Yes,Annual,10.7,Action,3,8,6,1,0,45,Active,Not Churned
+CUST_1909,28,Female,Europe,2021-02-14,Basic,8.39,Direct Debit,Yes,Monthly,7.4,Drama,4,8,0,1,1,44,Active,Not Churned
+CUST_1910,29,Male,Asia Pacific,2025-02-12,Standard,13.92,Direct Debit,No,Annual,12.1,Action,2,8,4,2,2,31,Active,Not Churned
+CUST_1911,18,Male,North America,2022-05-11,Standard,14.46,Credit Card,Yes,Monthly,9.6,Family,1,3,1,2,2,55,Churned,Too expensive
+CUST_1912,33,Male,Middle East & Africa,2025-12-17,Basic,9.53,Credit Card,No,Annual,25.1,Anime,2,17,10,0,0,31,Active,Not Churned
+CUST_1913,32,Female,North America,2022-11-14,Standard,14.04,Carrier Billing,No,Monthly,17.8,Action,1,13,6,2,0,29,Active,Not Churned
+CUST_1914,39,Male,Middle East & Africa,2025-09-10,Standard,13.4,Credit Card,Yes,Monthly,15.0,Drama,7,10,8,0,0,33,Active,Not Churned
+CUST_1915,28,Female,Middle East & Africa,2021-08-11,Standard,13.73,Credit Card,Yes,Monthly,11.2,Documentary,7,9,5,0,0,35,Churned,Payment issues
+CUST_1916,26,Male,Middle East & Africa,2021-10-26,Standard,14.27,Direct Debit,Yes,Monthly,18.1,Action,5,14,11,1,2,32,Active,Not Churned
+CUST_1917,34,Female,Latin America,2025-02-13,Basic,7.27,PayPal,No,Monthly,10.9,Documentary,6,8,5,2,2,26,Active,Not Churned
+CUST_1918,18,Female,North America,2023-11-14,Premium,20.07,PayPal,Yes,Annual,26.8,Family,2,16,13,1,0,15,Active,Not Churned
+CUST_1919,36,Female,Latin America,2024-09-23,Standard,14.16,Digital Wallet,Yes,Monthly,18.9,Action,1,15,7,1,3,29,Active,Not Churned
+CUST_1920,18,Female,North America,2024-01-13,Basic,8.68,Credit Card,Yes,Annual,9.3,Drama,4,3,2,2,0,62,Active,Not Churned
+CUST_1921,46,Female,Middle East & Africa,2023-12-20,Premium,20.58,Direct Debit,Yes,Monthly,25.5,Action,1,14,13,0,0,20,Active,Not Churned
+CUST_1922,42,Female,Europe,2021-10-15,Standard,14.38,Credit Card,Yes,Annual,11.3,Action,5,10,8,1,2,25,Active,Not Churned
+CUST_1923,24,Male,Europe,2025-07-16,Premium,19.02,Direct Debit,Yes,Monthly,28.8,Anime,1,21,14,2,2,16,Active,Not Churned
+CUST_1924,41,Male,Middle East & Africa,2022-06-01,Premium,20.4,Digital Wallet,No,Monthly,26.1,Action,6,18,12,1,1,9,Active,Not Churned
+CUST_1925,35,Female,North America,2023-06-17,Standard,14.31,PayPal,No,Annual,14.4,Comedy,7,8,5,1,1,30,Active,Not Churned
+CUST_1926,23,Male,North America,2021-06-03,Basic,8.11,Direct Debit,Yes,Monthly,5.2,Sci-Fi,2,3,5,0,0,41,Active,Not Churned
+CUST_1927,18,Female,Europe,2021-10-08,Basic,7.21,Carrier Billing,Yes,Monthly,12.4,Family,1,9,7,0,2,43,Active,Not Churned
+CUST_1928,37,Male,Latin America,2022-03-10,Standard,13.64,Credit Card,No,Monthly,7.9,Sci-Fi,2,3,8,1,2,66,Churned,Lack of content
+CUST_1929,25,Female,Asia Pacific,2021-12-08,Standard,13.46,Direct Debit,Yes,Monthly,9.8,Action,5,6,2,1,0,46,Churned,Low usage
+CUST_1930,46,Male,Asia Pacific,2021-03-27,Basic,7.08,Digital Wallet,No,Monthly,8.5,Drama,1,8,6,1,1,45,Active,Not Churned
+CUST_1931,34,Male,Middle East & Africa,2025-05-30,Basic,7.99,PayPal,Yes,Annual,6.4,Documentary,1,9,4,0,1,39,Active,Not Churned
+CUST_1932,26,Male,North America,2023-02-18,Premium,19.63,Credit Card,Yes,Monthly,15.4,Action,5,11,6,1,2,37,Churned,Too expensive
+CUST_1933,54,Female,Asia Pacific,2021-07-10,Premium,21.17,Credit Card,Yes,Monthly,10.8,Drama,6,10,8,1,1,41,Active,Not Churned
+CUST_1934,40,Male,Latin America,2024-06-29,Standard,13.91,Credit Card,Yes,Monthly,11.5,Family,1,5,6,1,2,32,Active,Not Churned
+CUST_1935,18,Female,Asia Pacific,2023-12-28,Basic,8.57,Credit Card,No,Monthly,8.6,Action,2,9,2,0,1,37,Churned,Lack of content
+CUST_1936,29,Female,Europe,2024-03-15,Basic,7.28,PayPal,Yes,Monthly,14.1,Action,6,9,6,0,2,31,Churned,Switched to competitor
+CUST_1937,19,Female,North America,2023-09-18,Basic,7.75,Credit Card,Yes,Annual,13.6,Thriller,3,11,4,2,1,44,Active,Not Churned
+CUST_1938,25,Male,North America,2023-05-26,Premium,20.03,Credit Card,Yes,Annual,12.6,Action,6,9,5,0,0,31,Active,Not Churned
+CUST_1939,32,Male,North America,2025-07-16,Basic,7.58,PayPal,No,Monthly,14.4,Action,7,14,8,1,1,25,Churned,Payment issues
+CUST_1940,38,Male,Europe,2025-04-27,Standard,13.8,PayPal,Yes,Annual,21.1,Action,3,13,11,2,1,18,Active,Not Churned
+CUST_1941,37,Male,North America,2022-10-24,Basic,7.89,PayPal,No,Monthly,3.9,Documentary,7,5,2,0,0,51,Churned,Low usage
+CUST_1942,46,Female,Europe,2022-07-28,Standard,13.88,Direct Debit,Yes,Annual,9.9,Family,2,7,3,2,1,50,Active,Not Churned
+CUST_1943,41,Female,North America,2024-07-02,Standard,14.82,Credit Card,Yes,Monthly,8.5,Anime,7,7,5,1,1,47,Active,Not Churned
+CUST_1944,40,Male,Latin America,2021-05-11,Premium,20.16,Credit Card,Yes,Monthly,11.0,Action,1,8,6,0,1,32,Churned,Too expensive
+CUST_1945,36,Female,Middle East & Africa,2023-04-19,Basic,8.21,Credit Card,Yes,Monthly,3.6,Drama,2,2,0,0,0,44,Active,Not Churned
+CUST_1946,48,Female,Europe,2023-08-17,Basic,8.23,PayPal,Yes,Monthly,3.8,Sci-Fi,5,4,2,0,1,50,Active,Not Churned
+CUST_1947,31,Female,Asia Pacific,2024-11-01,Basic,8.27,Credit Card,Yes,Monthly,2.9,Documentary,2,3,1,2,2,52,Churned,Low usage
+CUST_1948,31,Female,Middle East & Africa,2025-04-05,Premium,19.95,Direct Debit,Yes,Monthly,11.7,Anime,3,10,7,0,1,37,Active,Not Churned
+CUST_1949,18,Female,Asia Pacific,2024-05-07,Premium,19.85,Credit Card,Yes,Monthly,11.6,Anime,7,9,6,1,0,17,Active,Not Churned
+CUST_1950,46,Male,Middle East & Africa,2023-04-19,Standard,14.07,Digital Wallet,Yes,Monthly,22.4,Family,6,18,11,1,3,18,Active,Not Churned
+CUST_1951,33,Female,North America,2021-08-09,Standard,14.51,PayPal,Yes,Monthly,13.5,Drama,7,12,5,1,1,45,Active,Not Churned
+CUST_1952,66,Female,Middle East & Africa,2024-12-04,Standard,14.5,PayPal,Yes,Annual,15.7,Drama,4,9,7,0,2,42,Active,Not Churned
+CUST_1953,30,Female,Asia Pacific,2022-10-05,Basic,7.88,Direct Debit,Yes,Monthly,40.0,Thriller,5,21,20,0,1,7,Active,Not Churned
+CUST_1954,35,Male,North America,2024-04-09,Premium,20.34,Direct Debit,Yes,Monthly,6.9,Drama,1,3,3,0,0,63,Active,Not Churned
+CUST_1955,40,Male,Middle East & Africa,2024-03-14,Standard,13.9,Direct Debit,No,Monthly,25.5,Comedy,7,19,12,1,2,0,Active,Not Churned
+CUST_1956,22,Male,Middle East & Africa,2022-05-03,Standard,14.01,Digital Wallet,No,Annual,12.4,Sci-Fi,6,11,3,0,0,21,Active,Not Churned
+CUST_1957,38,Male,Europe,2023-05-02,Standard,13.78,PayPal,Yes,Annual,10.6,Comedy,2,4,5,0,0,42,Churned,Lack of content
+CUST_1958,34,Female,Middle East & Africa,2021-12-20,Basic,7.91,Carrier Billing,Yes,Monthly,8.4,Drama,5,7,0,1,1,50,Churned,Too expensive
+CUST_1959,31,Female,North America,2024-04-19,Basic,8.59,PayPal,No,Monthly,13.1,Family,3,9,5,2,3,53,Active,Not Churned
+CUST_1960,47,Male,Asia Pacific,2023-08-06,Standard,14.03,Carrier Billing,Yes,Monthly,10.6,Action,7,7,5,3,1,40,Churned,Too expensive
+CUST_1961,24,Male,North America,2021-06-10,Basic,8.05,Credit Card,Yes,Annual,6.3,Comedy,1,9,4,0,0,40,Active,Not Churned
+CUST_1962,37,Female,Europe,2022-04-09,Standard,13.34,Credit Card,No,Monthly,10.1,Action,2,7,3,0,0,34,Active,Not Churned
+CUST_1963,50,Male,Latin America,2023-12-20,Basic,7.85,Direct Debit,Yes,Monthly,13.3,Thriller,7,8,7,2,0,49,Active,Not Churned
+CUST_1964,26,Male,Europe,2021-08-03,Standard,13.88,Credit Card,Yes,Monthly,16.9,Drama,6,13,11,0,1,17,Active,Not Churned
+CUST_1965,31,Female,North America,2022-08-03,Basic,7.62,Credit Card,No,Monthly,25.3,Thriller,2,19,10,2,0,11,Active,Not Churned
+CUST_1966,60,Male,Europe,2024-04-30,Standard,14.0,Credit Card,Yes,Monthly,13.2,Action,1,10,3,1,1,31,Active,Not Churned
+CUST_1967,39,Male,North America,2022-05-03,Standard,13.8,Direct Debit,Yes,Monthly,21.6,Comedy,6,18,10,3,1,28,Active,Not Churned
+CUST_1968,28,Male,Asia Pacific,2021-08-13,Basic,8.03,Digital Wallet,Yes,Monthly,10.2,Documentary,4,9,2,2,0,32,Active,Not Churned
+CUST_1969,43,Female,North America,2024-11-16,Standard,14.04,Direct Debit,Yes,Monthly,12.3,Drama,4,5,4,1,1,47,Active,Not Churned
+CUST_1970,28,Female,Latin America,2022-12-10,Standard,13.56,Carrier Billing,No,Monthly,12.1,Comedy,5,8,7,1,1,44,Churned,Switched to competitor
+CUST_1971,18,Male,Europe,2021-06-10,Standard,13.81,PayPal,Yes,Monthly,13.9,Anime,7,9,10,1,0,39,Active,Not Churned
+CUST_1972,49,Male,Europe,2025-11-20,Premium,20.02,Credit Card,Yes,Monthly,19.7,Drama,2,15,7,0,0,25,Churned,Lack of content
+CUST_1973,22,Female,Europe,2022-03-31,Standard,14.52,Credit Card,No,Annual,10.4,Family,5,2,3,0,0,52,Churned,Low usage
+CUST_1974,61,Female,Asia Pacific,2024-02-09,Basic,8.11,PayPal,Yes,Monthly,7.1,Drama,1,12,2,0,0,22,Churned,Switched to competitor
+CUST_1975,29,Female,North America,2023-12-19,Basic,7.69,Credit Card,Yes,Monthly,17.4,Documentary,6,14,7,0,1,20,Active,Not Churned
+CUST_1976,57,Female,Asia Pacific,2022-06-29,Basic,8.17,Credit Card,Yes,Monthly,16.8,Thriller,5,13,11,1,0,25,Active,Not Churned
+CUST_1977,19,Female,Europe,2025-04-26,Standard,14.76,PayPal,Yes,Monthly,23.2,Comedy,7,19,9,1,1,15,Active,Not Churned
+CUST_1978,45,Female,Middle East & Africa,2025-08-24,Basic,8.4,Direct Debit,Yes,Monthly,8.3,Action,2,12,3,2,3,37,Active,Not Churned
+CUST_1979,39,Female,North America,2021-01-29,Standard,14.24,PayPal,No,Monthly,11.5,Drama,7,11,8,0,0,28,Active,Not Churned
+CUST_1980,43,Female,Latin America,2023-02-06,Standard,14.32,Carrier Billing,No,Monthly,19.2,Family,4,16,10,1,1,8,Active,Not Churned
+CUST_1981,45,Female,North America,2021-07-04,Basic,8.64,Direct Debit,Yes,Monthly,8.9,Documentary,4,8,6,1,1,46,Churned,Low usage
+CUST_1982,29,Male,North America,2024-06-01,Standard,14.47,Direct Debit,Yes,Monthly,16.6,Sci-Fi,1,12,6,0,2,33,Active,Not Churned
+CUST_1983,20,Female,North America,2021-12-23,Basic,8.25,Digital Wallet,Yes,Monthly,10.2,Drama,3,7,4,1,1,51,Active,Not Churned
+CUST_1984,33,Female,North America,2022-05-07,Basic,8.47,Credit Card,Yes,Monthly,13.0,Action,5,8,4,0,0,35,Active,Not Churned
+CUST_1985,36,Female,Asia Pacific,2023-01-03,Standard,13.5,Direct Debit,Yes,Monthly,7.8,Documentary,1,5,5,0,0,29,Active,Not Churned
+CUST_1986,29,Male,Middle East & Africa,2025-06-10,Standard,13.31,Carrier Billing,No,Monthly,13.1,Family,4,7,8,0,0,35,Active,Not Churned
+CUST_1987,37,Female,North America,2022-08-01,Standard,14.06,PayPal,Yes,Monthly,4.1,Action,7,4,1,0,0,43,Churned,Technical issues
+CUST_1988,38,Female,Asia Pacific,2021-04-24,Standard,14.02,Direct Debit,Yes,Monthly,20.9,Documentary,2,11,9,1,1,39,Active,Not Churned
+CUST_1989,24,Male,Europe,2022-01-13,Basic,7.75,PayPal,Yes,Monthly,16.1,Action,2,12,7,0,1,12,Active,Not Churned
+CUST_1990,38,Female,Europe,2025-12-06,Premium,20.36,Direct Debit,Yes,Monthly,9.9,Thriller,6,8,1,0,0,35,Active,Not Churned
+CUST_1991,31,Female,Europe,2024-08-01,Premium,19.15,Credit Card,Yes,Annual,27.3,Comedy,3,20,11,2,4,26,Active,Not Churned
+CUST_1992,26,Male,Middle East & Africa,2021-04-07,Standard,13.75,Digital Wallet,Yes,Annual,20.3,Documentary,3,14,11,0,0,15,Active,Not Churned
+CUST_1993,43,Male,North America,2023-04-22,Basic,7.77,Carrier Billing,Yes,Monthly,6.4,Family,4,12,1,0,4,38,Churned,Switched to competitor
+CUST_1994,25,Female,Latin America,2021-05-04,Standard,13.25,Carrier Billing,Yes,Monthly,10.1,Anime,3,11,5,1,0,24,Active,Not Churned
+CUST_1995,29,Female,Europe,2021-06-05,Standard,14.66,Direct Debit,Yes,Monthly,8.1,Family,3,4,1,1,2,48,Active,Not Churned
+CUST_1996,35,Male,Europe,2021-04-20,Basic,7.38,Credit Card,Yes,Monthly,13.2,Drama,2,11,6,1,0,26,Active,Not Churned
+CUST_1997,49,Male,Europe,2021-02-22,Premium,19.73,Credit Card,Yes,Annual,11.4,Family,6,8,4,2,0,33,Active,Not Churned
+CUST_1998,36,Male,Europe,2024-04-12,Basic,8.4,Carrier Billing,No,Annual,4.2,Thriller,5,2,0,1,0,57,Active,Not Churned
+CUST_1999,40,Male,North America,2025-08-30,Premium,20.28,PayPal,Yes,Annual,13.8,Action,7,8,8,0,0,29,Active,Not Churned
+CUST_2000,31,Male,North America,2022-08-11,Standard,13.49,Credit Card,Yes,Monthly,18.5,Comedy,2,15,10,0,1,13,Active,Not Churned
+CUST_2001,33,Female,Europe,2024-08-30,Basic,8.3,PayPal,Yes,Monthly,11.8,Family,6,8,3,1,0,51,Active,Not Churned
+CUST_2002,33,Female,Latin America,2022-12-27,Standard,14.12,PayPal,Yes,Annual,15.9,Action,2,14,7,1,0,30,Active,Not Churned
+CUST_2003,37,Female,North America,2025-09-14,Premium,21.04,Direct Debit,Yes,Monthly,15.3,Sci-Fi,4,14,7,1,1,10,Active,Not Churned
+CUST_2004,31,Male,Latin America,2024-11-14,Standard,14.17,PayPal,Yes,Annual,17.2,Documentary,6,16,4,1,0,11,Active,Not Churned
+CUST_2005,49,Male,Europe,2021-02-14,Premium,19.93,Direct Debit,Yes,Monthly,15.8,Action,6,10,4,0,0,32,Active,Not Churned
+CUST_2006,30,Male,Middle East & Africa,2023-07-25,Standard,13.6,Carrier Billing,Yes,Monthly,12.0,Documentary,4,10,8,1,0,35,Active,Not Churned
+CUST_2007,18,Female,Europe,2025-08-14,Standard,13.66,Credit Card,Yes,Monthly,13.2,Comedy,6,11,4,2,1,23,Active,Not Churned
+CUST_2008,64,Female,North America,2024-02-15,Premium,19.62,Credit Card,Yes,Monthly,25.1,Drama,7,17,14,1,2,30,Active,Not Churned
+CUST_2009,30,Female,Middle East & Africa,2021-05-02,Basic,8.61,PayPal,No,Monthly,14.8,Anime,5,9,4,0,1,42,Active,Not Churned
+CUST_2010,48,Male,North America,2022-04-27,Standard,14.0,Digital Wallet,Yes,Monthly,8.4,Sci-Fi,1,11,5,2,1,39,Active,Not Churned
+CUST_2011,49,Female,Asia Pacific,2024-04-08,Basic,8.24,PayPal,Yes,Monthly,11.6,Thriller,3,10,5,0,3,50,Active,Not Churned
+CUST_2012,44,Female,Asia Pacific,2022-11-09,Premium,20.67,PayPal,Yes,Monthly,16.1,Documentary,6,13,7,1,0,28,Active,Not Churned
+CUST_2013,32,Female,Europe,2024-11-24,Premium,18.93,Direct Debit,Yes,Monthly,13.4,Comedy,3,8,10,1,2,47,Churned,Too expensive
+CUST_2014,37,Female,Middle East & Africa,2025-08-12,Basic,8.57,PayPal,Yes,Monthly,4.2,Anime,2,2,0,1,0,64,Churned,Low usage
+CUST_2015,20,Female,Latin America,2022-05-15,Standard,14.01,Digital Wallet,No,Annual,8.8,Documentary,2,6,5,1,0,51,Churned,Lack of content
+CUST_2016,56,Male,Latin America,2021-03-15,Premium,20.19,Digital Wallet,No,Monthly,12.1,Family,6,9,7,0,1,29,Churned,Lack of content
+CUST_2017,25,Female,Middle East & Africa,2023-08-29,Basic,7.62,PayPal,Yes,Monthly,25.7,Documentary,6,16,18,2,0,24,Active,Not Churned
+CUST_2018,31,Male,Asia Pacific,2021-05-29,Standard,13.65,Direct Debit,Yes,Annual,15.6,Sci-Fi,6,12,5,1,0,22,Churned,Too expensive
+CUST_2019,35,Male,North America,2025-04-10,Premium,20.21,Credit Card,Yes,Annual,8.1,Comedy,7,3,2,1,3,63,Churned,Lack of content
+CUST_2020,33,Male,Latin America,2023-06-11,Basic,9.06,Direct Debit,Yes,Monthly,10.7,Thriller,7,6,6,0,2,50,Active,Not Churned
+CUST_2021,27,Female,Europe,2023-12-21,Standard,14.44,Direct Debit,Yes,Annual,21.9,Thriller,5,17,9,0,1,5,Active,Not Churned
+CUST_2022,49,Male,North America,2023-12-14,Basic,8.56,PayPal,No,Monthly,8.4,Action,6,8,3,1,0,36,Churned,Switched to competitor
+CUST_2023,44,Female,Asia Pacific,2024-05-31,Premium,19.9,Credit Card,Yes,Monthly,21.0,Documentary,7,14,11,0,0,22,Active,Not Churned
+CUST_2024,38,Female,Middle East & Africa,2025-10-21,Premium,19.72,Digital Wallet,Yes,Monthly,8.2,Sci-Fi,3,5,3,2,0,43,Churned,Technical issues
+CUST_2025,30,Female,North America,2022-04-18,Premium,19.64,PayPal,Yes,Monthly,5.8,Action,2,3,1,0,1,53,Churned,Low usage
+CUST_2026,46,Female,Latin America,2024-09-01,Standard,13.77,Direct Debit,Yes,Annual,20.8,Sci-Fi,2,14,11,1,0,28,Active,Not Churned
+CUST_2027,29,Female,Europe,2021-06-19,Premium,19.07,Credit Card,Yes,Annual,11.9,Drama,7,11,6,0,0,27,Churned,Low usage
+CUST_2028,51,Male,North America,2022-12-02,Premium,19.66,PayPal,Yes,Annual,7.3,Documentary,6,8,3,1,2,45,Churned,Low usage
+CUST_2029,35,Male,Latin America,2021-02-01,Basic,7.74,Carrier Billing,Yes,Annual,9.2,Drama,4,6,3,0,1,54,Active,Not Churned
+CUST_2030,48,Female,Middle East & Africa,2021-02-22,Premium,19.91,PayPal,Yes,Monthly,15.2,Action,7,9,5,1,0,38,Active,Not Churned
+CUST_2031,33,Male,Europe,2023-07-29,Basic,8.05,Direct Debit,Yes,Annual,13.8,Action,1,11,8,1,1,34,Active,Not Churned
+CUST_2032,35,Male,Europe,2021-05-19,Standard,14.15,Credit Card,Yes,Annual,4.7,Sci-Fi,6,3,1,1,0,42,Active,Not Churned
+CUST_2033,47,Female,Europe,2024-10-29,Basic,7.98,PayPal,Yes,Annual,8.0,Drama,5,6,2,0,1,49,Active,Not Churned
+CUST_2034,58,Female,Latin America,2023-12-07,Basic,7.73,Digital Wallet,Yes,Annual,11.5,Thriller,1,12,3,1,0,30,Active,Not Churned
+CUST_2035,51,Female,North America,2021-03-31,Basic,7.11,PayPal,Yes,Annual,13.8,Action,1,12,7,2,1,42,Active,Not Churned
+CUST_2036,44,Female,North America,2023-04-08,Standard,13.73,Digital Wallet,Yes,Monthly,8.4,Thriller,6,7,3,1,2,46,Churned,Low usage
+CUST_2037,40,Female,Latin America,2021-02-05,Basic,7.55,Digital Wallet,Yes,Annual,10.1,Sci-Fi,5,5,1,1,1,33,Active,Not Churned
+CUST_2038,28,Male,Europe,2023-10-13,Standard,14.2,Digital Wallet,Yes,Annual,9.8,Family,7,8,2,2,0,25,Active,Not Churned
+CUST_2039,37,Male,Europe,2023-07-18,Basic,8.4,Digital Wallet,Yes,Annual,12.4,Drama,3,12,5,1,1,36,Active,Not Churned
+CUST_2040,24,Female,Middle East & Africa,2024-06-02,Basic,8.41,Credit Card,Yes,Monthly,19.0,Action,6,13,8,3,2,30,Churned,Lack of content
+CUST_2041,38,Male,Middle East & Africa,2022-07-08,Standard,14.33,Digital Wallet,Yes,Monthly,11.0,Anime,2,12,4,0,0,28,Active,Not Churned
+CUST_2042,39,Male,Middle East & Africa,2023-01-10,Premium,19.93,Credit Card,No,Annual,8.6,Documentary,5,10,3,2,0,35,Active,Not Churned
+CUST_2043,18,Female,Europe,2021-09-26,Basic,7.76,Credit Card,Yes,Monthly,7.8,Comedy,2,10,1,1,0,31,Active,Not Churned
+CUST_2044,34,Male,Middle East & Africa,2023-06-29,Standard,13.65,Credit Card,Yes,Monthly,25.6,Action,7,19,10,0,0,7,Active,Not Churned
+CUST_2045,39,Male,Latin America,2021-07-05,Premium,19.31,PayPal,Yes,Monthly,10.3,Comedy,7,9,7,0,2,32,Active,Not Churned
+CUST_2046,33,Male,North America,2024-10-26,Standard,14.44,Direct Debit,Yes,Monthly,7.6,Drama,7,10,5,0,0,30,Churned,Switched to competitor
+CUST_2047,38,Male,Asia Pacific,2023-05-19,Basic,7.91,PayPal,No,Monthly,9.2,Comedy,6,8,5,1,0,32,Active,Not Churned
+CUST_2048,19,Male,North America,2024-06-12,Basic,7.43,Credit Card,Yes,Monthly,10.7,Sci-Fi,7,7,6,2,2,45,Active,Not Churned
+CUST_2049,25,Female,Latin America,2024-02-20,Premium,19.62,PayPal,Yes,Monthly,11.6,Documentary,6,8,7,1,2,41,Churned,Technical issues
+CUST_2050,45,Female,Latin America,2022-02-28,Basic,7.6,PayPal,Yes,Monthly,5.2,Family,4,5,0,1,0,43,Active,Not Churned
+CUST_2051,34,Male,Latin America,2023-04-13,Premium,20.01,Direct Debit,Yes,Monthly,16.0,Action,1,9,7,1,1,45,Churned,Too expensive
+CUST_2052,38,Male,North America,2024-11-13,Standard,14.47,Credit Card,No,Monthly,13.9,Documentary,4,10,4,0,1,32,Active,Not Churned
+CUST_2053,28,Male,Asia Pacific,2023-07-15,Premium,19.83,Credit Card,Yes,Monthly,18.5,Drama,7,16,6,1,0,25,Active,Not Churned
+CUST_2054,34,Female,North America,2024-02-15,Premium,18.98,Credit Card,Yes,Monthly,15.3,Drama,1,7,8,1,0,52,Active,Not Churned
+CUST_2055,18,Male,Middle East & Africa,2025-01-29,Premium,19.9,Credit Card,No,Monthly,26.2,Anime,7,21,14,1,0,11,Active,Not Churned
+CUST_2056,43,Other,Asia Pacific,2024-12-23,Standard,13.92,Direct Debit,No,Annual,17.5,Thriller,7,15,8,0,0,22,Active,Not Churned
+CUST_2057,54,Male,North America,2023-05-19,Standard,13.89,PayPal,Yes,Monthly,16.0,Family,3,11,11,0,0,30,Active,Not Churned
+CUST_2058,22,Female,North America,2023-10-13,Standard,13.71,Credit Card,Yes,Monthly,20.8,Thriller,5,16,10,1,0,24,Churned,Lack of content
+CUST_2059,24,Male,Asia Pacific,2022-03-18,Standard,14.09,PayPal,Yes,Annual,13.5,Action,3,10,5,1,0,33,Active,Not Churned
+CUST_2060,39,Male,Asia Pacific,2021-02-08,Standard,14.02,PayPal,Yes,Monthly,11.7,Drama,1,12,3,0,0,33,Active,Not Churned
+CUST_2061,50,Male,Latin America,2023-06-27,Premium,19.98,Digital Wallet,No,Annual,16.0,Thriller,6,14,9,0,1,28,Active,Not Churned
+CUST_2062,34,Female,Europe,2024-03-31,Premium,20.18,Credit Card,Yes,Annual,7.1,Sci-Fi,7,3,3,3,0,51,Churned,Too expensive
+CUST_2063,20,Male,Asia Pacific,2025-07-03,Standard,13.8,Carrier Billing,Yes,Monthly,13.5,Drama,4,12,7,0,2,39,Active,Not Churned
+CUST_2064,32,Male,North America,2025-03-30,Standard,13.77,Direct Debit,No,Monthly,12.2,Sci-Fi,7,9,0,0,0,33,Active,Not Churned
+CUST_2065,23,Female,Asia Pacific,2021-06-15,Standard,14.61,Credit Card,Yes,Monthly,15.1,Family,1,12,7,0,1,27,Active,Not Churned
+CUST_2066,27,Male,Middle East & Africa,2025-01-08,Standard,14.24,Digital Wallet,Yes,Monthly,19.6,Documentary,7,13,8,3,3,34,Churned,Too expensive
+CUST_2067,31,Male,Asia Pacific,2022-03-19,Basic,8.36,Direct Debit,No,Monthly,14.7,Sci-Fi,6,15,4,0,1,22,Active,Not Churned
+CUST_2068,24,Female,North America,2021-11-27,Basic,8.54,Direct Debit,No,Monthly,7.8,Family,3,9,3,0,2,47,Active,Not Churned
+CUST_2069,25,Female,Middle East & Africa,2023-09-20,Standard,14.23,PayPal,No,Annual,18.1,Thriller,6,12,10,1,1,37,Active,Not Churned
+CUST_2070,35,Female,North America,2024-09-20,Basic,8.41,PayPal,Yes,Monthly,23.3,Action,6,14,15,1,2,31,Active,Not Churned
+CUST_2071,36,Male,Latin America,2024-02-10,Basic,7.28,Credit Card,No,Monthly,18.3,Action,3,13,9,3,1,36,Active,Not Churned
+CUST_2072,18,Male,Asia Pacific,2025-11-05,Basic,8.08,Credit Card,Yes,Monthly,5.8,Sci-Fi,4,6,1,2,0,54,Active,Not Churned
+CUST_2073,38,Male,Europe,2022-12-15,Basic,7.91,Carrier Billing,Yes,Monthly,14.6,Comedy,7,12,5,3,0,30,Active,Not Churned
+CUST_2074,30,Female,North America,2023-04-15,Basic,8.74,Digital Wallet,No,Monthly,6.2,Thriller,6,8,5,1,0,28,Churned,Switched to competitor
+CUST_2075,42,Female,North America,2021-05-19,Premium,20.41,Credit Card,Yes,Monthly,12.7,Thriller,4,12,4,0,0,35,Active,Not Churned
+CUST_2076,43,Other,Middle East & Africa,2025-12-08,Standard,13.71,Direct Debit,No,Monthly,14.9,Drama,6,13,8,1,2,27,Churned,Lack of content
+CUST_2077,28,Male,Middle East & Africa,2025-12-13,Standard,14.16,Direct Debit,Yes,Annual,14.1,Thriller,6,11,7,2,1,29,Active,Not Churned
+CUST_2078,41,Female,Asia Pacific,2024-04-04,Standard,14.07,Credit Card,Yes,Monthly,19.6,Sci-Fi,3,11,9,1,0,15,Active,Not Churned
+CUST_2079,25,Male,North America,2024-12-08,Basic,8.19,PayPal,No,Monthly,23.4,Comedy,1,16,7,2,0,24,Active,Not Churned
+CUST_2080,49,Male,Middle East & Africa,2024-04-07,Premium,19.53,PayPal,Yes,Monthly,17.1,Thriller,7,15,7,1,2,13,Active,Not Churned
+CUST_2081,25,Female,Asia Pacific,2023-02-08,Premium,20.15,Direct Debit,Yes,Monthly,12.4,Sci-Fi,1,9,3,0,0,26,Active,Not Churned
+CUST_2082,38,Male,Europe,2021-05-04,Basic,7.89,Carrier Billing,Yes,Monthly,4.2,Anime,5,5,1,0,0,47,Active,Not Churned
+CUST_2083,32,Male,Europe,2025-04-23,Standard,14.12,Credit Card,No,Annual,21.8,Action,3,15,12,2,1,30,Active,Not Churned
+CUST_2084,23,Male,Europe,2023-06-01,Premium,19.66,PayPal,Yes,Annual,13.7,Anime,5,8,9,0,0,30,Active,Not Churned
+CUST_2085,44,Female,Asia Pacific,2023-01-31,Premium,19.73,Direct Debit,Yes,Monthly,14.0,Drama,6,10,7,2,1,36,Active,Not Churned
+CUST_2086,27,Male,Asia Pacific,2025-11-08,Standard,14.52,Direct Debit,Yes,Monthly,12.9,Sci-Fi,3,11,5,0,2,27,Active,Not Churned
+CUST_2087,18,Male,Asia Pacific,2024-01-27,Standard,13.52,Credit Card,No,Monthly,15.3,Drama,5,10,10,1,2,34,Active,Not Churned
+CUST_2088,18,Other,Middle East & Africa,2023-12-20,Basic,7.55,PayPal,Yes,Monthly,14.0,Anime,2,10,5,0,0,32,Active,Not Churned
+CUST_2089,24,Male,Europe,2023-11-09,Premium,19.97,Carrier Billing,Yes,Monthly,12.8,Action,1,8,3,1,1,36,Active,Not Churned
+CUST_2090,49,Male,Asia Pacific,2024-02-22,Basic,7.64,Credit Card,Yes,Monthly,10.6,Action,1,11,6,2,0,30,Active,Not Churned
+CUST_2091,48,Female,Europe,2021-08-14,Premium,19.59,PayPal,Yes,Monthly,11.3,Drama,2,8,6,3,1,32,Active,Not Churned
+CUST_2092,26,Female,Latin America,2022-09-04,Standard,14.04,Carrier Billing,Yes,Monthly,9.3,Thriller,4,11,3,1,2,45,Churned,Switched to competitor
+CUST_2093,30,Male,North America,2021-11-20,Standard,13.31,Credit Card,Yes,Annual,9.3,Action,2,11,4,1,0,34,Active,Not Churned
+CUST_2094,29,Female,North America,2023-11-07,Standard,13.54,Carrier Billing,Yes,Annual,12.1,Documentary,7,9,6,1,2,47,Churned,Payment issues
+CUST_2095,19,Male,Latin America,2025-11-19,Basic,8.91,Credit Card,No,Monthly,7.1,Action,1,4,4,0,0,55,Churned,Lack of content
+CUST_2096,24,Female,North America,2024-01-09,Basic,8.2,Credit Card,No,Monthly,2.7,Anime,7,0,2,2,0,52,Active,Not Churned
+CUST_2097,45,Male,Asia Pacific,2022-08-20,Basic,7.65,Credit Card,Yes,Annual,9.3,Thriller,3,4,3,1,2,51,Active,Not Churned
+CUST_2098,40,Male,Middle East & Africa,2025-01-19,Basic,8.18,Credit Card,Yes,Monthly,6.0,Drama,5,2,4,1,1,40,Churned,Lack of content
+CUST_2099,37,Male,Asia Pacific,2022-06-25,Standard,14.25,Credit Card,No,Annual,13.3,Drama,1,13,6,0,2,54,Churned,Too expensive
+CUST_2100,19,Female,North America,2022-10-08,Standard,14.44,Direct Debit,Yes,Monthly,9.8,Drama,7,8,3,2,1,41,Churned,Switched to competitor
+CUST_2101,35,Female,Europe,2023-09-17,Basic,7.93,Credit Card,Yes,Monthly,13.9,Documentary,2,11,6,2,3,49,Active,Not Churned
+CUST_2102,18,Female,Latin America,2022-12-07,Premium,20.43,Digital Wallet,Yes,Monthly,9.2,Drama,3,3,4,0,0,38,Churned,Low usage
+CUST_2103,43,Female,Europe,2022-09-23,Premium,19.07,PayPal,Yes,Annual,7.6,Sci-Fi,1,4,1,1,1,58,Churned,Switched to competitor
+CUST_2104,37,Male,Latin America,2024-11-02,Premium,19.51,PayPal,No,Monthly,13.7,Action,2,12,5,0,3,49,Active,Not Churned
+CUST_2105,19,Male,Latin America,2023-05-29,Premium,20.06,PayPal,Yes,Monthly,12.1,Sci-Fi,7,10,6,1,3,41,Active,Not Churned
+CUST_2106,52,Female,Asia Pacific,2021-07-10,Basic,8.14,Direct Debit,Yes,Monthly,5.7,Anime,1,5,0,0,0,34,Active,Not Churned
+CUST_2107,18,Female,Latin America,2025-08-16,Standard,13.58,PayPal,Yes,Annual,17.6,Action,2,14,7,2,0,23,Active,Not Churned
+CUST_2108,40,Other,Europe,2023-05-05,Standard,14.11,Credit Card,Yes,Annual,8.2,Thriller,6,10,8,2,1,19,Active,Not Churned
+CUST_2109,40,Male,Asia Pacific,2022-05-06,Standard,13.71,Digital Wallet,Yes,Annual,9.2,Family,2,7,2,1,1,42,Active,Not Churned
+CUST_2110,20,Male,Asia Pacific,2022-02-09,Basic,7.87,PayPal,Yes,Annual,17.5,Drama,1,13,7,1,0,31,Churned,Switched to competitor
+CUST_2111,34,Male,North America,2024-07-19,Premium,20.45,Credit Card,No,Monthly,17.3,Documentary,3,13,6,3,3,38,Active,Not Churned
+CUST_2112,18,Male,Europe,2025-07-26,Basic,8.4,PayPal,No,Monthly,6.4,Comedy,1,11,3,0,1,28,Churned,Lack of content
+CUST_2113,18,Male,Asia Pacific,2023-05-25,Basic,7.54,Direct Debit,No,Monthly,9.5,Documentary,1,3,3,0,2,58,Churned,Technical issues
+CUST_2114,22,Male,Asia Pacific,2022-03-06,Standard,13.51,Credit Card,No,Monthly,7.6,Drama,6,8,3,1,0,42,Active,Not Churned
+CUST_2115,27,Female,Asia Pacific,2022-06-04,Standard,13.8,Carrier Billing,Yes,Annual,18.4,Thriller,3,13,7,1,0,11,Active,Not Churned
+CUST_2116,41,Male,Latin America,2025-07-28,Standard,13.98,Direct Debit,Yes,Annual,18.4,Comedy,6,15,10,1,1,23,Active,Not Churned
+CUST_2117,35,Male,Asia Pacific,2023-06-12,Basic,7.69,Direct Debit,Yes,Monthly,25.1,Thriller,1,16,11,3,0,40,Active,Not Churned
+CUST_2118,35,Female,Middle East & Africa,2024-11-08,Premium,20.46,PayPal,Yes,Monthly,32.9,Thriller,6,21,13,1,0,0,Active,Not Churned
+CUST_2119,23,Male,Latin America,2023-04-01,Basic,8.15,Digital Wallet,No,Annual,8.2,Drama,5,8,5,0,1,38,Active,Not Churned
+CUST_2120,28,Female,Europe,2023-06-06,Basic,8.17,Credit Card,No,Monthly,15.6,Action,5,18,5,0,1,29,Churned,Lack of content
+CUST_2121,24,Male,Europe,2024-04-30,Premium,19.42,PayPal,Yes,Monthly,7.3,Thriller,5,8,0,1,0,46,Churned,Technical issues
+CUST_2122,21,Female,Asia Pacific,2025-06-15,Premium,20.52,Credit Card,Yes,Monthly,15.2,Comedy,2,10,7,1,1,31,Active,Not Churned
+CUST_2123,27,Female,Middle East & Africa,2022-03-11,Premium,18.72,Direct Debit,No,Monthly,16.7,Family,4,11,11,0,0,29,Active,Not Churned
+CUST_2124,35,Female,North America,2025-11-20,Premium,20.37,Credit Card,No,Monthly,9.9,Family,7,7,1,0,0,37,Active,Not Churned
+CUST_2125,28,Female,Asia Pacific,2025-11-23,Standard,14.41,Credit Card,Yes,Monthly,9.5,Documentary,6,4,2,0,2,45,Churned,Payment issues
+CUST_2126,30,Male,North America,2021-03-04,Standard,13.8,Carrier Billing,No,Monthly,18.5,Sci-Fi,1,13,10,0,0,22,Active,Not Churned
+CUST_2127,42,Male,Europe,2024-05-24,Basic,8.56,PayPal,Yes,Annual,13.8,Drama,4,12,5,0,2,29,Active,Not Churned
+CUST_2128,28,Female,Asia Pacific,2021-05-14,Standard,13.96,PayPal,Yes,Monthly,25.0,Thriller,6,15,12,0,3,28,Active,Not Churned
+CUST_2129,19,Female,North America,2023-08-16,Standard,14.02,Direct Debit,Yes,Monthly,23.6,Action,5,19,9,1,1,7,Active,Not Churned
+CUST_2130,40,Female,Asia Pacific,2022-09-11,Basic,8.14,Direct Debit,Yes,Annual,4.8,Comedy,7,6,2,1,2,38,Churned,Switched to competitor
+CUST_2131,37,Male,Middle East & Africa,2024-03-30,Standard,15.42,Credit Card,Yes,Monthly,10.1,Comedy,3,6,8,2,5,60,Active,Not Churned
+CUST_2132,38,Female,Middle East & Africa,2024-07-05,Standard,14.59,Credit Card,Yes,Monthly,8.1,Family,5,6,1,1,2,62,Churned,Technical issues
+CUST_2133,41,Female,North America,2022-03-01,Basic,8.31,Digital Wallet,No,Annual,15.9,Action,7,15,9,1,0,20,Active,Not Churned
+CUST_2134,39,Female,Latin America,2025-04-01,Basic,7.58,PayPal,Yes,Monthly,12.8,Thriller,1,11,7,2,1,32,Churned,Payment issues
+CUST_2135,34,Male,Middle East & Africa,2021-12-24,Standard,14.05,PayPal,Yes,Annual,8.3,Sci-Fi,4,7,1,1,1,49,Churned,Too expensive
+CUST_2136,60,Other,North America,2024-10-30,Basic,7.62,Carrier Billing,Yes,Monthly,7.3,Action,4,6,4,2,0,43,Churned,Low usage
+CUST_2137,20,Male,Europe,2025-05-14,Premium,20.36,PayPal,Yes,Monthly,22.7,Documentary,6,16,10,0,1,33,Active,Not Churned
+CUST_2138,28,Male,Middle East & Africa,2023-10-30,Standard,14.05,Credit Card,Yes,Monthly,10.6,Action,2,7,5,2,1,45,Active,Not Churned
+CUST_2139,45,Female,North America,2023-10-08,Standard,13.48,Credit Card,Yes,Monthly,5.5,Drama,3,0,3,0,0,61,Active,Not Churned
+CUST_2140,36,Male,Middle East & Africa,2021-07-16,Standard,14.03,PayPal,Yes,Annual,8.0,Thriller,7,11,3,0,0,21,Active,Not Churned
+CUST_2141,42,Female,Asia Pacific,2024-02-15,Premium,19.61,Carrier Billing,Yes,Monthly,28.9,Action,5,21,13,1,0,9,Active,Not Churned
+CUST_2142,36,Male,North America,2023-10-31,Basic,8.06,Credit Card,Yes,Annual,17.8,Comedy,7,14,8,1,0,24,Active,Not Churned
+CUST_2143,49,Male,Europe,2023-05-12,Standard,13.6,Credit Card,Yes,Annual,7.4,Comedy,7,6,5,1,1,45,Churned,Low usage
+CUST_2144,23,Male,Europe,2022-06-03,Standard,14.0,Digital Wallet,No,Monthly,13.7,Anime,3,9,3,3,0,34,Churned,Too expensive
+CUST_2145,49,Male,Europe,2021-12-15,Basic,8.33,Credit Card,Yes,Annual,17.2,Thriller,1,12,10,0,1,23,Active,Not Churned
+CUST_2146,47,Male,Asia Pacific,2025-09-26,Premium,19.97,Direct Debit,Yes,Monthly,7.8,Drama,2,3,1,0,0,50,Churned,Switched to competitor
+CUST_2147,21,Male,Asia Pacific,2024-11-28,Premium,19.81,Credit Card,Yes,Monthly,21.2,Drama,5,20,11,3,0,16,Churned,Low usage
+CUST_2148,41,Female,Asia Pacific,2025-07-17,Standard,14.08,Direct Debit,Yes,Annual,15.3,Drama,1,9,7,0,3,41,Active,Not Churned
+CUST_2149,34,Female,North America,2022-07-29,Premium,20.3,PayPal,Yes,Monthly,10.7,Comedy,3,6,2,0,0,42,Active,Not Churned
+CUST_2150,27,Female,Latin America,2023-10-25,Premium,19.49,Credit Card,No,Monthly,17.8,Sci-Fi,2,12,9,3,1,34,Active,Not Churned
+CUST_2151,18,Female,Asia Pacific,2025-12-25,Standard,14.11,PayPal,No,Monthly,14.4,Action,5,14,5,1,1,26,Active,Not Churned
+CUST_2152,23,Male,Latin America,2021-11-24,Premium,20.58,Direct Debit,Yes,Monthly,16.3,Thriller,3,12,9,0,0,23,Active,Not Churned
+CUST_2153,42,Female,Latin America,2025-11-21,Standard,14.25,Direct Debit,Yes,Monthly,13.5,Family,5,8,5,1,3,47,Churned,Technical issues
+CUST_2154,43,Female,Europe,2022-05-27,Standard,14.02,Direct Debit,Yes,Monthly,8.7,Thriller,7,10,1,0,4,64,Churned,Lack of content
+CUST_2155,32,Male,North America,2023-07-20,Standard,14.28,PayPal,Yes,Monthly,9.3,Action,2,9,7,2,0,39,Active,Not Churned
+CUST_2156,43,Female,Middle East & Africa,2021-05-10,Standard,14.19,PayPal,Yes,Monthly,11.4,Sci-Fi,2,10,6,1,0,37,Churned,Payment issues
+CUST_2157,44,Male,Latin America,2022-08-10,Basic,8.33,Direct Debit,Yes,Monthly,11.4,Thriller,3,10,7,3,1,43,Active,Not Churned
+CUST_2158,36,Female,North America,2022-04-29,Premium,19.08,Direct Debit,No,Monthly,18.3,Comedy,5,19,7,0,1,9,Active,Not Churned
+CUST_2159,26,Male,Latin America,2021-12-24,Premium,19.29,Direct Debit,No,Monthly,29.2,Thriller,4,21,9,0,0,13,Churned,Technical issues
+CUST_2160,39,Male,North America,2022-01-20,Basic,8.44,PayPal,No,Annual,12.5,Thriller,1,8,9,1,1,38,Active,Not Churned
+CUST_2161,39,Male,North America,2021-09-11,Premium,19.31,Credit Card,No,Monthly,18.1,Action,2,17,8,1,0,23,Active,Not Churned
+CUST_2162,41,Male,Asia Pacific,2023-04-15,Basic,8.17,Credit Card,No,Monthly,16.8,Sci-Fi,5,13,9,0,0,20,Active,Not Churned
+CUST_2163,44,Female,North America,2024-04-05,Basic,7.83,Credit Card,Yes,Monthly,15.7,Action,3,13,8,2,1,22,Active,Not Churned
+CUST_2164,19,Other,Middle East & Africa,2025-10-03,Standard,13.54,Digital Wallet,Yes,Monthly,8.5,Drama,7,3,3,1,1,56,Churned,Technical issues
+CUST_2165,28,Male,Middle East & Africa,2025-08-31,Basic,8.15,Direct Debit,No,Monthly,20.6,Thriller,3,15,10,0,2,15,Active,Not Churned
+CUST_2166,18,Male,Asia Pacific,2023-03-07,Premium,20.08,PayPal,Yes,Annual,22.1,Family,2,14,13,1,0,26,Active,Not Churned
+CUST_2167,42,Male,North America,2022-04-14,Premium,20.94,Credit Card,No,Annual,14.9,Family,6,13,7,2,0,17,Active,Not Churned
+CUST_2168,32,Female,Europe,2022-05-08,Standard,13.71,Credit Card,Yes,Annual,8.7,Action,2,10,6,0,1,31,Active,Not Churned
+CUST_2169,39,Male,Europe,2023-07-09,Basic,8.64,Digital Wallet,Yes,Annual,11.3,Family,7,4,1,1,0,36,Active,Not Churned
+CUST_2170,18,Female,Asia Pacific,2024-09-23,Basic,8.15,Digital Wallet,Yes,Monthly,5.0,Thriller,6,5,5,2,1,72,Churned,Too expensive
+CUST_2171,49,Female,North America,2021-02-20,Standard,13.69,Credit Card,Yes,Monthly,23.5,Thriller,4,19,8,1,0,0,Active,Not Churned
+CUST_2172,21,Female,Asia Pacific,2023-12-16,Premium,20.35,Carrier Billing,Yes,Annual,11.2,Family,3,8,7,0,2,41,Churned,Too expensive
+CUST_2173,43,Female,Europe,2021-03-14,Standard,14.24,PayPal,Yes,Annual,11.2,Sci-Fi,5,10,6,0,0,39,Active,Not Churned
+CUST_2174,35,Female,Middle East & Africa,2025-12-23,Basic,8.01,Credit Card,Yes,Annual,21.2,Drama,6,16,9,1,1,28,Active,Not Churned
+CUST_2175,32,Female,Middle East & Africa,2022-08-23,Standard,14.11,Direct Debit,Yes,Annual,21.5,Action,1,16,9,2,1,29,Active,Not Churned
+CUST_2176,31,Female,Asia Pacific,2021-02-21,Standard,13.72,Direct Debit,Yes,Annual,14.6,Action,1,10,6,1,1,33,Active,Not Churned
+CUST_2177,27,Female,Asia Pacific,2021-05-05,Standard,13.62,Direct Debit,Yes,Monthly,25.1,Anime,4,15,10,0,1,32,Active,Not Churned
+CUST_2178,48,Female,North America,2021-09-19,Basic,8.33,Credit Card,Yes,Annual,6.9,Comedy,6,4,3,1,1,58,Active,Not Churned
+CUST_2179,34,Female,North America,2023-08-13,Standard,13.89,Credit Card,Yes,Annual,14.6,Sci-Fi,6,13,11,4,0,32,Active,Not Churned
+CUST_2180,20,Female,Middle East & Africa,2025-12-09,Standard,13.95,Credit Card,No,Annual,8.5,Action,5,7,6,2,2,50,Churned,Technical issues
+CUST_2181,30,Female,Asia Pacific,2025-05-18,Premium,20.12,Credit Card,No,Monthly,21.5,Family,1,15,8,2,1,22,Active,Not Churned
+CUST_2182,35,Female,North America,2025-04-21,Basic,8.11,PayPal,No,Annual,18.2,Action,1,12,9,2,3,31,Active,Not Churned
+CUST_2183,44,Male,Asia Pacific,2025-03-25,Standard,13.35,Credit Card,No,Annual,25.9,Comedy,7,18,12,2,2,30,Active,Not Churned
+CUST_2184,27,Male,Middle East & Africa,2021-11-26,Premium,20.57,PayPal,Yes,Monthly,14.2,Comedy,5,13,6,2,1,40,Active,Not Churned
+CUST_2185,28,Female,Europe,2024-09-08,Basic,8.04,PayPal,No,Monthly,27.8,Action,7,19,10,0,1,4,Active,Not Churned
+CUST_2186,34,Male,North America,2021-08-29,Premium,19.9,Direct Debit,No,Monthly,9.7,Anime,6,5,5,1,0,43,Churned,Technical issues
+CUST_2187,44,Male,Middle East & Africa,2024-08-01,Standard,14.18,Direct Debit,No,Annual,12.4,Sci-Fi,5,11,7,1,0,28,Churned,Low usage
+CUST_2188,19,Male,Asia Pacific,2025-06-14,Basic,8.1,Direct Debit,Yes,Monthly,6.8,Sci-Fi,2,5,1,2,3,56,Churned,Technical issues
+CUST_2189,40,Female,Europe,2024-07-11,Basic,8.34,Credit Card,No,Monthly,12.3,Thriller,1,10,9,1,0,33,Active,Not Churned
+CUST_2190,29,Female,Europe,2024-08-15,Standard,14.23,Credit Card,Yes,Monthly,8.6,Drama,6,11,7,1,2,43,Active,Not Churned
+CUST_2191,30,Male,Middle East & Africa,2024-05-13,Basic,8.31,Credit Card,No,Monthly,18.5,Thriller,1,14,9,1,0,16,Active,Not Churned
+CUST_2192,56,Male,Latin America,2021-10-18,Standard,14.6,Credit Card,Yes,Monthly,15.5,Thriller,7,12,5,1,1,23,Active,Not Churned
+CUST_2193,32,Female,Europe,2021-07-30,Basic,8.39,Credit Card,Yes,Monthly,6.4,Thriller,4,3,4,1,2,66,Churned,Switched to competitor
+CUST_2194,42,Female,North America,2024-10-21,Standard,13.92,Credit Card,Yes,Annual,18.0,Comedy,2,13,9,0,1,22,Active,Not Churned
+CUST_2195,42,Male,Europe,2025-12-19,Basic,7.48,Direct Debit,Yes,Annual,22.8,Drama,2,18,11,3,2,12,Active,Not Churned
+CUST_2196,21,Male,North America,2025-01-27,Premium,20.74,Digital Wallet,Yes,Monthly,17.6,Sci-Fi,1,10,11,3,1,35,Active,Not Churned
+CUST_2197,18,Female,North America,2022-12-20,Premium,19.88,Credit Card,No,Annual,8.6,Drama,3,8,4,3,1,42,Active,Not Churned
+CUST_2198,43,Female,Europe,2021-11-18,Premium,19.78,Carrier Billing,Yes,Annual,13.4,Action,3,10,10,0,1,46,Active,Not Churned
+CUST_2199,22,Female,North America,2021-12-24,Standard,13.21,Credit Card,Yes,Monthly,17.1,Drama,7,13,8,0,0,30,Active,Not Churned
+CUST_2200,18,Female,Middle East & Africa,2023-07-06,Basic,8.14,Direct Debit,Yes,Monthly,9.9,Sci-Fi,5,10,4,0,2,46,Active,Not Churned
+CUST_2201,45,Female,North America,2021-04-04,Standard,14.06,Direct Debit,Yes,Monthly,8.2,Action,2,8,8,1,0,44,Churned,Too expensive
+CUST_2202,23,Male,Europe,2022-12-12,Basic,7.31,Digital Wallet,Yes,Annual,19.6,Family,1,17,10,0,0,20,Active,Not Churned
+CUST_2203,26,Male,North America,2021-06-18,Basic,8.19,Credit Card,Yes,Monthly,9.7,Anime,7,6,3,0,2,41,Churned,Low usage
+CUST_2204,56,Female,Asia Pacific,2024-08-13,Basic,7.77,Credit Card,Yes,Monthly,22.8,Action,7,17,10,0,2,17,Active,Not Churned
+CUST_2205,18,Female,North America,2025-10-29,Standard,15.2,Credit Card,Yes,Annual,10.1,Thriller,6,8,6,0,0,27,Active,Not Churned
+CUST_2206,20,Female,Asia Pacific,2022-05-31,Standard,13.73,PayPal,Yes,Monthly,10.9,Family,1,6,5,2,3,52,Active,Not Churned
+CUST_2207,29,Female,Latin America,2021-04-08,Standard,13.79,Digital Wallet,Yes,Annual,9.8,Drama,1,10,5,1,2,44,Active,Not Churned
+CUST_2208,31,Female,Middle East & Africa,2025-09-25,Standard,13.6,Direct Debit,Yes,Annual,11.8,Action,7,14,4,0,0,21,Active,Not Churned
+CUST_2209,24,Female,Asia Pacific,2025-12-07,Basic,8.57,Direct Debit,No,Monthly,13.9,Comedy,6,10,3,2,2,51,Churned,Low usage
+CUST_2210,21,Male,North America,2021-12-16,Premium,19.82,PayPal,Yes,Annual,9.8,Thriller,6,9,5,1,1,29,Active,Not Churned
+CUST_2211,51,Male,North America,2023-01-06,Standard,13.66,Digital Wallet,Yes,Monthly,7.7,Drama,4,7,4,3,0,48,Churned,Too expensive
+CUST_2212,37,Female,Latin America,2022-08-02,Standard,14.31,PayPal,Yes,Monthly,6.2,Thriller,3,4,4,3,1,44,Churned,Technical issues
+CUST_2213,40,Male,North America,2025-08-01,Basic,7.37,Credit Card,Yes,Monthly,4.5,Documentary,4,0,1,3,1,65,Churned,Technical issues
+CUST_2214,32,Male,Europe,2023-04-21,Premium,20.27,Carrier Billing,Yes,Monthly,8.6,Anime,1,6,1,2,1,53,Active,Not Churned
+CUST_2215,37,Female,Middle East & Africa,2022-02-05,Standard,14.79,Credit Card,Yes,Annual,10.1,Comedy,1,5,3,2,2,51,Churned,Low usage
+CUST_2216,44,Female,Latin America,2023-01-21,Basic,8.24,Credit Card,Yes,Monthly,12.2,Comedy,2,13,8,1,0,29,Active,Not Churned
+CUST_2217,23,Male,Latin America,2025-01-14,Basic,8.28,Credit Card,Yes,Monthly,13.5,Action,2,10,5,4,0,30,Active,Not Churned
+CUST_2218,37,Female,Middle East & Africa,2025-02-07,Standard,14.38,Direct Debit,Yes,Annual,13.4,Comedy,3,9,5,1,0,21,Active,Not Churned
+CUST_2219,42,Male,Asia Pacific,2023-04-01,Standard,14.76,Direct Debit,Yes,Monthly,23.0,Anime,6,18,10,0,0,14,Active,Not Churned
+CUST_2220,51,Male,Latin America,2024-12-13,Basic,8.53,Credit Card,No,Annual,24.9,Thriller,5,15,10,3,1,41,Active,Not Churned
+CUST_2221,55,Female,Europe,2023-10-25,Premium,20.19,Direct Debit,Yes,Monthly,12.7,Thriller,1,8,4,0,1,30,Active,Not Churned
+CUST_2222,35,Female,Middle East & Africa,2024-09-09,Basic,8.4,Direct Debit,Yes,Annual,6.9,Action,2,6,1,1,0,52,Churned,Technical issues
+CUST_2223,47,Male,Europe,2022-01-04,Standard,13.59,Digital Wallet,No,Monthly,30.1,Action,3,21,16,0,0,3,Active,Not Churned
+CUST_2224,18,Male,Asia Pacific,2025-06-26,Premium,20.34,PayPal,No,Monthly,22.3,Thriller,4,17,11,2,0,6,Active,Not Churned
+CUST_2225,51,Male,Europe,2024-11-19,Standard,13.54,Direct Debit,Yes,Monthly,20.1,Family,1,15,12,1,2,17,Active,Not Churned
+CUST_2226,26,Other,North America,2022-07-10,Standard,13.82,Direct Debit,Yes,Monthly,9.9,Action,5,8,7,1,0,37,Active,Not Churned
+CUST_2227,31,Female,Asia Pacific,2024-02-17,Standard,12.6,Credit Card,Yes,Annual,18.2,Documentary,3,14,3,0,3,26,Active,Not Churned
+CUST_2228,39,Male,Europe,2025-09-20,Basic,8.17,Credit Card,Yes,Monthly,11.9,Comedy,6,10,6,2,0,23,Active,Not Churned
+CUST_2229,32,Male,Asia Pacific,2025-11-02,Premium,19.7,PayPal,Yes,Monthly,13.8,Comedy,5,8,5,0,2,28,Active,Not Churned
+CUST_2230,36,Female,Asia Pacific,2023-10-02,Standard,14.49,Credit Card,Yes,Monthly,12.3,Anime,1,10,8,0,2,30,Churned,Switched to competitor
+CUST_2231,51,Female,Asia Pacific,2023-08-24,Premium,20.17,Credit Card,Yes,Annual,17.2,Thriller,3,10,6,0,1,35,Active,Not Churned
+CUST_2232,30,Female,North America,2023-10-12,Basic,8.5,PayPal,Yes,Annual,21.8,Drama,6,16,8,1,0,17,Active,Not Churned
+CUST_2233,22,Male,Europe,2024-04-28,Basic,7.5,Credit Card,Yes,Monthly,29.8,Documentary,7,20,11,0,1,4,Active,Not Churned
+CUST_2234,54,Other,Latin America,2025-07-04,Basic,8.46,Credit Card,Yes,Monthly,9.1,Anime,7,13,4,2,2,35,Active,Not Churned
+CUST_2235,40,Male,Europe,2024-12-10,Standard,14.94,PayPal,Yes,Monthly,13.8,Sci-Fi,2,10,8,2,1,46,Churned,Payment issues
+CUST_2236,55,Male,Europe,2023-03-25,Standard,14.33,Direct Debit,Yes,Monthly,12.1,Anime,5,6,6,1,2,52,Churned,Low usage
+CUST_2237,43,Male,Asia Pacific,2025-12-20,Premium,20.35,Carrier Billing,Yes,Monthly,16.7,Action,4,12,5,0,1,27,Active,Not Churned
+CUST_2238,19,Female,Middle East & Africa,2021-04-16,Standard,14.07,PayPal,Yes,Monthly,11.5,Action,4,10,9,0,1,41,Active,Not Churned
+CUST_2239,41,Female,Asia Pacific,2021-06-14,Premium,19.75,PayPal,No,Monthly,30.3,Sci-Fi,7,21,15,1,1,0,Active,Not Churned
+CUST_2240,23,Female,North America,2022-09-30,Basic,8.33,PayPal,Yes,Annual,8.0,Sci-Fi,5,5,5,0,2,47,Churned,Low usage
+CUST_2241,34,Female,Middle East & Africa,2024-10-01,Premium,19.31,Credit Card,Yes,Monthly,12.2,Action,1,6,8,1,1,44,Active,Not Churned
+CUST_2242,33,Male,Latin America,2024-01-27,Standard,13.8,Credit Card,No,Annual,10.0,Sci-Fi,1,10,1,0,0,20,Active,Not Churned
+CUST_2243,18,Male,Latin America,2023-10-21,Standard,13.19,Carrier Billing,Yes,Monthly,11.9,Documentary,1,6,4,0,0,37,Active,Not Churned
+CUST_2244,25,Female,Asia Pacific,2025-02-18,Premium,19.67,PayPal,No,Annual,8.8,Sci-Fi,7,6,6,1,0,25,Active,Not Churned
+CUST_2245,58,Female,Latin America,2021-11-27,Standard,14.28,Carrier Billing,Yes,Monthly,10.1,Sci-Fi,4,7,3,1,0,55,Churned,Payment issues
+CUST_2246,37,Female,Asia Pacific,2024-10-25,Standard,14.22,Direct Debit,Yes,Monthly,15.2,Documentary,4,11,6,2,2,30,Churned,Switched to competitor
+CUST_2247,32,Male,Latin America,2025-01-05,Basic,8.01,Credit Card,Yes,Annual,13.6,Drama,2,12,6,0,3,47,Active,Not Churned
+CUST_2248,54,Male,Middle East & Africa,2024-02-18,Basic,8.07,PayPal,Yes,Monthly,12.6,Sci-Fi,1,8,3,0,0,35,Churned,Switched to competitor
+CUST_2249,30,Male,Middle East & Africa,2021-10-26,Premium,19.14,PayPal,Yes,Monthly,23.9,Action,4,16,10,0,1,23,Active,Not Churned
+CUST_2250,33,Female,Asia Pacific,2023-05-06,Standard,13.82,PayPal,No,Monthly,15.4,Sci-Fi,4,12,9,0,0,21,Active,Not Churned
+CUST_2251,45,Female,Middle East & Africa,2024-03-12,Premium,19.68,PayPal,Yes,Annual,23.6,Anime,1,17,12,0,0,14,Active,Not Churned
+CUST_2252,30,Male,North America,2022-12-08,Standard,13.69,Digital Wallet,Yes,Monthly,31.3,Action,1,21,16,0,0,8,Active,Not Churned
+CUST_2253,26,Male,North America,2025-07-24,Basic,8.26,Carrier Billing,No,Annual,16.9,Action,4,13,10,1,0,30,Active,Not Churned
+CUST_2254,18,Male,Asia Pacific,2025-06-28,Basic,7.6,Digital Wallet,Yes,Monthly,5.8,Drama,6,7,3,1,1,49,Active,Not Churned
+CUST_2255,24,Male,Asia Pacific,2024-01-22,Standard,13.72,Credit Card,Yes,Monthly,14.3,Anime,5,12,7,0,0,22,Active,Not Churned
+CUST_2256,24,Female,North America,2024-08-13,Standard,13.05,Credit Card,Yes,Monthly,13.5,Drama,4,11,7,0,1,27,Active,Not Churned
+CUST_2257,36,Female,Asia Pacific,2022-03-23,Basic,7.86,Credit Card,No,Monthly,22.8,Drama,2,13,9,1,0,12,Active,Not Churned
+CUST_2258,27,Female,North America,2022-04-25,Standard,13.5,Credit Card,Yes,Monthly,12.1,Documentary,3,9,3,0,0,37,Churned,Too expensive
+CUST_2259,58,Male,Asia Pacific,2023-01-04,Basic,8.03,PayPal,Yes,Monthly,7.5,Drama,6,7,2,2,0,50,Churned,Technical issues
+CUST_2260,22,Female,Middle East & Africa,2025-10-02,Standard,13.56,Direct Debit,No,Monthly,10.3,Comedy,1,10,4,0,0,43,Active,Not Churned
+CUST_2261,49,Female,Latin America,2025-12-29,Basic,8.04,PayPal,Yes,Monthly,5.9,Family,7,4,1,3,0,53,Churned,Technical issues
+CUST_2262,36,Male,Europe,2023-05-24,Premium,19.92,Digital Wallet,Yes,Monthly,5.7,Thriller,2,4,3,1,0,41,Churned,Switched to competitor
+CUST_2263,43,Female,Middle East & Africa,2024-07-05,Basic,8.74,Digital Wallet,Yes,Annual,27.4,Drama,5,18,13,1,1,2,Active,Not Churned
+CUST_2264,42,Female,Asia Pacific,2022-06-06,Standard,14.21,Credit Card,Yes,Annual,12.8,Anime,7,11,6,1,0,38,Active,Not Churned
+CUST_2265,18,Male,Latin America,2025-09-03,Basic,7.16,Carrier Billing,Yes,Annual,6.2,Anime,3,8,3,5,0,31,Active,Not Churned
+CUST_2266,34,Female,Asia Pacific,2024-10-30,Basic,7.42,PayPal,No,Monthly,23.8,Family,6,16,13,0,2,19,Active,Not Churned
+CUST_2267,31,Female,Middle East & Africa,2024-12-21,Standard,14.01,PayPal,Yes,Annual,27.3,Sci-Fi,4,21,12,2,1,8,Active,Not Churned
+CUST_2268,22,Female,Latin America,2024-01-30,Standard,13.57,Direct Debit,Yes,Monthly,13.7,Sci-Fi,1,11,8,1,0,29,Active,Not Churned
+CUST_2269,39,Male,Asia Pacific,2022-09-14,Standard,12.65,Credit Card,Yes,Monthly,7.2,Thriller,4,6,4,0,1,43,Active,Not Churned
+CUST_2270,53,Male,Europe,2023-01-29,Basic,8.6,Digital Wallet,Yes,Annual,8.9,Action,2,7,6,1,3,50,Churned,Technical issues
+CUST_2271,18,Male,Asia Pacific,2021-09-01,Standard,14.31,Direct Debit,Yes,Annual,11.5,Anime,7,11,8,0,1,11,Active,Not Churned
+CUST_2272,28,Female,Asia Pacific,2021-01-23,Premium,20.22,Digital Wallet,No,Monthly,14.5,Comedy,7,12,8,0,0,25,Active,Not Churned
+CUST_2273,20,Male,Asia Pacific,2024-10-09,Standard,13.72,Digital Wallet,Yes,Monthly,8.0,Family,1,12,4,0,0,7,Active,Not Churned
+CUST_2274,35,Female,Europe,2022-04-11,Basic,8.18,PayPal,Yes,Monthly,17.6,Family,4,11,8,1,2,42,Active,Not Churned
+CUST_2275,30,Female,Europe,2024-06-02,Standard,13.67,Credit Card,Yes,Monthly,5.3,Drama,7,6,1,1,0,38,Churned,Payment issues
+CUST_2276,27,Male,Asia Pacific,2023-05-15,Basic,8.08,Credit Card,Yes,Annual,18.9,Drama,1,13,8,1,2,14,Active,Not Churned
+CUST_2277,42,Female,Latin America,2025-01-07,Basic,7.58,Credit Card,No,Monthly,20.9,Drama,2,13,11,2,1,23,Churned,Technical issues
+CUST_2278,52,Male,Latin America,2025-12-03,Premium,20.67,Credit Card,No,Annual,12.3,Action,4,10,4,2,1,33,Churned,Switched to competitor
+CUST_2279,63,Male,North America,2021-09-26,Basic,7.28,Carrier Billing,Yes,Monthly,10.8,Sci-Fi,3,9,8,0,2,48,Churned,Lack of content
+CUST_2280,26,Male,Europe,2022-06-17,Standard,14.54,Credit Card,No,Annual,23.7,Sci-Fi,7,21,10,2,1,11,Active,Not Churned
+CUST_2281,18,Female,North America,2021-11-10,Standard,14.01,Digital Wallet,Yes,Annual,16.8,Anime,5,12,13,0,0,28,Active,Not Churned
+CUST_2282,40,Female,North America,2021-04-30,Standard,13.77,Direct Debit,Yes,Monthly,11.0,Anime,4,6,4,3,0,55,Churned,Payment issues
+CUST_2283,52,Male,North America,2023-09-08,Standard,14.07,Credit Card,Yes,Monthly,11.6,Action,1,10,6,1,1,34,Churned,Low usage
+CUST_2284,43,Female,Latin America,2025-02-13,Basic,8.32,PayPal,Yes,Annual,14.2,Anime,6,6,6,0,1,49,Churned,Technical issues
+CUST_2285,52,Female,Middle East & Africa,2024-02-18,Basic,8.61,PayPal,No,Monthly,26.2,Family,4,18,10,2,1,23,Churned,Technical issues
+CUST_2286,32,Male,Europe,2022-12-11,Standard,14.13,PayPal,Yes,Annual,11.7,Sci-Fi,1,9,7,1,0,24,Active,Not Churned
+CUST_2287,27,Male,Asia Pacific,2021-05-16,Basic,7.59,PayPal,Yes,Monthly,9.4,Action,7,9,2,2,2,55,Active,Not Churned
+CUST_2288,35,Male,Latin America,2024-01-06,Standard,14.02,Credit Card,No,Monthly,12.9,Action,6,12,4,0,0,14,Active,Not Churned
+CUST_2289,30,Female,Middle East & Africa,2024-10-09,Basic,8.81,Direct Debit,Yes,Annual,11.5,Drama,2,8,6,4,1,54,Churned,Lack of content
+CUST_2290,41,Female,Middle East & Africa,2023-12-18,Basic,8.6,PayPal,No,Monthly,13.0,Documentary,6,10,7,0,3,27,Active,Not Churned
+CUST_2291,45,Male,North America,2023-07-25,Standard,14.4,Carrier Billing,Yes,Annual,12.3,Drama,5,8,3,0,1,43,Active,Not Churned
+CUST_2292,46,Male,Europe,2024-01-15,Basic,8.35,Carrier Billing,Yes,Monthly,19.5,Thriller,1,12,10,1,0,42,Churned,Switched to competitor
+CUST_2293,40,Male,North America,2021-01-01,Standard,14.3,Credit Card,No,Annual,8.7,Thriller,4,8,4,0,0,33,Active,Not Churned
+CUST_2294,37,Male,Asia Pacific,2021-03-18,Standard,14.51,Credit Card,Yes,Monthly,15.2,Sci-Fi,7,9,5,2,0,34,Churned,Lack of content
+CUST_2295,43,Female,Latin America,2023-08-19,Premium,19.78,Direct Debit,No,Monthly,17.0,Drama,6,12,6,2,0,34,Churned,Too expensive
+CUST_2296,18,Male,Europe,2025-03-26,Basic,7.38,Digital Wallet,Yes,Monthly,7.5,Anime,2,4,0,1,0,44,Churned,Low usage
+CUST_2297,36,Female,Middle East & Africa,2025-01-07,Basic,8.02,PayPal,No,Annual,13.7,Thriller,6,12,10,0,1,43,Active,Not Churned
+CUST_2298,35,Female,Asia Pacific,2022-08-04,Basic,7.62,Credit Card,Yes,Monthly,14.2,Action,3,15,8,0,1,22,Active,Not Churned
+CUST_2299,36,Male,Middle East & Africa,2021-05-28,Standard,13.52,Credit Card,Yes,Annual,4.7,Family,4,2,0,1,0,49,Active,Not Churned
+CUST_2300,33,Male,North America,2022-07-28,Standard,13.67,Credit Card,No,Monthly,8.4,Anime,5,3,5,3,1,52,Churned,Low usage
+CUST_2301,39,Male,North America,2025-03-29,Basic,9.11,Credit Card,Yes,Annual,23.1,Comedy,2,16,9,0,2,14,Active,Not Churned
+CUST_2302,28,Male,Europe,2021-07-05,Premium,20.05,PayPal,Yes,Annual,11.4,Sci-Fi,4,9,7,0,0,27,Churned,Technical issues
+CUST_2303,46,Female,North America,2025-08-28,Basic,8.15,Direct Debit,No,Monthly,6.2,Comedy,1,6,2,1,2,46,Churned,Lack of content
+CUST_2304,39,Female,Latin America,2022-06-06,Standard,13.44,Credit Card,Yes,Monthly,5.9,Comedy,1,4,2,0,1,44,Active,Not Churned
+CUST_2305,36,Female,North America,2025-11-30,Standard,13.16,Credit Card,No,Monthly,8.1,Anime,1,6,3,1,1,40,Churned,Technical issues
+CUST_2306,26,Male,Latin America,2021-06-11,Premium,19.62,PayPal,Yes,Monthly,13.6,Action,4,11,5,1,0,46,Active,Not Churned
+CUST_2307,43,Male,North America,2024-08-06,Standard,14.64,Carrier Billing,Yes,Monthly,7.5,Drama,5,9,6,0,2,31,Churned,Lack of content
+CUST_2308,36,Male,Europe,2024-12-15,Premium,20.14,PayPal,Yes,Annual,18.4,Drama,1,9,10,0,0,34,Active,Not Churned
+CUST_2309,26,Female,Latin America,2021-07-15,Basic,8.26,Digital Wallet,Yes,Monthly,7.4,Comedy,4,6,4,1,0,47,Active,Not Churned
+CUST_2310,33,Male,Middle East & Africa,2021-02-03,Premium,20.32,PayPal,Yes,Annual,16.1,Comedy,4,12,9,3,0,36,Active,Not Churned
+CUST_2311,41,Female,Europe,2025-08-23,Basic,7.72,Credit Card,Yes,Annual,21.5,Documentary,7,13,6,1,0,24,Churned,Technical issues
+CUST_2312,40,Female,Middle East & Africa,2025-06-09,Premium,20.61,Credit Card,Yes,Monthly,23.8,Drama,5,21,8,2,3,14,Active,Not Churned
+CUST_2313,39,Male,Asia Pacific,2025-05-13,Standard,13.71,Direct Debit,Yes,Monthly,14.5,Action,2,10,7,1,2,42,Churned,Low usage
+CUST_2314,35,Female,Europe,2022-02-12,Premium,20.62,PayPal,Yes,Monthly,9.4,Action,2,7,6,0,0,40,Active,Not Churned
+CUST_2315,45,Female,Latin America,2025-12-06,Standard,14.19,Direct Debit,No,Annual,12.5,Action,4,11,6,0,1,29,Active,Not Churned
+CUST_2316,48,Male,Europe,2024-08-13,Standard,13.18,Direct Debit,Yes,Monthly,14.7,Action,2,10,3,1,2,26,Churned,Switched to competitor
+CUST_2317,42,Male,Europe,2022-06-21,Standard,13.65,Direct Debit,Yes,Monthly,34.1,Thriller,3,20,13,0,1,4,Active,Not Churned
+CUST_2318,28,Male,Asia Pacific,2021-02-05,Standard,13.19,Credit Card,No,Annual,5.9,Documentary,5,4,3,1,1,41,Active,Not Churned
+CUST_2319,22,Female,Europe,2024-07-11,Basic,8.51,Carrier Billing,Yes,Monthly,11.0,Family,4,11,10,1,0,24,Churned,Switched to competitor
+CUST_2320,28,Male,North America,2024-11-06,Basic,7.98,PayPal,No,Annual,15.1,Action,2,11,9,0,0,28,Active,Not Churned
+CUST_2321,55,Female,North America,2021-04-24,Basic,6.99,PayPal,Yes,Monthly,11.9,Thriller,6,7,8,1,1,46,Active,Not Churned
+CUST_2322,37,Female,Latin America,2025-06-29,Basic,8.16,PayPal,Yes,Monthly,12.5,Documentary,2,12,6,1,1,44,Active,Not Churned
+CUST_2323,57,Female,Asia Pacific,2022-08-28,Premium,19.75,Direct Debit,Yes,Annual,10.7,Anime,5,8,5,1,2,39,Active,Not Churned
+CUST_2324,33,Male,Europe,2025-06-13,Basic,7.32,Credit Card,No,Monthly,17.4,Comedy,6,12,6,2,0,35,Active,Not Churned
+CUST_2325,31,Female,Middle East & Africa,2022-03-19,Premium,20.75,PayPal,Yes,Annual,14.5,Comedy,1,11,8,1,2,38,Active,Not Churned
+CUST_2326,33,Male,Europe,2024-04-01,Basic,8.04,Credit Card,No,Monthly,12.5,Thriller,2,11,5,1,0,40,Active,Not Churned
+CUST_2327,33,Male,Latin America,2021-02-07,Basic,7.86,PayPal,Yes,Annual,18.3,Documentary,6,19,10,1,2,21,Active,Not Churned
+CUST_2328,25,Female,Middle East & Africa,2021-04-02,Premium,19.81,Credit Card,Yes,Monthly,12.7,Documentary,5,12,6,2,1,24,Churned,Too expensive
+CUST_2329,21,Male,Latin America,2022-09-23,Standard,13.31,Credit Card,Yes,Monthly,21.8,Action,6,18,10,2,2,7,Active,Not Churned
+CUST_2330,40,Female,Asia Pacific,2025-10-13,Standard,13.4,Credit Card,Yes,Monthly,7.4,Drama,7,5,3,0,0,45,Active,Not Churned
+CUST_2331,46,Male,Asia Pacific,2022-11-03,Standard,14.57,PayPal,Yes,Monthly,14.3,Family,1,9,7,1,0,30,Churned,Too expensive
+CUST_2332,61,Other,Europe,2021-04-11,Standard,13.78,Digital Wallet,No,Monthly,8.9,Sci-Fi,6,7,6,2,1,37,Active,Not Churned
+CUST_2333,29,Female,Asia Pacific,2022-05-22,Basic,8.0,Credit Card,Yes,Monthly,6.5,Thriller,7,6,0,1,2,38,Active,Not Churned
+CUST_2334,30,Female,Europe,2021-06-28,Premium,19.07,PayPal,Yes,Monthly,29.0,Comedy,4,18,10,0,2,18,Active,Not Churned
+CUST_2335,26,Male,Europe,2021-10-11,Premium,19.4,Credit Card,Yes,Monthly,9.0,Thriller,7,7,5,0,0,50,Churned,Technical issues
+CUST_2336,46,Female,North America,2021-12-21,Standard,14.26,Direct Debit,No,Monthly,13.1,Action,1,11,9,1,0,26,Churned,Payment issues
+CUST_2337,43,Female,North America,2024-08-13,Basic,8.16,Credit Card,No,Monthly,5.8,Action,2,6,6,0,2,51,Churned,Lack of content
+CUST_2338,24,Female,Asia Pacific,2025-04-08,Standard,14.78,Credit Card,Yes,Monthly,21.2,Sci-Fi,4,16,7,1,2,23,Churned,Technical issues
+CUST_2339,24,Male,Middle East & Africa,2022-05-03,Basic,8.59,Credit Card,No,Annual,9.2,Anime,4,8,3,0,2,31,Active,Not Churned
+CUST_2340,44,Male,North America,2023-10-03,Basic,7.89,Digital Wallet,No,Monthly,18.3,Comedy,1,12,5,0,2,37,Churned,Too expensive
+CUST_2341,38,Male,North America,2021-10-06,Basic,8.2,PayPal,No,Monthly,14.8,Documentary,4,10,6,1,0,23,Active,Not Churned
+CUST_2342,42,Male,Asia Pacific,2022-06-28,Standard,13.85,Credit Card,Yes,Monthly,31.7,Sci-Fi,7,19,16,0,0,8,Active,Not Churned
+CUST_2343,24,Male,Asia Pacific,2022-10-12,Premium,20.91,Credit Card,Yes,Annual,8.3,Family,7,11,4,2,1,32,Active,Not Churned
+CUST_2344,18,Female,North America,2025-06-05,Standard,14.51,Credit Card,Yes,Monthly,8.3,Action,1,7,3,0,1,48,Churned,Too expensive
+CUST_2345,24,Male,North America,2023-07-20,Standard,14.07,Credit Card,Yes,Monthly,19.3,Action,1,14,10,1,0,14,Active,Not Churned
+CUST_2346,42,Male,Asia Pacific,2021-12-21,Standard,14.08,Carrier Billing,Yes,Monthly,14.6,Family,6,9,5,0,2,42,Active,Not Churned
+CUST_2347,57,Female,Latin America,2024-09-04,Basic,8.64,PayPal,Yes,Monthly,10.0,Anime,7,14,8,0,0,13,Active,Not Churned
+CUST_2348,29,Male,North America,2021-07-14,Standard,14.25,Direct Debit,Yes,Annual,28.9,Documentary,1,18,13,1,1,11,Active,Not Churned
+CUST_2349,59,Female,Europe,2023-03-15,Premium,20.69,Credit Card,No,Monthly,14.2,Action,7,10,6,1,2,9,Active,Not Churned
+CUST_2350,43,Female,Asia Pacific,2021-04-03,Basic,7.0,PayPal,Yes,Monthly,7.6,Family,5,7,5,1,1,59,Churned,Too expensive
+CUST_2351,19,Female,North America,2022-03-09,Premium,20.2,Credit Card,No,Annual,21.4,Thriller,2,17,11,1,4,32,Active,Not Churned
+CUST_2352,36,Female,Europe,2022-07-12,Standard,13.76,Credit Card,Yes,Monthly,12.9,Thriller,4,12,9,1,0,21,Churned,Technical issues
+CUST_2353,44,Female,Asia Pacific,2023-11-17,Standard,14.78,Direct Debit,No,Annual,13.3,Family,3,14,6,4,0,19,Active,Not Churned
+CUST_2354,18,Male,Middle East & Africa,2024-12-09,Standard,14.69,Credit Card,No,Monthly,17.0,Anime,6,14,10,0,1,19,Active,Not Churned
+CUST_2355,41,Female,Europe,2021-06-11,Standard,14.0,Direct Debit,No,Annual,17.3,Comedy,2,10,8,1,0,38,Churned,Technical issues
+CUST_2356,47,Female,Asia Pacific,2021-04-11,Premium,20.68,Carrier Billing,Yes,Annual,9.8,Sci-Fi,3,7,3,1,1,28,Active,Not Churned
+CUST_2357,38,Male,Europe,2022-11-30,Premium,20.79,Credit Card,Yes,Monthly,12.7,Thriller,1,10,4,4,0,37,Active,Not Churned
+CUST_2358,33,Male,Middle East & Africa,2025-02-05,Standard,14.02,Digital Wallet,Yes,Annual,7.1,Thriller,4,11,1,0,1,45,Active,Not Churned
+CUST_2359,32,Female,North America,2025-09-26,Basic,9.1,Credit Card,No,Monthly,13.2,Anime,6,7,4,0,1,32,Active,Not Churned
+CUST_2360,31,Female,Asia Pacific,2021-06-07,Standard,13.98,PayPal,No,Monthly,27.3,Drama,2,21,15,0,1,6,Active,Not Churned
+CUST_2361,21,Male,Latin America,2022-05-07,Premium,19.89,Direct Debit,No,Monthly,9.9,Thriller,3,8,6,3,0,59,Churned,Too expensive
+CUST_2362,26,Female,Middle East & Africa,2023-07-08,Basic,8.38,PayPal,Yes,Monthly,5.1,Anime,3,7,0,0,2,49,Active,Not Churned
+CUST_2363,29,Female,Asia Pacific,2023-10-30,Standard,13.83,Credit Card,Yes,Annual,9.7,Drama,3,8,1,0,0,36,Active,Not Churned
+CUST_2364,35,Female,Europe,2024-05-20,Standard,14.03,Carrier Billing,Yes,Monthly,11.5,Sci-Fi,2,7,3,0,1,45,Churned,Too expensive
+CUST_2365,28,Female,Europe,2025-01-02,Standard,14.62,Digital Wallet,Yes,Annual,17.3,Family,5,14,6,0,2,23,Active,Not Churned
+CUST_2366,24,Male,Europe,2023-04-04,Basic,8.0,Credit Card,Yes,Monthly,9.5,Comedy,1,9,4,1,1,48,Churned,Low usage
+CUST_2367,42,Female,Asia Pacific,2022-11-10,Standard,13.23,Digital Wallet,Yes,Monthly,14.8,Action,4,13,9,0,0,19,Active,Not Churned
+CUST_2368,38,Female,Latin America,2023-02-25,Premium,20.16,PayPal,No,Monthly,11.7,Action,3,9,4,0,1,20,Active,Not Churned
+CUST_2369,28,Female,Latin America,2023-09-19,Basic,7.68,Digital Wallet,Yes,Monthly,10.2,Drama,6,7,8,1,1,40,Active,Not Churned
+CUST_2370,40,Female,Europe,2021-04-21,Basic,8.38,Credit Card,Yes,Annual,7.4,Drama,2,3,0,1,1,45,Churned,Lack of content
+CUST_2371,29,Male,Latin America,2023-04-21,Premium,20.3,Carrier Billing,No,Annual,9.4,Thriller,6,9,4,1,0,32,Churned,Too expensive
+CUST_2372,35,Male,Middle East & Africa,2021-07-22,Basic,8.65,Credit Card,Yes,Annual,16.1,Action,3,13,9,2,1,28,Active,Not Churned
+CUST_2373,45,Male,Middle East & Africa,2025-11-19,Premium,20.4,Digital Wallet,Yes,Annual,12.0,Thriller,2,7,7,1,0,49,Active,Not Churned
+CUST_2374,27,Female,Latin America,2023-12-25,Standard,14.48,Direct Debit,Yes,Monthly,15.3,Action,6,10,6,1,0,38,Active,Not Churned
+CUST_2375,21,Female,Asia Pacific,2025-10-05,Basic,7.69,PayPal,Yes,Monthly,7.4,Family,5,5,5,1,0,47,Churned,Switched to competitor
+CUST_2376,32,Female,Asia Pacific,2024-03-30,Premium,20.35,Credit Card,Yes,Annual,14.2,Drama,3,7,8,0,2,44,Active,Not Churned
+CUST_2377,19,Female,North America,2022-02-18,Standard,14.88,Carrier Billing,Yes,Monthly,5.4,Anime,7,3,1,1,1,44,Active,Not Churned
+CUST_2378,31,Female,North America,2025-07-27,Standard,13.68,Direct Debit,Yes,Monthly,10.9,Action,3,6,6,0,1,26,Active,Not Churned
+CUST_2379,31,Male,Asia Pacific,2022-11-21,Standard,14.8,PayPal,Yes,Monthly,9.3,Comedy,4,7,6,2,1,46,Active,Not Churned
+CUST_2380,18,Male,North America,2025-09-25,Standard,13.74,PayPal,Yes,Monthly,20.8,Action,2,13,8,1,1,34,Active,Not Churned
+CUST_2381,40,Male,Asia Pacific,2021-09-23,Basic,7.61,Carrier Billing,No,Monthly,5.9,Anime,2,2,6,1,0,51,Active,Not Churned
+CUST_2382,32,Female,Asia Pacific,2022-07-26,Standard,14.12,Credit Card,Yes,Annual,11.9,Comedy,5,14,4,0,1,19,Active,Not Churned
+CUST_2383,47,Female,Asia Pacific,2021-07-24,Premium,20.31,Credit Card,No,Monthly,16.1,Thriller,3,15,8,3,1,30,Churned,Switched to competitor
+CUST_2384,36,Male,North America,2025-08-18,Basic,8.4,Digital Wallet,Yes,Monthly,18.0,Drama,4,11,6,2,3,40,Active,Not Churned
+CUST_2385,42,Male,North America,2022-08-07,Standard,13.56,PayPal,Yes,Monthly,18.3,Drama,6,14,8,2,1,41,Active,Not Churned
+CUST_2386,47,Female,North America,2024-03-25,Basic,8.19,PayPal,Yes,Annual,10.8,Drama,1,9,3,1,1,48,Active,Not Churned
+CUST_2387,33,Female,North America,2021-06-22,Standard,13.68,Credit Card,Yes,Annual,13.1,Sci-Fi,4,13,5,1,1,35,Active,Not Churned
+CUST_2388,34,Female,Middle East & Africa,2021-11-04,Basic,7.32,Digital Wallet,Yes,Annual,19.3,Action,6,12,5,1,1,36,Active,Not Churned
+CUST_2389,18,Male,Europe,2022-03-26,Premium,19.57,Credit Card,Yes,Monthly,13.7,Drama,4,13,8,1,1,17,Active,Not Churned
+CUST_2390,48,Male,Europe,2021-03-03,Standard,13.65,Direct Debit,Yes,Annual,13.7,Documentary,6,9,7,1,1,43,Active,Not Churned
+CUST_2391,32,Female,North America,2024-10-28,Basic,8.22,Digital Wallet,No,Monthly,19.6,Action,4,11,11,0,0,31,Active,Not Churned
+CUST_2392,23,Male,Asia Pacific,2025-01-23,Basic,8.51,Credit Card,No,Annual,32.3,Documentary,7,21,14,0,0,7,Active,Not Churned
+CUST_2393,42,Male,Asia Pacific,2022-04-20,Basic,7.33,Carrier Billing,Yes,Annual,12.7,Action,4,13,8,1,4,41,Active,Not Churned
+CUST_2394,18,Female,North America,2024-11-05,Standard,14.15,PayPal,Yes,Monthly,15.9,Anime,3,18,7,0,1,17,Active,Not Churned
+CUST_2395,29,Other,Middle East & Africa,2025-10-07,Basic,7.46,Direct Debit,Yes,Monthly,16.5,Family,4,10,8,0,0,52,Active,Not Churned
+CUST_2396,44,Female,Latin America,2025-05-15,Premium,20.27,PayPal,No,Monthly,22.5,Drama,6,18,14,0,0,9,Active,Not Churned
+CUST_2397,29,Female,Europe,2021-03-27,Standard,13.71,Direct Debit,No,Monthly,19.7,Drama,6,13,8,2,2,40,Active,Not Churned
+CUST_2398,26,Male,Asia Pacific,2024-03-12,Basic,7.52,Credit Card,No,Annual,8.4,Thriller,2,9,6,3,2,41,Active,Not Churned
+CUST_2399,29,Male,Asia Pacific,2023-10-28,Standard,14.35,Credit Card,Yes,Annual,14.6,Anime,6,8,8,1,1,47,Active,Not Churned
+CUST_2400,18,Male,Europe,2021-10-22,Standard,13.73,Digital Wallet,No,Annual,19.7,Sci-Fi,2,12,8,1,1,38,Active,Not Churned
+CUST_2401,42,Female,Latin America,2025-09-11,Basic,7.85,Credit Card,Yes,Monthly,21.5,Sci-Fi,7,14,7,2,1,30,Active,Not Churned
+CUST_2402,33,Male,North America,2023-01-09,Basic,6.99,Carrier Billing,Yes,Monthly,10.4,Drama,7,8,3,2,2,59,Churned,Payment issues
+CUST_2403,31,Female,Europe,2025-03-23,Basic,8.42,Credit Card,No,Monthly,12.9,Thriller,6,9,8,0,2,32,Active,Not Churned
+CUST_2404,31,Male,Europe,2025-08-03,Standard,14.36,PayPal,Yes,Monthly,15.2,Documentary,4,13,10,2,2,29,Active,Not Churned
+CUST_2405,34,Female,Asia Pacific,2022-06-10,Standard,13.99,Carrier Billing,No,Monthly,12.9,Anime,6,12,6,1,0,29,Active,Not Churned
+CUST_2406,41,Female,Middle East & Africa,2021-02-03,Standard,13.3,Credit Card,Yes,Monthly,14.3,Family,7,12,7,0,0,32,Active,Not Churned
+CUST_2407,33,Female,North America,2023-01-22,Premium,20.53,Carrier Billing,No,Monthly,6.8,Anime,2,9,5,0,3,44,Churned,Technical issues
+CUST_2408,19,Male,North America,2024-09-14,Premium,19.69,PayPal,Yes,Annual,40.0,Sci-Fi,7,21,18,0,0,13,Active,Not Churned
+CUST_2409,40,Female,Asia Pacific,2025-06-21,Standard,13.79,PayPal,Yes,Monthly,11.7,Family,3,6,7,1,0,37,Churned,Payment issues
+CUST_2410,39,Male,North America,2023-02-19,Premium,21.03,Direct Debit,Yes,Annual,13.6,Drama,7,13,7,2,2,24,Active,Not Churned
+CUST_2411,36,Female,North America,2022-09-30,Basic,7.67,PayPal,Yes,Monthly,4.9,Action,7,3,2,0,0,50,Active,Not Churned
+CUST_2412,46,Female,Europe,2023-11-24,Basic,8.32,PayPal,Yes,Monthly,4.5,Drama,1,6,1,0,2,46,Churned,Switched to competitor
+CUST_2413,34,Male,North America,2023-03-06,Basic,8.24,Direct Debit,Yes,Annual,14.1,Family,4,14,4,1,1,30,Active,Not Churned
+CUST_2414,46,Female,Europe,2022-02-10,Basic,8.17,Credit Card,Yes,Annual,18.3,Anime,6,14,2,0,0,20,Active,Not Churned
+CUST_2415,49,Female,Europe,2023-11-08,Standard,14.12,Credit Card,Yes,Monthly,18.1,Drama,2,10,11,2,0,31,Active,Not Churned
+CUST_2416,40,Female,North America,2024-12-24,Premium,20.16,Carrier Billing,Yes,Monthly,10.4,Drama,2,6,4,1,1,45,Churned,Too expensive
+CUST_2417,26,Female,Asia Pacific,2022-03-04,Basic,8.11,Carrier Billing,Yes,Monthly,16.2,Action,7,15,6,2,0,22,Churned,Too expensive
+CUST_2418,33,Male,North America,2023-07-03,Basic,7.97,PayPal,No,Monthly,10.5,Action,3,8,1,1,0,35,Churned,Switched to competitor
+CUST_2419,48,Male,Middle East & Africa,2021-10-20,Standard,14.67,PayPal,No,Annual,10.8,Family,7,9,4,0,3,40,Churned,Payment issues
+CUST_2420,18,Male,Europe,2022-08-03,Premium,19.4,Direct Debit,Yes,Monthly,8.6,Documentary,6,9,2,1,0,31,Active,Not Churned
+CUST_2421,30,Other,Asia Pacific,2025-11-08,Basic,8.45,PayPal,Yes,Monthly,7.8,Family,3,8,2,0,0,42,Active,Not Churned
+CUST_2422,30,Male,Latin America,2024-01-09,Standard,14.36,PayPal,No,Annual,15.8,Comedy,1,12,8,0,0,27,Active,Not Churned
+CUST_2423,24,Female,Europe,2024-01-15,Basic,8.3,Digital Wallet,Yes,Monthly,13.0,Anime,6,10,6,1,1,53,Active,Not Churned
+CUST_2424,44,Female,Latin America,2025-05-15,Basic,8.49,Credit Card,Yes,Monthly,12.1,Sci-Fi,5,9,3,1,2,42,Active,Not Churned
+CUST_2425,38,Female,Latin America,2021-02-17,Premium,19.95,Direct Debit,Yes,Monthly,6.7,Thriller,5,8,0,0,0,31,Active,Not Churned
+CUST_2426,26,Male,Europe,2025-09-11,Premium,19.15,Digital Wallet,Yes,Monthly,15.2,Family,6,13,4,3,1,53,Active,Not Churned
+CUST_2427,41,Male,Middle East & Africa,2021-03-25,Basic,7.96,Direct Debit,Yes,Monthly,8.3,Family,5,6,7,0,0,43,Active,Not Churned
+CUST_2428,32,Male,North America,2022-08-30,Premium,19.54,Digital Wallet,Yes,Monthly,16.1,Anime,1,14,10,2,0,32,Active,Not Churned
+CUST_2429,24,Male,North America,2021-11-04,Standard,13.66,Credit Card,Yes,Monthly,21.3,Action,4,15,8,1,0,24,Active,Not Churned
+CUST_2430,26,Male,Latin America,2021-09-09,Premium,19.43,Credit Card,Yes,Annual,12.0,Anime,7,7,1,5,0,52,Churned,Too expensive
+CUST_2431,39,Male,North America,2025-02-13,Standard,13.78,Carrier Billing,Yes,Annual,13.2,Action,5,8,6,1,2,48,Active,Not Churned
+CUST_2432,44,Female,Asia Pacific,2021-06-29,Standard,13.72,PayPal,Yes,Monthly,28.8,Action,7,18,13,1,0,3,Active,Not Churned
+CUST_2433,29,Male,Middle East & Africa,2025-06-08,Standard,12.92,Direct Debit,Yes,Monthly,14.3,Drama,5,10,7,1,1,38,Active,Not Churned
+CUST_2434,40,Male,Middle East & Africa,2024-08-26,Standard,14.31,Credit Card,Yes,Monthly,12.6,Comedy,6,12,7,2,0,18,Active,Not Churned
+CUST_2435,51,Male,Asia Pacific,2022-03-02,Basic,8.99,Direct Debit,No,Monthly,7.4,Anime,2,5,4,1,0,43,Churned,Lack of content
+CUST_2436,20,Male,Middle East & Africa,2025-02-18,Basic,8.26,PayPal,Yes,Annual,16.4,Comedy,2,13,5,1,0,19,Active,Not Churned
+CUST_2437,38,Male,Europe,2025-08-13,Basic,7.9,Credit Card,Yes,Monthly,6.8,Sci-Fi,4,4,4,1,2,56,Churned,Technical issues
+CUST_2438,43,Male,North America,2021-02-08,Standard,13.97,PayPal,Yes,Monthly,21.7,Action,6,15,11,0,0,20,Active,Not Churned
+CUST_2439,33,Female,Asia Pacific,2024-07-26,Basic,7.8,Direct Debit,Yes,Monthly,15.3,Anime,3,8,5,1,0,41,Active,Not Churned
+CUST_2440,48,Male,Asia Pacific,2023-03-27,Standard,14.03,Credit Card,Yes,Monthly,10.0,Anime,1,8,5,1,0,39,Active,Not Churned
+CUST_2441,58,Female,Asia Pacific,2022-09-17,Premium,19.97,Direct Debit,Yes,Monthly,10.6,Action,5,8,4,1,2,39,Active,Not Churned
+CUST_2442,38,Male,Asia Pacific,2022-01-11,Basic,7.61,PayPal,No,Annual,7.6,Thriller,6,8,7,0,3,43,Churned,Lack of content
+CUST_2443,31,Female,Europe,2025-07-21,Standard,14.75,Credit Card,Yes,Annual,6.0,Anime,7,6,0,0,0,47,Active,Not Churned
+CUST_2444,45,Female,Asia Pacific,2021-02-10,Standard,13.32,Direct Debit,No,Annual,15.5,Sci-Fi,7,9,9,1,1,46,Active,Not Churned
+CUST_2445,43,Female,Middle East & Africa,2025-08-21,Premium,20.31,Credit Card,Yes,Annual,6.9,Sci-Fi,6,8,0,2,3,39,Active,Not Churned
+CUST_2446,18,Female,Asia Pacific,2025-10-08,Basic,7.94,Credit Card,No,Annual,10.7,Sci-Fi,1,9,8,0,1,23,Active,Not Churned
+CUST_2447,34,Male,Europe,2021-02-16,Standard,14.85,PayPal,No,Monthly,11.9,Action,2,10,3,0,1,27,Active,Not Churned
+CUST_2448,30,Male,Latin America,2025-02-16,Premium,20.14,Direct Debit,No,Monthly,12.5,Documentary,1,10,6,0,2,45,Active,Not Churned
+CUST_2449,38,Male,Europe,2021-07-04,Premium,19.83,Digital Wallet,Yes,Annual,16.9,Sci-Fi,2,11,4,0,2,44,Churned,Payment issues
+CUST_2450,32,Male,Latin America,2021-03-13,Standard,13.88,Credit Card,Yes,Monthly,10.0,Drama,1,8,2,0,1,31,Active,Not Churned
+CUST_2451,33,Male,North America,2022-07-23,Standard,14.01,PayPal,Yes,Monthly,13.7,Documentary,7,11,8,1,2,38,Churned,Lack of content
+CUST_2452,25,Female,Europe,2025-11-10,Standard,13.48,Credit Card,No,Monthly,21.7,Documentary,2,12,12,1,0,42,Active,Not Churned
+CUST_2453,42,Male,North America,2022-07-28,Premium,19.64,Direct Debit,No,Monthly,17.7,Drama,1,12,8,2,1,36,Active,Not Churned
+CUST_2454,52,Male,North America,2021-12-08,Standard,13.19,PayPal,Yes,Monthly,10.6,Thriller,5,8,6,0,0,46,Active,Not Churned
+CUST_2455,25,Male,Asia Pacific,2022-07-23,Basic,7.57,Direct Debit,No,Monthly,11.2,Sci-Fi,5,9,7,0,1,44,Churned,Technical issues
+CUST_2456,19,Female,Europe,2023-08-22,Premium,20.03,Credit Card,Yes,Monthly,12.5,Drama,4,12,4,0,0,18,Active,Not Churned
+CUST_2457,34,Other,Middle East & Africa,2024-06-20,Standard,14.13,Carrier Billing,Yes,Annual,11.8,Anime,1,7,3,0,1,39,Churned,Technical issues
+CUST_2458,34,Female,Asia Pacific,2021-11-24,Standard,13.1,PayPal,Yes,Monthly,13.9,Anime,3,9,6,1,0,35,Active,Not Churned
+CUST_2459,47,Male,Europe,2025-07-18,Basic,7.93,Digital Wallet,Yes,Annual,5.5,Drama,4,4,1,0,0,46,Churned,Technical issues
+CUST_2460,20,Male,Latin America,2021-06-02,Standard,14.24,Credit Card,No,Monthly,6.4,Thriller,1,4,4,2,1,60,Churned,Payment issues
+CUST_2461,28,Female,Asia Pacific,2024-07-02,Standard,13.92,PayPal,Yes,Monthly,8.6,Thriller,3,6,5,1,1,48,Active,Not Churned
+CUST_2462,18,Male,Latin America,2022-12-30,Standard,13.7,Direct Debit,Yes,Monthly,15.7,Thriller,5,13,6,0,0,0,Active,Not Churned
+CUST_2463,49,Female,Asia Pacific,2024-12-18,Basic,7.8,Direct Debit,Yes,Monthly,15.2,Comedy,7,9,8,1,0,24,Churned,Lack of content
+CUST_2464,37,Male,North America,2021-08-20,Standard,13.75,Credit Card,Yes,Monthly,17.8,Thriller,7,14,9,1,1,8,Active,Not Churned
+CUST_2465,29,Male,Asia Pacific,2025-04-02,Premium,19.7,Digital Wallet,Yes,Annual,10.3,Thriller,5,4,6,1,0,48,Active,Not Churned
+CUST_2466,19,Female,Europe,2025-06-04,Basic,8.07,Credit Card,Yes,Annual,11.7,Family,7,8,4,1,0,39,Active,Not Churned
+CUST_2467,20,Female,Asia Pacific,2025-02-28,Premium,21.03,Credit Card,Yes,Annual,12.2,Family,6,9,7,0,0,35,Active,Not Churned
+CUST_2468,39,Female,Middle East & Africa,2021-06-25,Standard,13.66,PayPal,No,Monthly,12.0,Comedy,5,13,6,2,2,25,Active,Not Churned
+CUST_2469,22,Male,Europe,2022-07-05,Premium,19.85,PayPal,No,Monthly,12.2,Drama,6,9,7,0,2,44,Active,Not Churned
+CUST_2470,35,Female,Asia Pacific,2021-05-23,Premium,19.97,Direct Debit,Yes,Monthly,15.7,Drama,7,7,10,0,0,43,Active,Not Churned
+CUST_2471,56,Male,Europe,2021-01-17,Standard,13.68,PayPal,Yes,Monthly,9.5,Sci-Fi,3,3,5,1,1,43,Churned,Too expensive
+CUST_2472,30,Male,North America,2021-09-06,Standard,14.48,PayPal,Yes,Monthly,20.6,Thriller,2,15,8,2,1,13,Churned,Low usage
+CUST_2473,23,Male,Asia Pacific,2023-11-25,Premium,18.92,PayPal,Yes,Monthly,22.2,Documentary,1,17,8,1,2,21,Active,Not Churned
+CUST_2474,38,Female,Asia Pacific,2023-03-12,Standard,13.75,PayPal,Yes,Monthly,15.5,Thriller,4,12,9,1,1,45,Active,Not Churned
+CUST_2475,21,Female,Europe,2023-09-27,Basic,8.36,Digital Wallet,Yes,Monthly,18.0,Comedy,6,14,9,2,2,44,Active,Not Churned
+CUST_2476,53,Male,Europe,2023-09-26,Standard,13.86,Carrier Billing,Yes,Monthly,6.9,Drama,4,9,6,1,2,45,Churned,Switched to competitor
+CUST_2477,49,Female,Latin America,2021-05-26,Premium,19.62,PayPal,No,Monthly,22.6,Action,7,15,6,2,1,19,Churned,Technical issues
+CUST_2478,32,Male,North America,2023-07-15,Standard,14.19,Credit Card,Yes,Monthly,14.9,Anime,5,13,9,0,2,36,Active,Not Churned
+CUST_2479,24,Male,Europe,2022-12-28,Premium,20.4,Digital Wallet,Yes,Annual,11.2,Thriller,2,5,5,0,0,39,Active,Not Churned
+CUST_2480,29,Female,Latin America,2021-06-14,Standard,14.08,Credit Card,No,Monthly,9.3,Thriller,6,6,3,1,1,39,Churned,Too expensive
+CUST_2481,31,Female,Middle East & Africa,2024-02-09,Premium,19.63,Credit Card,Yes,Monthly,25.9,Sci-Fi,1,14,10,1,0,5,Active,Not Churned
+CUST_2482,38,Female,Europe,2022-10-09,Basic,8.2,Credit Card,Yes,Monthly,16.4,Family,6,12,9,1,1,31,Active,Not Churned
+CUST_2483,45,Female,Middle East & Africa,2024-01-03,Standard,13.81,Credit Card,Yes,Monthly,11.9,Drama,1,9,7,0,0,27,Active,Not Churned
+CUST_2484,23,Male,North America,2022-10-30,Basic,8.33,Carrier Billing,No,Annual,5.4,Sci-Fi,4,5,0,1,4,58,Active,Not Churned
+CUST_2485,45,Female,North America,2025-10-17,Basic,8.66,PayPal,Yes,Annual,20.1,Drama,4,15,9,0,0,0,Active,Not Churned
+CUST_2486,41,Female,Latin America,2021-12-20,Standard,12.82,Digital Wallet,No,Monthly,7.9,Drama,4,5,5,0,0,44,Churned,Switched to competitor
+CUST_2487,28,Male,Middle East & Africa,2024-07-21,Standard,14.04,Credit Card,Yes,Monthly,10.8,Family,1,8,5,0,4,28,Churned,Lack of content
+CUST_2488,22,Female,North America,2023-08-01,Standard,13.21,PayPal,Yes,Annual,11.9,Thriller,6,6,8,2,0,53,Active,Not Churned
+CUST_2489,35,Female,North America,2024-07-26,Standard,15.09,Digital Wallet,Yes,Monthly,9.3,Action,4,11,4,2,1,39,Churned,Too expensive
+CUST_2490,22,Male,North America,2025-08-11,Standard,13.78,Carrier Billing,Yes,Annual,11.7,Drama,1,8,1,2,0,37,Active,Not Churned
+CUST_2491,45,Other,Europe,2023-11-21,Basic,8.33,Direct Debit,No,Monthly,11.1,Drama,5,8,5,0,1,43,Active,Not Churned
+CUST_2492,22,Male,Latin America,2022-06-10,Standard,13.97,Credit Card,Yes,Monthly,11.6,Action,7,13,6,0,1,18,Active,Not Churned
+CUST_2493,40,Female,Asia Pacific,2025-04-08,Basic,7.63,Direct Debit,Yes,Annual,13.0,Documentary,7,7,6,0,0,38,Active,Not Churned
+CUST_2494,33,Male,Asia Pacific,2022-05-25,Basic,7.58,PayPal,Yes,Annual,23.4,Sci-Fi,7,14,13,1,1,32,Active,Not Churned
+CUST_2495,28,Female,Asia Pacific,2025-03-18,Standard,14.7,PayPal,No,Annual,7.0,Sci-Fi,6,4,0,2,0,24,Active,Not Churned
+CUST_2496,33,Female,Middle East & Africa,2021-06-27,Standard,14.42,Direct Debit,Yes,Monthly,13.6,Drama,6,10,6,1,1,32,Active,Not Churned
+CUST_2497,46,Male,North America,2021-11-25,Standard,14.86,Direct Debit,No,Monthly,7.9,Drama,6,8,2,0,4,48,Churned,Low usage
+CUST_2498,21,Male,Asia Pacific,2025-05-14,Standard,14.01,Direct Debit,Yes,Annual,6.8,Comedy,2,8,1,1,0,35,Churned,Switched to competitor
+CUST_2499,29,Female,Middle East & Africa,2023-03-12,Standard,14.12,Direct Debit,Yes,Monthly,18.8,Thriller,4,19,8,0,0,19,Active,Not Churned
+CUST_2500,26,Female,North America,2022-11-19,Premium,19.87,Credit Card,Yes,Monthly,15.6,Family,1,7,8,2,0,33,Active,Not Churned
